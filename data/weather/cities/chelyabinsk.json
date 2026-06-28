@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 19.0,
-    "feels_like": 18.4,
-    "humidity": 59,
-    "precipitation_mm": 0.0,
+    "temperature": 16.3,
+    "feels_like": 15.7,
+    "humidity": 75,
+    "precipitation_mm": 0.2,
     "pressure_hpa": 1004.0,
-    "wind_speed_ms": 1.5,
-    "wind_direction_deg": 11,
-    "wind_direction_text": "С",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "wind_speed_ms": 2.2,
+    "wind_direction_deg": 330,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 61,
+    "description": "Небольшой дождь"
   },
   "hourly": [
     {
@@ -151,15 +151,15 @@
     },
     {
       "time": "2026-06-28T22:00",
-      "temp": 18.7,
+      "temp": 18.2,
       "precip_prob": 43,
       "weather_code": 3
     },
     {
       "time": "2026-06-28T23:00",
-      "temp": 17.6,
+      "temp": 16.6,
       "precip_prob": 55,
-      "weather_code": 3
+      "weather_code": 80
     }
   ],
   "forecast_7d": [
@@ -167,26 +167,26 @@
       "date": "2026-06-28",
       "temp_max": 21.3,
       "temp_min": 15.1,
-      "precipitation_mm": 0.8,
+      "precipitation_mm": 1.2,
       "wind_max_ms": 2.6,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-06-29",
-      "temp_max": 16.3,
-      "temp_min": 12.7,
-      "precipitation_mm": 21.1,
-      "wind_max_ms": 5.0,
-      "weather_code": 63,
-      "description": "Дождь"
+      "temp_max": 15.4,
+      "temp_min": 13.7,
+      "precipitation_mm": 13.5,
+      "wind_max_ms": 4.5,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-06-30",
       "temp_max": 23.1,
       "temp_min": 10.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.9,
+      "wind_max_ms": 4.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-06-28T16:38:00.357057+00:00"
+  "fetched_at": "2026-06-28T18:18:51.102736+00:00"
 }
