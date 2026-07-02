@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 19.0,
-    "feels_like": 20.0,
-    "humidity": 82,
-    "precipitation_mm": 0.1,
-    "pressure_hpa": 1005.0,
-    "wind_speed_ms": 1.9,
-    "wind_direction_deg": 39,
-    "wind_direction_text": "СВ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "temperature": 17.3,
+    "feels_like": 18.4,
+    "humidity": 92,
+    "precipitation_mm": 0.0,
+    "pressure_hpa": 1004.0,
+    "wind_speed_ms": 1.7,
+    "wind_direction_deg": 353,
+    "wind_direction_text": "С",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -121,45 +121,45 @@
     },
     {
       "time": "2026-07-02T17:00",
-      "temp": 21.2,
+      "temp": 20.5,
       "precip_prob": 48,
       "weather_code": 80
     },
     {
       "time": "2026-07-02T18:00",
-      "temp": 20.6,
+      "temp": 20.3,
       "precip_prob": 43,
       "weather_code": 80
     },
     {
       "time": "2026-07-02T19:00",
-      "temp": 20.3,
+      "temp": 19.9,
       "precip_prob": 35,
-      "weather_code": 80
+      "weather_code": 3
     },
     {
       "time": "2026-07-02T20:00",
       "temp": 19.2,
       "precip_prob": 30,
-      "weather_code": 80
-    },
-    {
-      "time": "2026-07-02T21:00",
-      "temp": 18.9,
-      "precip_prob": 10,
       "weather_code": 3
     },
     {
+      "time": "2026-07-02T21:00",
+      "temp": 18.7,
+      "precip_prob": 10,
+      "weather_code": 1
+    },
+    {
       "time": "2026-07-02T22:00",
-      "temp": 18.2,
+      "temp": 18.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-02T23:00",
       "temp": 17.3,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
@@ -167,65 +167,65 @@
       "date": "2026-07-02",
       "temp_max": 22.7,
       "temp_min": 14.8,
-      "precipitation_mm": 2.5,
+      "precipitation_mm": 1.4,
       "wind_max_ms": 2.8,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-03",
-      "temp_max": 23.2,
-      "temp_min": 16.1,
-      "precipitation_mm": 2.8,
-      "wind_max_ms": 3.9,
+      "temp_max": 22.8,
+      "temp_min": 16.2,
+      "precipitation_mm": 3.1,
+      "wind_max_ms": 3.8,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-04",
-      "temp_max": 25.7,
-      "temp_min": 15.8,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 3.9,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 26.1,
+      "temp_min": 15.9,
+      "precipitation_mm": 0.5,
+      "wind_max_ms": 4.0,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-07-05",
-      "temp_max": 28.7,
-      "temp_min": 17.3,
+      "temp_max": 28.5,
+      "temp_min": 17.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.9,
+      "wind_max_ms": 2.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-06",
-      "temp_max": 31.2,
-      "temp_min": 20.7,
+      "temp_max": 31.0,
+      "temp_min": 19.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 2.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-07",
-      "temp_max": 29.6,
-      "temp_min": 20.8,
-      "precipitation_mm": 3.6,
-      "wind_max_ms": 3.7,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 31.9,
+      "temp_min": 20.2,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 3.5,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-08",
-      "temp_max": 24.6,
-      "temp_min": 20.5,
-      "precipitation_mm": 15.6,
-      "wind_max_ms": 1.6,
+      "temp_max": 28.1,
+      "temp_min": 21.6,
+      "precipitation_mm": 3.6,
+      "wind_max_ms": 2.1,
       "weather_code": 80,
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-02T15:33:39.140185+00:00"
+  "fetched_at": "2026-07-02T18:03:04.991051+00:00"
 }
