@@ -5,16 +5,16 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 20.1,
-    "feels_like": 19.1,
+    "temperature": 20.6,
+    "feels_like": 19.8,
     "humidity": 61,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1008.0,
-    "wind_speed_ms": 3.3,
-    "wind_direction_deg": 85,
+    "wind_speed_ms": 3.0,
+    "wind_direction_deg": 82,
     "wind_direction_text": "В",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -140,25 +140,25 @@
     {
       "time": "2026-07-03T20:00",
       "temp": 31.7,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-03T21:00",
       "temp": 30.8,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-03T22:00",
       "temp": 28.5,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-03T23:00",
       "temp": 26.5,
-      "precip_prob": 0,
+      "precip_prob": 1,
       "weather_code": 3
     }
   ],
@@ -186,7 +186,7 @@
       "temp_max": 31.7,
       "temp_min": 20.9,
       "precipitation_mm": 0.4,
-      "wind_max_ms": 3.4,
+      "wind_max_ms": 3.0,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -195,7 +195,7 @@
       "temp_max": 29.1,
       "temp_min": 21.6,
       "precipitation_mm": 1.4,
-      "wind_max_ms": 2.6,
+      "wind_max_ms": 3.5,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -204,7 +204,7 @@
       "temp_max": 28.3,
       "temp_min": 21.4,
       "precipitation_mm": 0.6,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 4.4,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -213,7 +213,7 @@
       "temp_max": 25.2,
       "temp_min": 15.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.8,
+      "wind_max_ms": 4.0,
       "weather_code": 0,
       "description": "Ясно"
     },
@@ -222,10 +222,10 @@
       "temp_max": 28.3,
       "temp_min": 16.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.3,
+      "wind_max_ms": 3.0,
       "weather_code": 0,
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-07-02T21:34:57.477261+00:00"
+  "fetched_at": "2026-07-02T23:31:09.778537+00:00"
 }
