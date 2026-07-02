@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 26.1,
-    "feels_like": 25.7,
-    "humidity": 46,
+    "temperature": 26.7,
+    "feels_like": 25.5,
+    "humidity": 42,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 4.8,
-    "wind_direction_deg": 1,
-    "wind_direction_text": "С",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 4.1,
+    "wind_direction_deg": 347,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -79,45 +79,45 @@
     },
     {
       "time": "2026-07-02T10:00",
-      "temp": 22.8,
+      "temp": 23.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-02T11:00",
-      "temp": 24.1,
+      "temp": 24.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-02T12:00",
-      "temp": 25.0,
+      "temp": 25.5,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-02T13:00",
-      "temp": 25.8,
+      "temp": 26.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-02T14:00",
-      "temp": 26.3,
-      "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
-      "time": "2026-07-02T15:00",
       "temp": 26.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
-      "time": "2026-07-02T16:00",
-      "temp": 26.6,
+      "time": "2026-07-02T15:00",
+      "temp": 26.8,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
+    },
+    {
+      "time": "2026-07-02T16:00",
+      "temp": 26.8,
+      "precip_prob": 0,
+      "weather_code": 1
     },
     {
       "time": "2026-07-02T17:00",
@@ -129,13 +129,13 @@
       "time": "2026-07-02T18:00",
       "temp": 26.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-02T19:00",
       "temp": 25.3,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-02T20:00",
@@ -145,9 +145,9 @@
     },
     {
       "time": "2026-07-02T21:00",
-      "temp": 22.3,
+      "temp": 22.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-02T22:00",
@@ -157,61 +157,61 @@
     },
     {
       "time": "2026-07-02T23:00",
-      "temp": 19.7,
+      "temp": 19.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-07-02",
-      "temp_max": 26.6,
+      "temp_max": 26.8,
       "temp_min": 17.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 5.0,
+      "wind_max_ms": 4.8,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-07-03",
       "temp_max": 28.0,
-      "temp_min": 16.4,
+      "temp_min": 17.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 2.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-04",
-      "temp_max": 30.4,
-      "temp_min": 19.3,
-      "precipitation_mm": 0.1,
+      "temp_max": 31.4,
+      "temp_min": 19.8,
+      "precipitation_mm": 0.0,
       "wind_max_ms": 2.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-05",
-      "temp_max": 31.9,
-      "temp_min": 20.8,
+      "temp_max": 32.4,
+      "temp_min": 21.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.0,
+      "wind_max_ms": 4.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-06",
-      "temp_max": 27.8,
-      "temp_min": 22.3,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 3.2,
+      "temp_max": 25.9,
+      "temp_min": 21.9,
+      "precipitation_mm": 0.3,
+      "wind_max_ms": 3.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-07",
       "temp_max": 28.9,
-      "temp_min": 20.0,
+      "temp_min": 19.2,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.4,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-02T09:35:39.733636+00:00"
+  "fetched_at": "2026-07-02T12:21:59.740497+00:00"
 }
