@@ -5,16 +5,16 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 32.7,
-    "feels_like": 31.7,
-    "humidity": 22,
+    "temperature": 29.3,
+    "feels_like": 28.3,
+    "humidity": 30,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1002.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 139,
-    "wind_direction_text": "ЮВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1003.0,
+    "wind_speed_ms": 2.0,
+    "wind_direction_deg": 255,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-07-04T18:00",
-      "temp": 33.7,
+      "temp": 33.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-04T19:00",
-      "temp": 33.1,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-07-04T20:00",
-      "temp": 31.5,
+      "temp": 33.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
-      "time": "2026-07-04T21:00",
-      "temp": 29.9,
+      "time": "2026-07-04T20:00",
+      "temp": 31.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 3
+    },
+    {
+      "time": "2026-07-04T21:00",
+      "temp": 29.3,
+      "precip_prob": 0,
+      "weather_code": 3
     },
     {
       "time": "2026-07-04T22:00",
-      "temp": 27.5,
+      "temp": 28.2,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-04T23:00",
-      "temp": 26.6,
+      "temp": 27.3,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -168,15 +168,15 @@
       "temp_max": 34.2,
       "temp_min": 21.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.6,
+      "wind_max_ms": 3.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-05",
-      "temp_max": 29.7,
-      "temp_min": 22.5,
-      "precipitation_mm": 1.1,
+      "temp_max": 29.8,
+      "temp_min": 22.6,
+      "precipitation_mm": 1.0,
       "wind_max_ms": 4.9,
       "weather_code": 80,
       "description": "Ливень"
@@ -213,7 +213,7 @@
       "temp_max": 35.6,
       "temp_min": 22.8,
       "precipitation_mm": 0.2,
-      "wind_max_ms": 4.2,
+      "wind_max_ms": 4.3,
       "weather_code": 80,
       "description": "Ливень"
     },
@@ -222,10 +222,10 @@
       "temp_max": 29.5,
       "temp_min": 20.6,
       "precipitation_mm": 3.4,
-      "wind_max_ms": 4.4,
+      "wind_max_ms": 5.9,
       "weather_code": 80,
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-04T16:16:53.345612+00:00"
+  "fetched_at": "2026-07-04T18:14:22.967909+00:00"
 }

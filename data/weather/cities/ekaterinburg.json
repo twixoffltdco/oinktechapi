@@ -5,16 +5,16 @@
   "longitude": 60.6122,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 22.3,
-    "feels_like": 23.5,
-    "humidity": 64,
+    "temperature": 20.3,
+    "feels_like": 21.4,
+    "humidity": 72,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1004.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 283,
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 1.1,
+    "wind_direction_deg": 292,
     "wind_direction_text": "ЗСЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -139,25 +139,25 @@
     },
     {
       "time": "2026-07-04T20:00",
-      "temp": 23.9,
+      "temp": 24.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-04T21:00",
-      "temp": 22.6,
+      "temp": 23.1,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-04T22:00",
-      "temp": 21.2,
+      "temp": 21.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-04T23:00",
-      "temp": 20.0,
+      "temp": 20.3,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-07-05",
-      "temp_max": 27.2,
-      "temp_min": 16.9,
+      "temp_max": 27.4,
+      "temp_min": 17.3,
       "precipitation_mm": 0.0,
       "wind_max_ms": 1.7,
       "weather_code": 3,
@@ -213,7 +213,7 @@
       "temp_max": 24.8,
       "temp_min": 20.3,
       "precipitation_mm": 26.4,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 2.4,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -222,10 +222,10 @@
       "temp_max": 28.3,
       "temp_min": 20.3,
       "precipitation_mm": 4.5,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 3.7,
       "weather_code": 80,
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-04T16:16:30.545759+00:00"
+  "fetched_at": "2026-07-04T18:14:00.437489+00:00"
 }
