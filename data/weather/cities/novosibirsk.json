@@ -5,14 +5,14 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 20.7,
-    "feels_like": 22.9,
-    "humidity": 83,
+    "temperature": 23.2,
+    "feels_like": 25.9,
+    "humidity": 72,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 336,
-    "wind_direction_text": "ССЗ",
+    "wind_speed_ms": 0.2,
+    "wind_direction_deg": 349,
+    "wind_direction_text": "С",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -20,7 +20,7 @@
     {
       "time": "2026-07-07T00:00",
       "temp": 22.9,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
@@ -45,7 +45,7 @@
       "time": "2026-07-07T04:00",
       "temp": 21.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-07T05:00",
@@ -86,25 +86,25 @@
     {
       "time": "2026-07-07T11:00",
       "temp": 27.9,
-      "precip_prob": 2,
+      "precip_prob": 4,
       "weather_code": 3
     },
     {
       "time": "2026-07-07T12:00",
       "temp": 28.4,
-      "precip_prob": 6,
+      "precip_prob": 9,
       "weather_code": 3
     },
     {
       "time": "2026-07-07T13:00",
       "temp": 29.1,
-      "precip_prob": 12,
+      "precip_prob": 16,
       "weather_code": 3
     },
     {
       "time": "2026-07-07T14:00",
       "temp": 29.6,
-      "precip_prob": 22,
+      "precip_prob": 25,
       "weather_code": 51
     },
     {
@@ -116,44 +116,44 @@
     {
       "time": "2026-07-07T16:00",
       "temp": 29.4,
-      "precip_prob": 43,
+      "precip_prob": 41,
       "weather_code": 51
     },
     {
       "time": "2026-07-07T17:00",
       "temp": 29.0,
-      "precip_prob": 50,
+      "precip_prob": 44,
       "weather_code": 51
     },
     {
       "time": "2026-07-07T18:00",
       "temp": 28.9,
-      "precip_prob": 55,
+      "precip_prob": 43,
       "weather_code": 3
     },
     {
       "time": "2026-07-07T19:00",
       "temp": 27.7,
-      "precip_prob": 53,
+      "precip_prob": 39,
       "weather_code": 3
     },
     {
       "time": "2026-07-07T20:00",
       "temp": 27.1,
-      "precip_prob": 39,
-      "weather_code": 3
+      "precip_prob": 28,
+      "weather_code": 2
     },
     {
       "time": "2026-07-07T21:00",
       "temp": 26.3,
-      "precip_prob": 18,
-      "weather_code": 3
+      "precip_prob": 13,
+      "weather_code": 2
     },
     {
       "time": "2026-07-07T22:00",
       "temp": 25.2,
       "precip_prob": 2,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-07T23:00",
@@ -187,8 +187,8 @@
       "temp_min": 15.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.9,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-07-10",
@@ -214,8 +214,8 @@
       "temp_min": 16.3,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.5,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "weather_code": 1,
+      "description": "Преимущественно ясно"
     },
     {
       "date": "2026-07-13",
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-06T22:40:08.640005+00:00"
+  "fetched_at": "2026-07-07T01:09:23.136695+00:00"
 }
