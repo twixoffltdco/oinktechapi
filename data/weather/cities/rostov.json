@@ -5,16 +5,16 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 23.2,
-    "feels_like": 24.1,
-    "humidity": 70,
+    "temperature": 21.8,
+    "feels_like": 23.6,
+    "humidity": 81,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 3.3,
-    "wind_direction_deg": 250,
+    "wind_speed_ms": 2.4,
+    "wind_direction_deg": 251,
     "wind_direction_text": "ЗЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-07-12T18:00",
-      "temp": 26.0,
+      "temp": 26.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-12T19:00",
-      "temp": 24.8,
+      "temp": 25.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-12T20:00",
-      "temp": 23.5,
+      "temp": 23.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-12T21:00",
-      "temp": 22.5,
+      "temp": 22.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-12T22:00",
-      "temp": 21.8,
+      "temp": 22.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-12T23:00",
-      "temp": 21.5,
+      "temp": 21.7,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -175,11 +175,11 @@
     {
       "date": "2026-07-13",
       "temp_max": 29.5,
-      "temp_min": 17.8,
+      "temp_min": 17.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.2,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 4.6,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-07-14",
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-12T17:26:53.846942+00:00"
+  "fetched_at": "2026-07-12T19:33:06.762045+00:00"
 }
