@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 19.5,
-    "feels_like": 22.5,
-    "humidity": 93,
-    "precipitation_mm": 0.0,
+    "temperature": 20.9,
+    "feels_like": 23.2,
+    "humidity": 84,
+    "precipitation_mm": 0.1,
     "pressure_hpa": 1007.0,
-    "wind_speed_ms": 0.2,
-    "wind_direction_deg": 270,
-    "wind_direction_text": "З",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 222,
+    "wind_direction_text": "ЮЗ",
+    "weather_code": 80,
+    "description": "Ливень"
   },
   "hourly": [
     {
@@ -61,103 +61,103 @@
     },
     {
       "time": "2026-07-12T07:00",
-      "temp": 18.9,
+      "temp": 18.8,
       "precip_prob": 23,
       "weather_code": 45
     },
     {
       "time": "2026-07-12T08:00",
-      "temp": 19.5,
+      "temp": 19.4,
       "precip_prob": 18,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T09:00",
-      "temp": 20.1,
+      "temp": 20.3,
       "precip_prob": 23,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T10:00",
-      "temp": 20.8,
+      "temp": 21.1,
       "precip_prob": 25,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T11:00",
-      "temp": 20.8,
+      "temp": 20.7,
       "precip_prob": 33,
       "weather_code": 80
     },
     {
       "time": "2026-07-12T12:00",
-      "temp": 21.5,
+      "temp": 20.3,
       "precip_prob": 28,
-      "weather_code": 3
+      "weather_code": 80
     },
     {
       "time": "2026-07-12T13:00",
-      "temp": 22.5,
+      "temp": 21.7,
       "precip_prob": 30,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T14:00",
-      "temp": 23.1,
+      "temp": 22.1,
       "precip_prob": 35,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T15:00",
-      "temp": 23.1,
+      "temp": 22.5,
       "precip_prob": 28,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-07-12T16:00",
-      "temp": 22.7,
-      "precip_prob": 15,
-      "weather_code": 80
-    },
-    {
-      "time": "2026-07-12T17:00",
-      "temp": 23.4,
-      "precip_prob": 15,
       "weather_code": 2
     },
     {
+      "time": "2026-07-12T16:00",
+      "temp": 22.8,
+      "precip_prob": 15,
+      "weather_code": 3
+    },
+    {
+      "time": "2026-07-12T17:00",
+      "temp": 23.1,
+      "precip_prob": 15,
+      "weather_code": 1
+    },
+    {
       "time": "2026-07-12T18:00",
-      "temp": 23.5,
+      "temp": 23.2,
       "precip_prob": 8,
       "weather_code": 1
     },
     {
       "time": "2026-07-12T19:00",
-      "temp": 23.2,
+      "temp": 22.9,
       "precip_prob": 5,
       "weather_code": 1
     },
     {
       "time": "2026-07-12T20:00",
-      "temp": 22.4,
+      "temp": 22.5,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T21:00",
-      "temp": 21.2,
+      "temp": 21.0,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-12T22:00",
-      "temp": 20.2,
+      "temp": 19.9,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-07-12T23:00",
-      "temp": 19.3,
+      "temp": 19.2,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,18 +165,18 @@
   "forecast_7d": [
     {
       "date": "2026-07-12",
-      "temp_max": 23.5,
+      "temp_max": 23.2,
       "temp_min": 18.1,
-      "precipitation_mm": 1.4,
-      "wind_max_ms": 1.5,
+      "precipitation_mm": 1.5,
+      "wind_max_ms": 1.4,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-13",
       "temp_max": 24.4,
-      "temp_min": 18.2,
-      "precipitation_mm": 6.6,
+      "temp_min": 17.8,
+      "precipitation_mm": 9.3,
       "wind_max_ms": 3.3,
       "weather_code": 95,
       "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-07-12T04:03:16.429965+00:00"
+  "fetched_at": "2026-07-12T06:47:31.302566+00:00"
 }
