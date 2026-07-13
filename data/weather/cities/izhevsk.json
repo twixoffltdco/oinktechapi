@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 21.1,
-    "feels_like": 23.4,
-    "humidity": 80,
+    "temperature": 18.4,
+    "feels_like": 20.6,
+    "humidity": 94,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 0.7,
-    "wind_direction_deg": 180,
-    "wind_direction_text": "Ю",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 77,
+    "wind_direction_text": "ВСВ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -133,33 +133,33 @@
     },
     {
       "time": "2026-07-13T19:00",
-      "temp": 22.8,
+      "temp": 22.5,
       "precip_prob": 33,
       "weather_code": 2
     },
     {
       "time": "2026-07-13T20:00",
-      "temp": 22.2,
+      "temp": 22.4,
       "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-07-13T21:00",
-      "temp": 21.4,
+      "temp": 21.7,
       "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-07-13T22:00",
-      "temp": 20.2,
+      "temp": 20.5,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-13T23:00",
       "temp": 19.2,
       "precip_prob": 3,
-      "weather_code": 1
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
@@ -174,18 +174,18 @@
     },
     {
       "date": "2026-07-14",
-      "temp_max": 23.6,
-      "temp_min": 16.5,
-      "precipitation_mm": 12.7,
+      "temp_max": 24.6,
+      "temp_min": 16.0,
+      "precipitation_mm": 8.4,
       "wind_max_ms": 2.8,
-      "weather_code": 81,
-      "description": "Сильный ливень"
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-07-15",
       "temp_max": 20.0,
       "temp_min": 17.0,
-      "precipitation_mm": 16.2,
+      "precipitation_mm": 18.0,
       "wind_max_ms": 3.1,
       "weather_code": 95,
       "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-13T17:24:52.946201+00:00"
+  "fetched_at": "2026-07-13T19:52:01.143747+00:00"
 }
