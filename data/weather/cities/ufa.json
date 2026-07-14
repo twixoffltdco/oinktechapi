@@ -5,16 +5,16 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 23.6,
-    "feels_like": 25.3,
-    "humidity": 69,
+    "temperature": 21.5,
+    "feels_like": 22.1,
+    "humidity": 70,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1006.0,
-    "wind_speed_ms": 1.9,
-    "wind_direction_deg": 148,
-    "wind_direction_text": "ЮЮВ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "pressure_hpa": 1005.0,
+    "wind_speed_ms": 2.8,
+    "wind_direction_deg": 123,
+    "wind_direction_text": "ВЮВ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -139,27 +139,27 @@
     },
     {
       "time": "2026-07-14T20:00",
-      "temp": 25.1,
+      "temp": 24.5,
       "precip_prob": 10,
       "weather_code": 2
     },
     {
       "time": "2026-07-14T21:00",
-      "temp": 24.3,
+      "temp": 23.8,
       "precip_prob": 5,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-14T22:00",
-      "temp": 22.9,
+      "temp": 22.6,
       "precip_prob": 23,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T23:00",
-      "temp": 21.9,
+      "temp": 21.7,
       "precip_prob": 28,
-      "weather_code": 80
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
@@ -167,19 +167,19 @@
       "date": "2026-07-14",
       "temp_max": 26.9,
       "temp_min": 16.9,
-      "precipitation_mm": 1.9,
+      "precipitation_mm": 2.0,
       "wind_max_ms": 4.0,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-15",
-      "temp_max": 25.7,
-      "temp_min": 18.3,
-      "precipitation_mm": 2.8,
-      "wind_max_ms": 4.2,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 24.5,
+      "temp_min": 17.8,
+      "precipitation_mm": 4.6,
+      "wind_max_ms": 3.9,
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-07-16",
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-14T16:39:36.710469+00:00"
+  "fetched_at": "2026-07-14T18:17:48.555919+00:00"
 }
