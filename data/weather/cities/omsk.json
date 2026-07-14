@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 21.5,
-    "feels_like": 22.3,
-    "humidity": 70,
+    "temperature": 19.1,
+    "feels_like": 18.9,
+    "humidity": 75,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.9,
-    "wind_direction_deg": 64,
+    "pressure_hpa": 1011.0,
+    "wind_speed_ms": 3.4,
+    "wind_direction_deg": 72,
     "wind_direction_text": "ВСВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -116,49 +116,49 @@
     {
       "time": "2026-07-14T16:00",
       "temp": 24.4,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 0
     },
     {
       "time": "2026-07-14T17:00",
       "temp": 24.3,
-      "precip_prob": 0,
+      "precip_prob": 8,
       "weather_code": 2
     },
     {
       "time": "2026-07-14T18:00",
       "temp": 23.8,
-      "precip_prob": 0,
+      "precip_prob": 14,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T19:00",
       "temp": 21.9,
-      "precip_prob": 2,
+      "precip_prob": 25,
       "weather_code": 55
     },
     {
       "time": "2026-07-14T20:00",
       "temp": 21.7,
-      "precip_prob": 6,
+      "precip_prob": 37,
       "weather_code": 2
     },
     {
       "time": "2026-07-14T21:00",
       "temp": 20.7,
-      "precip_prob": 8,
+      "precip_prob": 43,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T22:00",
       "temp": 19.5,
-      "precip_prob": 9,
+      "precip_prob": 35,
       "weather_code": 3
     },
     {
       "time": "2026-07-14T23:00",
       "temp": 18.9,
-      "precip_prob": 8,
+      "precip_prob": 19,
       "weather_code": 3
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-14T14:15:36.768334+00:00"
+  "fetched_at": "2026-07-14T16:39:35.418883+00:00"
 }
