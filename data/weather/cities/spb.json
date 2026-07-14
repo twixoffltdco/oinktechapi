@@ -5,16 +5,16 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 22.3,
-    "feels_like": 21.6,
-    "humidity": 50,
+    "temperature": 22.6,
+    "feels_like": 20.7,
+    "humidity": 46,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1018.0,
-    "wind_speed_ms": 3.4,
-    "wind_direction_deg": 14,
+    "wind_speed_ms": 3.9,
+    "wind_direction_deg": 25,
     "wind_direction_text": "ССВ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -109,55 +109,55 @@
     },
     {
       "time": "2026-07-14T15:00",
-      "temp": 22.5,
+      "temp": 22.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-14T16:00",
-      "temp": 22.8,
+      "temp": 22.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-14T17:00",
-      "temp": 23.0,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-07-14T18:00",
       "temp": 22.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
-      "time": "2026-07-14T19:00",
+      "time": "2026-07-14T18:00",
       "temp": 22.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
-      "time": "2026-07-14T20:00",
+      "time": "2026-07-14T19:00",
       "temp": 21.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
+      "time": "2026-07-14T20:00",
+      "temp": 21.4,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
       "time": "2026-07-14T21:00",
-      "temp": 21.6,
+      "temp": 21.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-14T22:00",
-      "temp": 21.0,
+      "temp": 20.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-14T23:00",
-      "temp": 19.9,
+      "temp": 19.8,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-07-14",
-      "temp_max": 23.0,
+      "temp_max": 22.7,
       "temp_min": 18.0,
       "precipitation_mm": 0.0,
       "wind_max_ms": 5.4,
@@ -174,58 +174,58 @@
     },
     {
       "date": "2026-07-15",
-      "temp_max": 24.6,
-      "temp_min": 17.9,
+      "temp_max": 24.5,
+      "temp_min": 17.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 5.9,
+      "wind_max_ms": 5.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-16",
       "temp_max": 21.2,
-      "temp_min": 16.9,
+      "temp_min": 17.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.7,
+      "wind_max_ms": 4.9,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-07-17",
       "temp_max": 24.4,
-      "temp_min": 13.8,
+      "temp_min": 14.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.6,
-      "weather_code": 45,
-      "description": "Туман"
+      "wind_max_ms": 2.2,
+      "weather_code": 1,
+      "description": "Преимущественно ясно"
     },
     {
       "date": "2026-07-18",
       "temp_max": 26.7,
-      "temp_min": 15.7,
+      "temp_min": 16.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.4,
+      "wind_max_ms": 3.9,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-19",
-      "temp_max": 20.9,
-      "temp_min": 18.2,
-      "precipitation_mm": 8.7,
-      "wind_max_ms": 4.8,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 24.0,
+      "temp_min": 17.3,
+      "precipitation_mm": 5.1,
+      "wind_max_ms": 3.6,
+      "weather_code": 55,
+      "description": "Сильная морось"
     },
     {
       "date": "2026-07-20",
-      "temp_max": 18.9,
-      "temp_min": 16.7,
-      "precipitation_mm": 0.0,
+      "temp_max": 20.7,
+      "temp_min": 17.0,
+      "precipitation_mm": 3.9,
       "wind_max_ms": 3.5,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 55,
+      "description": "Сильная морось"
     }
   ],
-  "fetched_at": "2026-07-14T11:46:21.613786+00:00"
+  "fetched_at": "2026-07-14T14:15:32.220986+00:00"
 }
