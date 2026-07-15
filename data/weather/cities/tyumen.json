@@ -5,16 +5,16 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 22.7,
-    "feels_like": 23.7,
-    "humidity": 61,
+    "temperature": 24.0,
+    "feels_like": 23.8,
+    "humidity": 55,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 99,
-    "wind_direction_text": "В",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1007.0,
+    "wind_speed_ms": 3.2,
+    "wind_direction_deg": 116,
+    "wind_direction_text": "ВЮВ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -49,39 +49,39 @@
     },
     {
       "time": "2026-07-15T05:00",
-      "temp": 16.4,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-07-15T06:00",
       "temp": 16.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
+      "time": "2026-07-15T06:00",
+      "temp": 17.0,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
       "time": "2026-07-15T07:00",
-      "temp": 17.3,
+      "temp": 17.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-15T08:00",
-      "temp": 18.5,
+      "temp": 19.1,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-15T09:00",
-      "temp": 19.9,
+      "temp": 20.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-15T10:00",
-      "temp": 21.1,
+      "temp": 22.2,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-07-15T11:00",
@@ -91,141 +91,141 @@
     },
     {
       "time": "2026-07-15T12:00",
-      "temp": 23.1,
+      "temp": 22.9,
       "precip_prob": 10,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-15T13:00",
-      "temp": 23.8,
+      "temp": 23.4,
       "precip_prob": 23,
       "weather_code": 2
     },
     {
       "time": "2026-07-15T14:00",
-      "temp": 23.6,
+      "temp": 24.0,
       "precip_prob": 33,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-07-15T15:00",
-      "temp": 23.9,
+      "temp": 23.7,
       "precip_prob": 37,
-      "weather_code": 51
+      "weather_code": 2
     },
     {
       "time": "2026-07-15T16:00",
-      "temp": 23.6,
+      "temp": 23.1,
       "precip_prob": 37,
-      "weather_code": 51
+      "weather_code": 3
     },
     {
       "time": "2026-07-15T17:00",
-      "temp": 23.6,
+      "temp": 22.8,
       "precip_prob": 35,
-      "weather_code": 3
+      "weather_code": 51
     },
     {
       "time": "2026-07-15T18:00",
       "temp": 22.8,
       "precip_prob": 29,
-      "weather_code": 3
+      "weather_code": 51
     },
     {
       "time": "2026-07-15T19:00",
-      "temp": 22.1,
+      "temp": 22.3,
       "precip_prob": 21,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-07-15T20:00",
-      "temp": 21.1,
+      "temp": 21.2,
       "precip_prob": 14,
-      "weather_code": 0
+      "weather_code": 2
     },
     {
       "time": "2026-07-15T21:00",
-      "temp": 19.9,
+      "temp": 20.0,
       "precip_prob": 9,
-      "weather_code": 0
+      "weather_code": 2
     },
     {
       "time": "2026-07-15T22:00",
-      "temp": 19.0,
+      "temp": 19.4,
       "precip_prob": 5,
       "weather_code": 2
     },
     {
       "time": "2026-07-15T23:00",
-      "temp": 18.3,
+      "temp": 19.2,
       "precip_prob": 4,
-      "weather_code": 3
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-07-15",
-      "temp_max": 23.9,
+      "temp_max": 24.0,
       "temp_min": 15.5,
       "precipitation_mm": 0.2,
-      "wind_max_ms": 4.0,
+      "wind_max_ms": 4.2,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-07-16",
-      "temp_max": 22.3,
-      "temp_min": 16.6,
-      "precipitation_mm": 25.8,
-      "wind_max_ms": 4.8,
+      "temp_max": 22.5,
+      "temp_min": 16.3,
+      "precipitation_mm": 15.0,
+      "wind_max_ms": 5.3,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-07-17",
-      "temp_max": 23.6,
-      "temp_min": 16.0,
-      "precipitation_mm": 4.8,
-      "wind_max_ms": 3.5,
+      "temp_max": 23.1,
+      "temp_min": 15.4,
+      "precipitation_mm": 3.7,
+      "wind_max_ms": 3.1,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-07-18",
-      "temp_max": 23.3,
+      "temp_max": 25.8,
       "temp_min": 15.6,
-      "precipitation_mm": 2.1,
-      "wind_max_ms": 2.4,
-      "weather_code": 51,
-      "description": "Лёгкая морось"
+      "precipitation_mm": 1.0,
+      "wind_max_ms": 2.8,
+      "weather_code": 53,
+      "description": "Морось"
     },
     {
       "date": "2026-07-19",
-      "temp_max": 25.0,
-      "temp_min": 17.2,
-      "precipitation_mm": 6.6,
-      "wind_max_ms": 3.7,
+      "temp_max": 23.6,
+      "temp_min": 17.5,
+      "precipitation_mm": 12.9,
+      "wind_max_ms": 4.0,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-07-20",
-      "temp_max": 26.1,
-      "temp_min": 17.5,
-      "precipitation_mm": 2.4,
-      "wind_max_ms": 5.5,
-      "weather_code": 53,
-      "description": "Морось"
+      "temp_max": 20.8,
+      "temp_min": 18.3,
+      "precipitation_mm": 14.7,
+      "wind_max_ms": 5.1,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-07-21",
-      "temp_max": 26.2,
-      "temp_min": 17.3,
-      "precipitation_mm": 3.6,
-      "wind_max_ms": 5.6,
-      "weather_code": 53,
-      "description": "Морось"
+      "temp_max": 26.1,
+      "temp_min": 17.5,
+      "precipitation_mm": 1.2,
+      "wind_max_ms": 5.8,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-15T06:29:55.408368+00:00"
+  "fetched_at": "2026-07-15T09:23:05.747924+00:00"
 }
