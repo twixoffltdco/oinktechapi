@@ -5,16 +5,16 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 17.3,
-    "feels_like": 14.6,
-    "humidity": 54,
+    "temperature": 15.9,
+    "feels_like": 13.8,
+    "humidity": 59,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 4.2,
-    "wind_direction_deg": 345,
+    "wind_speed_ms": 3.0,
+    "wind_direction_deg": 327,
     "wind_direction_text": "ССЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-07-17T18:00",
-      "temp": 19.5,
+      "temp": 19.2,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-17T19:00",
-      "temp": 18.9,
+      "temp": 18.8,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-17T20:00",
-      "temp": 17.9,
+      "temp": 17.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-17T21:00",
-      "temp": 16.7,
+      "temp": 16.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-17T22:00",
-      "temp": 16.2,
+      "temp": 16.0,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-17T23:00",
-      "temp": 15.9,
+      "temp": 15.8,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -166,7 +166,7 @@
     {
       "date": "2026-07-17",
       "temp_max": 23.2,
-      "temp_min": 15.9,
+      "temp_min": 15.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.8,
       "weather_code": 3,
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-07-18",
-      "temp_max": 25.6,
-      "temp_min": 15.4,
+      "temp_max": 25.5,
+      "temp_min": 15.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-17T17:32:35.013589+00:00"
+  "fetched_at": "2026-07-17T19:34:52.256885+00:00"
 }
