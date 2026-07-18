@@ -5,13 +5,13 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 23.1,
-    "feels_like": 22.3,
-    "humidity": 40,
+    "temperature": 20.5,
+    "feels_like": 20.3,
+    "humidity": 50,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 49,
+    "pressure_hpa": 1014.0,
+    "wind_speed_ms": 0.4,
+    "wind_direction_deg": 34,
     "wind_direction_text": "СВ",
     "weather_code": 0,
     "description": "Ясно"
@@ -147,13 +147,13 @@
       "time": "2026-07-18T21:00",
       "temp": 22.0,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-18T22:00",
-      "temp": 21.0,
+      "temp": 20.9,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-18T23:00",
@@ -175,11 +175,11 @@
     {
       "date": "2026-07-19",
       "temp_max": 30.4,
-      "temp_min": 14.8,
+      "temp_min": 14.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.5,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 1.7,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-07-20",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-18T17:16:31.598550+00:00"
+  "fetched_at": "2026-07-18T19:34:02.359327+00:00"
 }
