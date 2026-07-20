@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 26.2,
-    "feels_like": 27.6,
-    "humidity": 53,
+    "temperature": 23.4,
+    "feels_like": 24.8,
+    "humidity": 62,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 315,
-    "wind_direction_text": "СЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 1.0,
+    "wind_direction_deg": 349,
+    "wind_direction_text": "С",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-07-20T18:00",
-      "temp": 28.1,
+      "temp": 28.3,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T19:00",
-      "temp": 27.0,
+      "temp": 27.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T20:00",
-      "temp": 25.5,
+      "temp": 25.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T21:00",
-      "temp": 24.3,
+      "temp": 24.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-20T22:00",
-      "temp": 23.2,
+      "temp": 23.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-20T23:00",
-      "temp": 22.5,
+      "temp": 22.6,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-07-21",
-      "temp_max": 29.4,
-      "temp_min": 18.7,
+      "temp_max": 29.2,
+      "temp_min": 18.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 2.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-07-20T16:44:37.584023+00:00"
+  "fetched_at": "2026-07-20T19:08:39.398360+00:00"
 }
