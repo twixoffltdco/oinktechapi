@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 28.0,
-    "feels_like": 27.9,
-    "humidity": 41,
+    "temperature": 26.2,
+    "feels_like": 27.6,
+    "humidity": 53,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 335,
-    "wind_direction_text": "ССЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 1.1,
+    "wind_direction_deg": 315,
+    "wind_direction_text": "СЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -109,63 +109,63 @@
     },
     {
       "time": "2026-07-20T15:00",
-      "temp": 28.5,
+      "temp": 28.9,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-20T16:00",
-      "temp": 28.4,
+      "temp": 28.8,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-20T17:00",
-      "temp": 28.2,
+      "temp": 28.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T18:00",
-      "temp": 27.7,
+      "temp": 28.1,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-20T19:00",
-      "temp": 26.5,
+      "temp": 27.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T20:00",
-      "temp": 25.0,
+      "temp": 25.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T21:00",
-      "temp": 23.8,
+      "temp": 24.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-20T22:00",
-      "temp": 22.7,
+      "temp": 23.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-20T23:00",
-      "temp": 21.8,
+      "temp": 22.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-07-20",
-      "temp_max": 28.5,
+      "temp_max": 28.9,
       "temp_min": 17.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.8,
@@ -174,58 +174,58 @@
     },
     {
       "date": "2026-07-21",
-      "temp_max": 28.9,
-      "temp_min": 19.2,
+      "temp_max": 29.4,
+      "temp_min": 18.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.2,
+      "wind_max_ms": 2.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-22",
-      "temp_max": 29.8,
-      "temp_min": 20.5,
+      "temp_max": 29.6,
+      "temp_min": 20.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-23",
-      "temp_max": 29.7,
-      "temp_min": 21.5,
+      "temp_max": 28.6,
+      "temp_min": 21.2,
       "precipitation_mm": 1.6,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.4,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-24",
-      "temp_max": 31.3,
-      "temp_min": 22.9,
-      "precipitation_mm": 0.7,
-      "wind_max_ms": 4.0,
+      "temp_max": 31.6,
+      "temp_min": 20.3,
+      "precipitation_mm": 0.6,
+      "wind_max_ms": 4.6,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-07-25",
-      "temp_max": 27.9,
-      "temp_min": 20.4,
-      "precipitation_mm": 5.5,
-      "wind_max_ms": 2.6,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 29.1,
+      "temp_min": 20.3,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 4.3,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-26",
-      "temp_max": 25.2,
-      "temp_min": 19.4,
-      "precipitation_mm": 8.9,
-      "wind_max_ms": 3.7,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 28.4,
+      "temp_min": 18.1,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 2.2,
+      "weather_code": 45,
+      "description": "Туман"
     }
   ],
-  "fetched_at": "2026-07-20T14:34:24.987763+00:00"
+  "fetched_at": "2026-07-20T16:44:37.584023+00:00"
 }
