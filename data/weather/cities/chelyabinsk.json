@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 24.3,
-    "feels_like": 23.9,
-    "humidity": 47,
+    "temperature": 21.4,
+    "feels_like": 22.0,
+    "humidity": 64,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1007.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 360,
-    "wind_direction_text": "С",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1008.0,
+    "wind_speed_ms": 1.7,
+    "wind_direction_deg": 335,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -139,25 +139,25 @@
     },
     {
       "time": "2026-07-21T20:00",
-      "temp": 26.3,
+      "temp": 26.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-21T21:00",
-      "temp": 25.2,
+      "temp": 24.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-21T22:00",
-      "temp": 23.3,
+      "temp": 23.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-21T23:00",
-      "temp": 22.0,
+      "temp": 21.9,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,12 +174,12 @@
     },
     {
       "date": "2026-07-22",
-      "temp_max": 28.9,
+      "temp_max": 29.0,
       "temp_min": 18.2,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.6,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-23",
@@ -187,8 +187,8 @@
       "temp_min": 19.4,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.5,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-24",
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-21T16:44:05.086562+00:00"
+  "fetched_at": "2026-07-21T18:41:42.241921+00:00"
 }

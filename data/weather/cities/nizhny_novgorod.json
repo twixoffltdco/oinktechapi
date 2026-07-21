@@ -5,16 +5,16 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 26.4,
-    "feels_like": 27.9,
-    "humidity": 50,
+    "temperature": 22.9,
+    "feels_like": 24.5,
+    "humidity": 66,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1010.0,
-    "wind_speed_ms": 0.4,
-    "wind_direction_deg": 256,
-    "wind_direction_text": "ЗЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1011.0,
+    "wind_speed_ms": 1.0,
+    "wind_direction_deg": 180,
+    "wind_direction_text": "Ю",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -127,7 +127,7 @@
     },
     {
       "time": "2026-07-21T18:00",
-      "temp": 27.8,
+      "temp": 27.9,
       "precip_prob": 0,
       "weather_code": 1
     },
@@ -139,9 +139,9 @@
     },
     {
       "time": "2026-07-21T20:00",
-      "temp": 25.6,
+      "temp": 25.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-07-21T21:00",
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-07-21T22:00",
-      "temp": 22.7,
+      "temp": 22.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-21T23:00",
-      "temp": 21.5,
+      "temp": 21.3,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-07-22",
-      "temp_max": 28.9,
-      "temp_min": 18.9,
-      "precipitation_mm": 11.4,
-      "wind_max_ms": 2.6,
+      "temp_max": 28.5,
+      "temp_min": 19.3,
+      "precipitation_mm": 14.6,
+      "wind_max_ms": 3.0,
       "weather_code": 95,
       "description": "Гроза"
     },
@@ -185,7 +185,7 @@
       "date": "2026-07-23",
       "temp_max": 25.8,
       "temp_min": 17.1,
-      "precipitation_mm": 8.1,
+      "precipitation_mm": 6.3,
       "wind_max_ms": 3.2,
       "weather_code": 95,
       "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-07-21T16:44:04.442998+00:00"
+  "fetched_at": "2026-07-21T18:41:41.613663+00:00"
 }

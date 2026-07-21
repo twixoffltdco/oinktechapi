@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 26.7,
-    "feels_like": 28.2,
-    "humidity": 52,
+    "temperature": 24.6,
+    "feels_like": 26.8,
+    "humidity": 63,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 252,
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 0.6,
+    "wind_direction_deg": 239,
     "wind_direction_text": "ЗЮЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-07-21T18:00",
-      "temp": 28.2,
+      "temp": 28.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-21T19:00",
-      "temp": 27.3,
+      "temp": 27.6,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-21T20:00",
-      "temp": 26.0,
+      "temp": 26.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-21T21:00",
-      "temp": 25.0,
+      "temp": 25.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-21T22:00",
-      "temp": 24.0,
+      "temp": 24.1,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-07-21T23:00",
-      "temp": 23.0,
+      "temp": 23.1,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -175,11 +175,11 @@
     {
       "date": "2026-07-22",
       "temp_max": 30.0,
-      "temp_min": 19.6,
+      "temp_min": 20.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.9,
-      "weather_code": 45,
-      "description": "Туман"
+      "wind_max_ms": 3.0,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-07-23",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-21T16:44:03.808159+00:00"
+  "fetched_at": "2026-07-21T18:41:41.088368+00:00"
 }
