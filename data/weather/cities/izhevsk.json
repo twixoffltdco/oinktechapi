@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 27.3,
-    "feels_like": 29.6,
-    "humidity": 56,
+    "temperature": 29.6,
+    "feels_like": 31.8,
+    "humidity": 44,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 172,
-    "wind_direction_text": "Ю",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1010.0,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 202,
+    "wind_direction_text": "ЮЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -86,13 +86,13 @@
     {
       "time": "2026-07-22T11:00",
       "temp": 27.8,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-22T12:00",
       "temp": 28.8,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 1
     },
     {
@@ -110,7 +110,7 @@
     {
       "time": "2026-07-22T15:00",
       "temp": 29.8,
-      "precip_prob": 5,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
@@ -128,7 +128,7 @@
     {
       "time": "2026-07-22T18:00",
       "temp": 29.3,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
@@ -211,7 +211,7 @@
     {
       "date": "2026-07-27",
       "temp_max": 34.7,
-      "temp_min": 21.2,
+      "temp_min": 21.4,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.2,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-07-22T06:43:57.328985+00:00"
+  "fetched_at": "2026-07-22T09:40:41.997943+00:00"
 }
