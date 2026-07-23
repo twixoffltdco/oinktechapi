@@ -5,13 +5,13 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 28.9,
-    "feels_like": 30.9,
-    "humidity": 49,
+    "temperature": 28.7,
+    "feels_like": 31.2,
+    "humidity": 55,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.2,
-    "wind_direction_deg": 190,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 173,
     "wind_direction_text": "Ю",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -79,61 +79,61 @@
     },
     {
       "time": "2026-07-23T10:00",
-      "temp": 25.8,
+      "temp": 25.9,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T11:00",
-      "temp": 27.3,
+      "temp": 27.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T12:00",
-      "temp": 28.0,
+      "temp": 27.8,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T13:00",
-      "temp": 28.7,
+      "temp": 27.5,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-23T14:00",
-      "temp": 29.1,
+      "temp": 28.1,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T15:00",
-      "temp": 29.4,
+      "temp": 28.7,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T16:00",
-      "temp": 29.3,
+      "temp": 28.7,
       "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T17:00",
-      "temp": 29.5,
+      "temp": 28.6,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T18:00",
-      "temp": 29.2,
+      "temp": 28.3,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T19:00",
-      "temp": 28.3,
+      "temp": 27.5,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -145,19 +145,19 @@
     },
     {
       "time": "2026-07-23T21:00",
-      "temp": 25.3,
+      "temp": 25.4,
       "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T22:00",
-      "temp": 23.8,
+      "temp": 24.2,
       "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-07-23T23:00",
-      "temp": 23.2,
+      "temp": 23.3,
       "precip_prob": 18,
       "weather_code": 3
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-07-23",
-      "temp_max": 29.5,
+      "temp_max": 28.7,
       "temp_min": 20.5,
       "precipitation_mm": 0.2,
       "wind_max_ms": 2.4,
@@ -174,44 +174,44 @@
     },
     {
       "date": "2026-07-24",
-      "temp_max": 30.0,
-      "temp_min": 21.8,
-      "precipitation_mm": 0.4,
-      "wind_max_ms": 3.4,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 29.5,
+      "temp_min": 21.0,
+      "precipitation_mm": 0.2,
+      "wind_max_ms": 2.9,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-07-25",
-      "temp_max": 34.5,
-      "temp_min": 22.0,
+      "temp_max": 33.4,
+      "temp_min": 22.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.9,
+      "wind_max_ms": 2.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-26",
-      "temp_max": 35.5,
-      "temp_min": 24.0,
+      "temp_max": 37.1,
+      "temp_min": 24.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.1,
+      "wind_max_ms": 3.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-27",
-      "temp_max": 37.3,
-      "temp_min": 25.8,
+      "temp_max": 36.8,
+      "temp_min": 25.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-28",
       "temp_max": 28.7,
-      "temp_min": 24.3,
+      "temp_min": 23.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 5.3,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-23T09:38:40.078576+00:00"
+  "fetched_at": "2026-07-23T12:04:08.920068+00:00"
 }
