@@ -5,16 +5,16 @@
   "longitude": 92.8932,
   "timezone": "Asia/Krasnoyarsk",
   "current": {
-    "temperature": 23.4,
-    "feels_like": 25.2,
-    "humidity": 67,
+    "temperature": 25.6,
+    "feels_like": 28.1,
+    "humidity": 58,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1003.0,
-    "wind_speed_ms": 1.5,
-    "wind_direction_deg": 236,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1002.0,
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 297,
+    "wind_direction_text": "ЗСЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -63,7 +63,7 @@
       "time": "2026-07-24T07:00",
       "temp": 18.4,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-24T08:00",
@@ -81,13 +81,13 @@
       "time": "2026-07-24T10:00",
       "temp": 22.5,
       "precip_prob": 12,
-      "weather_code": 3
+      "weather_code": 1
     },
     {
       "time": "2026-07-24T11:00",
       "temp": 23.6,
       "precip_prob": 17,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-24T12:00",
@@ -99,13 +99,13 @@
       "time": "2026-07-24T13:00",
       "temp": 25.3,
       "precip_prob": 29,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-07-24T14:00",
       "temp": 25.8,
       "precip_prob": 41,
-      "weather_code": 3
+      "weather_code": 1
     },
     {
       "time": "2026-07-24T15:00",
@@ -141,13 +141,13 @@
       "time": "2026-07-24T20:00",
       "temp": 21.2,
       "precip_prob": 62,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-07-24T21:00",
       "temp": 20.4,
       "precip_prob": 35,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-07-24T22:00",
@@ -159,7 +159,7 @@
       "time": "2026-07-24T23:00",
       "temp": 19.1,
       "precip_prob": 6,
-      "weather_code": 3
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-24T03:48:55.010450+00:00"
+  "fetched_at": "2026-07-24T06:40:52.616625+00:00"
 }
