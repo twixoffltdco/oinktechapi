@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 22.2,
-    "feels_like": 24.6,
+    "temperature": 22.1,
+    "feels_like": 25.3,
     "humidity": 88,
-    "precipitation_mm": 0.3,
+    "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 2.8,
-    "wind_direction_deg": 49,
-    "wind_direction_text": "СВ",
-    "weather_code": 80,
-    "description": "Ливень"
+    "wind_speed_ms": 1.3,
+    "wind_direction_deg": 94,
+    "wind_direction_text": "В",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -127,21 +127,21 @@
     },
     {
       "time": "2026-07-24T18:00",
-      "temp": 28.1,
+      "temp": 27.6,
       "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-07-24T19:00",
-      "temp": 23.8,
+      "temp": 23.5,
       "precip_prob": 30,
       "weather_code": 96
     },
     {
       "time": "2026-07-24T20:00",
-      "temp": 22.6,
+      "temp": 22.8,
       "precip_prob": 43,
-      "weather_code": 81
+      "weather_code": 96
     },
     {
       "time": "2026-07-24T21:00",
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-07-24T22:00",
-      "temp": 21.9,
+      "temp": 22.0,
       "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-07-24T23:00",
-      "temp": 21.8,
+      "temp": 22.1,
       "precip_prob": 3,
       "weather_code": 3
     }
@@ -167,19 +167,19 @@
       "date": "2026-07-24",
       "temp_max": 28.7,
       "temp_min": 19.6,
-      "precipitation_mm": 12.5,
-      "wind_max_ms": 4.7,
+      "precipitation_mm": 10.9,
+      "wind_max_ms": 4.3,
       "weather_code": 96,
       "description": "Гроза с градом"
     },
     {
       "date": "2026-07-25",
-      "temp_max": 30.6,
-      "temp_min": 21.8,
+      "temp_max": 30.7,
+      "temp_min": 22.1,
       "precipitation_mm": 0.1,
-      "wind_max_ms": 4.9,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 5.1,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-07-26",
@@ -227,5 +227,5 @@
       "description": "Сильный ливень"
     }
   ],
-  "fetched_at": "2026-07-24T17:53:37.677518+00:00"
+  "fetched_at": "2026-07-24T19:48:37.796517+00:00"
 }
