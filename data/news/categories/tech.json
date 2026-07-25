@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-24T19:52:37.535339+00:00",
+  "updated_at": "2026-07-25T03:45:21.686091+00:00",
   "category": "tech",
   "articles": [
+    {
+      "id": "8edd3caa3956",
+      "title": "Как я потратил вечер, разбираясь, почему кэш в клоде, gpt и джемини — это три разных зверя",
+      "url": "https://habr.com/ru/articles/1062850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062850",
+      "description": "Устал переплачивать за одну и ту же память, которуе гоняю по кругу, и решил разобраться, как у кого на самом деле устроен кэш, а не просто верить строчке \"у нас есть кэширование\" и \"так дешевле\" в доке.Начал с клода, как с самой популярной тулы. Кэш там не работает сам по себе, нужно руками вешать cache_control: ephemeral на кусок промпта (тулы, системный промпт, длинный документ, что угодно стабильное). Ничего не закэшируется, если явно не попросишь. При этом ценой все прозрачно: запись на 5 ми",
+      "published_at": "2026-07-24T22:46:35",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "d19d22afd01a",
+      "title": "Скачивание прошивки с ПЛИС Altera MAX, ну и немного про ремонт",
+      "url": "https://habr.com/ru/articles/1062848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062848",
+      "description": "Привет Хабр. Мы хотим вам немного рассказать про один интересный недавний ремонт, а так-же свой опыт и инструкцию скачивания прошивки с ПЛИС ALTERA MAX.Началось все с прибора Fluorophos FLM200 – прибор для проверки качества пастеризации молока. Читать далее",
+      "published_at": "2026-07-24T20:38:35",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "8c96adf59494",
+      "title": "460 ГБ, свободно 14: археология диска разработчика",
+      "url": "https://habr.com/ru/articles/1062844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062844",
+      "description": "TL;DR: после каждого проекта на диске остаётся 2–40 ГБ мусора, который никто никогда не убирает. Я раскопал свой Mac (460 ГБ, из них свободно было 14), нашёл около 150 ГБ хлама чисто девелоперского происхождения, по дороге упёрся в неожиданно интересную задачу — как отличить папку build со сборкой от папки build с чем угодно ещё — и в итоге написал себе инструмент. Ниже — вся археология с цифрами и командами, можно повторить руками, ничего не покупая и не скачивая. Читать далее",
+      "published_at": "2026-07-24T20:21:27",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "94748bdc9b0a",
+      "title": "[Перевод] Большинство ошибок при System Design ускользает из виду",
+      "url": "https://habr.com/ru/articles/1062842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062842",
+      "description": "Пять пробелов, которые не видны на архитектурных блок-схемах.Пользователь нажимает&nbsp;«Place Order» (Сделать заказ).API возвращает&nbsp;200 OK. Заказ появляется в базе данных. На странице оформления заказа выводится сообщение «success» (успех). Извне всё выглядит нормально. А потом в службу поддержки прилетает тикет.  Читать далее",
+      "published_at": "2026-07-24T20:10:45",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
     {
       "id": "3dd334d14dbc",
       "title": "Playwright не спасает от флапающих тестов: разбираемся, как он ждёт на самом деле",
@@ -96,17 +140,6 @@
       "url": "https://vc.ru/services/3044636-opera-one-vertikalnye-vkladki-i-obnovlennyj-google-lens?from=rss",
       "description": "И обновлённый поиск через Google Lens.",
       "published_at": "2026-07-24T16:44:07+03:00",
-      "source_key": "vc",
-      "source_name": "VC.ru",
-      "category": "tech",
-      "logo": "https://vc.ru/favicon.ico"
-    },
-    {
-      "id": "a87c33443316",
-      "title": "«WB Банк» и «WB Финанс» автоматически подключили кредитные каникулы для продавцов, чьи товары пострадали от атак на склады Wildberries",
-      "url": "https://vc.ru/marketplace/3044585-kreditnye-kanikuly-dlya-prodavtsov-wildberries?from=rss",
-      "description": "Но только представителям малого и среднего бизнеса — крупному придётся договариваться об отсрочке индивидуально.",
-      "published_at": "2026-07-24T16:33:44+03:00",
       "source_key": "vc",
       "source_name": "VC.ru",
       "category": "tech",
@@ -454,50 +487,6 @@
       "logo": "https://habr.com/favicon.ico"
     },
     {
-      "id": "843bd02c9565",
-      "title": "AI‑тренер по CS2 на DeepSeek: где LLM выдумывает и почему семь недель стоили $1,45",
-      "url": "https://habr.com/ru/articles/1062718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062718",
-      "description": "Всем привет. Я много лет играю в Counter-Strike и тренируюсь, как большинство: захожу в Deathmatch «размяться», играю три катки, тильтую, выхожу. Сервисы статистики при этом исправно сообщают, что у меня просела точность и выросло время реакции. Спасибо, а делать-то что?Весной я решил собрать себе тренера сам. Сразу пара слов для контекста: я самоучка, в команде никогда не работал, основной опыт — десктопные утилиты и автоматизация, из веба до этого были только админки под собственные инструмент",
-      "published_at": "2026-07-24T12:44:56",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "b1bea1bb071a",
-      "title": "Интеграция SAP с ИИ: от прототипа к промышленному решению на ABAP",
-      "url": "https://habr.com/ru/companies/fix_price/articles/1062716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062716",
-      "description": "Привет, Хабр! Меня зовут Виктория Мохирева, я консультант SAP MM. Моя прошлая статья была посвящена тому, как с помощью локального класса и глобального API мы с командой «приручили» большую языковую модель для работы с пересортицей. И, как это часто бывает, с прототипа все только началось.  Читать далее",
-      "published_at": "2026-07-24T12:44:16",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "8329d9e6f680",
-      "title": "ТОПовые цели хакеров. Как защитить первых лиц компании от кибератак",
-      "url": "https://habr.com/ru/articles/1062714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062714",
-      "description": "12% всех зарегистрированных утечек данных в России начинались с атаки на топ-менеджмент (по данным PT EdTechLab). Так случилось, что собственники и ТОПы — это люди с уникальным, точнее уникально взрывоопасным, сочетанием максимального уровня привелегий и доверия внутри компании с, часто, относительно халатным отношением к кибергигиене. Бывает, что к этому добавляется еще наполняющая кибератаки фактурой публичность. Поделюсь пророчествами мыслями, к чему это может привести, и рекомендациями, что",
-      "published_at": "2026-07-24T12:31:13",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "f75bef0ee84c",
-      "title": "Проект: игра «Крестики-нолики», v.2",
-      "url": "https://habr.com/ru/companies/piter/articles/1062632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062632",
-      "description": "Привет, Хаброжители!  У нас отличные новости для всех, кто хочет освоить Go или систематизировать свои знания. Мы открыли предзаказ на новую книгу Станислава Чернышева «Основы Go». Чтобы вы могли оценить подачу материала и глубину погружения, мы делимся с вами эксклюзивным отрывком.   Читать далее",
-      "published_at": "2026-07-24T12:24:14",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
       "id": "eed2268d376b",
       "title": "«Золотая Корона» после включения в санкционный список ЕС перестала переводить деньги в Грузию — «Код Дурова»",
       "url": "https://vc.ru/money/3043948-zolotaya-korona-perestala-perevodit-dengi-v-gruziyu?from=rss",
@@ -536,6 +525,17 @@
       "url": "https://vc.ru/social/3043710-instagram-blokirovat-video-s-umnykh-ochkov-meta?from=rss",
       "description": "Как именно применяются правила и что конкретно считается нарушением — в компании не уточняют.",
       "published_at": "2026-07-24T09:59:39+03:00",
+      "source_key": "vc",
+      "source_name": "VC.ru",
+      "category": "tech",
+      "logo": "https://vc.ru/favicon.ico"
+    },
+    {
+      "id": "db0ef86098aa",
+      "title": "День 1612: участники рынка онлайн-торговли попросили правительство создать единый механизм поддержки продавцов на маркетплейсах",
+      "url": "https://vc.ru/money/3043705-podderzhka-prodavtsov-na-marketpleysakh-initsiativa-apet?from=rss",
+      "description": "Собираем новости, события и мнения о рынках, банках и реакциях компаний.",
+      "published_at": "2026-07-24T09:46:21+03:00",
       "source_key": "vc",
       "source_name": "VC.ru",
       "category": "tech",
