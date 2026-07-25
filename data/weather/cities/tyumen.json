@@ -5,16 +5,16 @@
   "longitude": 68.0,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 26.0,
-    "feels_like": 27.7,
-    "humidity": 47,
+    "temperature": 26.9,
+    "feels_like": 28.0,
+    "humidity": 48,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1015.0,
-    "wind_speed_ms": 1.2,
-    "wind_direction_deg": 353,
-    "wind_direction_text": "С",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 1.3,
+    "wind_direction_deg": 347,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -56,25 +56,25 @@
     {
       "time": "2026-07-25T06:00",
       "temp": 16.0,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T07:00",
       "temp": 18.3,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T08:00",
       "temp": 20.1,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T09:00",
       "temp": 21.1,
-      "precip_prob": 2,
+      "precip_prob": 1,
       "weather_code": 1
     },
     {
@@ -110,49 +110,49 @@
     {
       "time": "2026-07-25T15:00",
       "temp": 26.5,
-      "precip_prob": 7,
+      "precip_prob": 2,
       "weather_code": 1
     },
     {
       "time": "2026-07-25T16:00",
       "temp": 26.9,
-      "precip_prob": 17,
+      "precip_prob": 6,
       "weather_code": 1
     },
     {
       "time": "2026-07-25T17:00",
       "temp": 26.8,
-      "precip_prob": 22,
+      "precip_prob": 8,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T18:00",
       "temp": 26.5,
-      "precip_prob": 18,
+      "precip_prob": 8,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T19:00",
       "temp": 25.5,
-      "precip_prob": 10,
+      "precip_prob": 7,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T20:00",
       "temp": 23.7,
-      "precip_prob": 4,
+      "precip_prob": 6,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T21:00",
       "temp": 21.9,
-      "precip_prob": 1,
+      "precip_prob": 4,
       "weather_code": 0
     },
     {
       "time": "2026-07-25T22:00",
       "temp": 21.0,
-      "precip_prob": 1,
+      "precip_prob": 2,
       "weather_code": 0
     },
     {
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-07-25T09:13:55.310634+00:00"
+  "fetched_at": "2026-07-25T10:47:55.008911+00:00"
 }
