@@ -5,16 +5,16 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 34.9,
-    "feels_like": 35.6,
-    "humidity": 32,
+    "temperature": 33.9,
+    "feels_like": 34.3,
+    "humidity": 33,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1015.0,
+    "pressure_hpa": 1016.0,
     "wind_speed_ms": 2.5,
-    "wind_direction_deg": 201,
-    "wind_direction_text": "ЮЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "wind_direction_deg": 191,
+    "wind_direction_text": "Ю",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -103,61 +103,61 @@
     },
     {
       "time": "2026-07-26T14:00",
-      "temp": 33.8,
+      "temp": 33.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-07-26T15:00",
-      "temp": 34.4,
+      "temp": 33.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-26T16:00",
-      "temp": 34.8,
+      "temp": 34.0,
       "precip_prob": 3,
       "weather_code": 1
     },
     {
       "time": "2026-07-26T17:00",
-      "temp": 35.0,
+      "temp": 34.3,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-07-26T18:00",
-      "temp": 35.0,
+      "temp": 34.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-07-26T19:00",
-      "temp": 34.5,
+      "temp": 33.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-07-26T20:00",
-      "temp": 33.7,
+      "temp": 32.8,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T21:00",
-      "temp": 32.1,
+      "temp": 31.0,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 1
     },
     {
       "time": "2026-07-26T22:00",
-      "temp": 30.4,
+      "temp": 29.0,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-07-26T23:00",
-      "temp": 27.8,
+      "temp": 26.7,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,19 +165,19 @@
   "forecast_7d": [
     {
       "date": "2026-07-26",
-      "temp_max": 35.0,
+      "temp_max": 34.3,
       "temp_min": 21.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 2.6,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-27",
-      "temp_max": 36.3,
-      "temp_min": 22.6,
+      "temp_max": 35.8,
+      "temp_min": 22.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.3,
+      "wind_max_ms": 3.9,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-07-26T11:39:29.723764+00:00"
+  "fetched_at": "2026-07-26T13:59:46.901701+00:00"
 }
