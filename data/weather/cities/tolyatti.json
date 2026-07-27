@@ -5,14 +5,14 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 30.5,
-    "feels_like": 31.2,
-    "humidity": 41,
+    "temperature": 27.1,
+    "feels_like": 28.3,
+    "humidity": 52,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1007.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 255,
-    "wind_direction_text": "ЗЮЗ",
+    "pressure_hpa": 1009.0,
+    "wind_speed_ms": 2.1,
+    "wind_direction_deg": 205,
+    "wind_direction_text": "ЮЮЗ",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -115,7 +115,7 @@
     },
     {
       "time": "2026-07-27T16:00",
-      "temp": 33.9,
+      "temp": 34.4,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -127,105 +127,105 @@
     },
     {
       "time": "2026-07-27T18:00",
-      "temp": 33.3,
+      "temp": 33.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-07-27T19:00",
-      "temp": 31.0,
-      "precip_prob": 0,
+      "temp": 31.2,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-07-27T20:00",
       "temp": 29.1,
-      "precip_prob": 3,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-07-27T21:00",
-      "temp": 27.7,
-      "precip_prob": 5,
+      "temp": 28.1,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-07-27T22:00",
-      "temp": 26.2,
-      "precip_prob": 5,
+      "temp": 26.8,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-07-27T23:00",
-      "temp": 25.2,
-      "precip_prob": 10,
+      "temp": 26.2,
+      "precip_prob": 15,
       "weather_code": 3
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-07-27",
-      "temp_max": 34.1,
-      "temp_min": 25.2,
+      "temp_max": 34.4,
+      "temp_min": 26.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.2,
+      "wind_max_ms": 3.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-07-28",
-      "temp_max": 24.6,
-      "temp_min": 21.2,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 3.0,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 25.5,
+      "temp_min": 21.4,
+      "precipitation_mm": 0.9,
+      "wind_max_ms": 3.1,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-07-29",
-      "temp_max": 29.9,
-      "temp_min": 19.4,
-      "precipitation_mm": 4.0,
-      "wind_max_ms": 4.4,
+      "temp_max": 29.2,
+      "temp_min": 20.3,
+      "precipitation_mm": 1.6,
+      "wind_max_ms": 3.7,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-07-30",
-      "temp_max": 21.2,
-      "temp_min": 16.3,
-      "precipitation_mm": 3.5,
-      "wind_max_ms": 3.9,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 20.2,
+      "temp_min": 17.1,
+      "precipitation_mm": 6.5,
+      "wind_max_ms": 4.9,
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-07-31",
-      "temp_max": 24.5,
+      "temp_max": 21.4,
       "temp_min": 15.6,
-      "precipitation_mm": 2.3,
-      "wind_max_ms": 3.0,
-      "weather_code": 80,
-      "description": "Ливень"
+      "precipitation_mm": 10.5,
+      "wind_max_ms": 2.5,
+      "weather_code": 95,
+      "description": "Гроза"
     },
     {
       "date": "2026-08-01",
-      "temp_max": 25.2,
-      "temp_min": 18.8,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 5.2,
+      "temp_max": 24.1,
+      "temp_min": 16.7,
+      "precipitation_mm": 0.1,
+      "wind_max_ms": 5.0,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-08-02",
-      "temp_max": 25.8,
-      "temp_min": 19.0,
+      "temp_max": 25.3,
+      "temp_min": 18.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 6.6,
+      "wind_max_ms": 7.3,
       "weather_code": 2,
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-07-27T15:16:18.358842+00:00"
+  "fetched_at": "2026-07-27T17:57:21.371377+00:00"
 }
