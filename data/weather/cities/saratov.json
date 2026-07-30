@@ -5,13 +5,13 @@
   "longitude": 46.0342,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 18.3,
-    "feels_like": 17.0,
-    "humidity": 69,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 1010.0,
-    "wind_speed_ms": 4.1,
-    "wind_direction_deg": 234,
+    "temperature": 16.5,
+    "feels_like": 16.0,
+    "humidity": 84,
+    "precipitation_mm": 0.3,
+    "pressure_hpa": 1009.0,
+    "wind_speed_ms": 3.2,
+    "wind_direction_deg": 229,
     "wind_direction_text": "ЮЗ",
     "weather_code": 61,
     "description": "Небольшой дождь"
@@ -127,39 +127,39 @@
     },
     {
       "time": "2026-07-30T18:00",
-      "temp": 20.0,
+      "temp": 19.7,
       "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-07-30T19:00",
-      "temp": 19.1,
+      "temp": 18.9,
       "precip_prob": 30,
       "weather_code": 3
     },
     {
       "time": "2026-07-30T20:00",
-      "temp": 18.1,
+      "temp": 17.5,
       "precip_prob": 53,
       "weather_code": 61
     },
     {
       "time": "2026-07-30T21:00",
-      "temp": 17.3,
+      "temp": 16.7,
       "precip_prob": 63,
       "weather_code": 61
     },
     {
       "time": "2026-07-30T22:00",
-      "temp": 16.8,
+      "temp": 16.4,
       "precip_prob": 68,
       "weather_code": 61
     },
     {
       "time": "2026-07-30T23:00",
-      "temp": 16.4,
+      "temp": 16.2,
       "precip_prob": 53,
-      "weather_code": 3
+      "weather_code": 61
     }
   ],
   "forecast_7d": [
@@ -167,17 +167,17 @@
       "date": "2026-07-30",
       "temp_max": 21.4,
       "temp_min": 15.2,
-      "precipitation_mm": 1.6,
+      "precipitation_mm": 3.2,
       "wind_max_ms": 5.5,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-07-31",
-      "temp_max": 24.3,
-      "temp_min": 15.6,
-      "precipitation_mm": 0.7,
-      "wind_max_ms": 4.1,
+      "temp_max": 23.8,
+      "temp_min": 15.7,
+      "precipitation_mm": 0.1,
+      "wind_max_ms": 4.0,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-07-30T16:51:21.752879+00:00"
+  "fetched_at": "2026-07-30T18:49:00.478236+00:00"
 }
