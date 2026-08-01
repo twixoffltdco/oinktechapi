@@ -5,16 +5,16 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 20.7,
-    "feels_like": 21.5,
-    "humidity": 68,
+    "temperature": 26.1,
+    "feels_like": 27.4,
+    "humidity": 52,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1016.0,
-    "wind_speed_ms": 1.3,
-    "wind_direction_deg": 9,
-    "wind_direction_text": "С",
-    "weather_code": 0,
-    "description": "Ясно"
+    "wind_speed_ms": 1.9,
+    "wind_direction_deg": 39,
+    "wind_direction_text": "СВ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "time": "2026-08-01T06:00",
-      "temp": 19.4,
+      "temp": 19.5,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -79,7 +79,7 @@
     },
     {
       "time": "2026-08-01T10:00",
-      "temp": 26.8,
+      "temp": 26.9,
       "precip_prob": 0,
       "weather_code": 1
     },
@@ -109,9 +109,9 @@
     },
     {
       "time": "2026-08-01T15:00",
-      "temp": 30.5,
+      "temp": 30.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-08-01T16:00",
@@ -133,15 +133,15 @@
     },
     {
       "time": "2026-08-01T19:00",
-      "temp": 29.0,
+      "temp": 29.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-01T20:00",
-      "temp": 27.6,
+      "temp": 27.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-01T21:00",
@@ -157,7 +157,7 @@
     },
     {
       "time": "2026-08-01T23:00",
-      "temp": 23.6,
+      "temp": 23.8,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -168,14 +168,14 @@
       "temp_max": 30.6,
       "temp_min": 19.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 2.6,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-08-02",
       "temp_max": 32.2,
-      "temp_min": 21.4,
+      "temp_min": 21.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.3,
       "weather_code": 2,
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-08-01T03:52:42.649904+00:00"
+  "fetched_at": "2026-08-01T06:41:59.788769+00:00"
 }
