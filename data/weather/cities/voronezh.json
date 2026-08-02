@@ -5,16 +5,16 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 29.3,
-    "feels_like": 30.7,
+    "temperature": 29.1,
+    "feels_like": 29.4,
     "humidity": 38,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1018.0,
-    "wind_speed_ms": 1.6,
-    "wind_direction_deg": 310,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 326,
     "wind_direction_text": "СЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -91,73 +91,73 @@
     },
     {
       "time": "2026-08-02T12:00",
-      "temp": 27.7,
+      "temp": 27.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T13:00",
-      "temp": 28.4,
+      "temp": 28.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T14:00",
-      "temp": 29.0,
+      "temp": 28.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T15:00",
-      "temp": 29.5,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-08-02T16:00",
-      "temp": 29.7,
+      "temp": 29.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
-      "time": "2026-08-02T17:00",
-      "temp": 29.5,
+      "time": "2026-08-02T16:00",
+      "temp": 29.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
+      "time": "2026-08-02T17:00",
+      "temp": 29.1,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
       "time": "2026-08-02T18:00",
-      "temp": 29.0,
+      "temp": 28.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T19:00",
-      "temp": 28.0,
+      "temp": 27.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T20:00",
-      "temp": 26.6,
+      "temp": 26.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T21:00",
-      "temp": 25.1,
+      "temp": 25.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T22:00",
-      "temp": 23.9,
+      "temp": 23.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T23:00",
-      "temp": 22.8,
+      "temp": 22.7,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,16 +165,16 @@
   "forecast_7d": [
     {
       "date": "2026-08-02",
-      "temp_max": 29.7,
+      "temp_max": 29.2,
       "temp_min": 15.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.6,
+      "wind_max_ms": 1.5,
       "weather_code": 1,
       "description": "Преимущественно ясно"
     },
     {
       "date": "2026-08-03",
-      "temp_max": 31.9,
+      "temp_max": 31.6,
       "temp_min": 17.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 1.0,
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-02T11:35:41.433439+00:00"
+  "fetched_at": "2026-08-02T13:58:49.854310+00:00"
 }

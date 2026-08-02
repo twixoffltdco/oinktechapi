@@ -5,13 +5,13 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 26.4,
-    "feels_like": 25.2,
-    "humidity": 42,
+    "temperature": 25.5,
+    "feels_like": 24.4,
+    "humidity": 46,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 4.7,
-    "wind_direction_deg": 335,
+    "wind_speed_ms": 3.9,
+    "wind_direction_deg": 333,
     "wind_direction_text": "ССЗ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
@@ -97,67 +97,67 @@
     },
     {
       "time": "2026-08-02T13:00",
-      "temp": 25.9,
+      "temp": 25.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T14:00",
-      "temp": 26.1,
+      "temp": 25.9,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T15:00",
-      "temp": 26.3,
+      "temp": 26.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T16:00",
-      "temp": 26.3,
+      "temp": 26.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T17:00",
-      "temp": 26.0,
-      "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
-      "time": "2026-08-02T18:00",
       "temp": 25.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
+      "time": "2026-08-02T18:00",
+      "temp": 25.4,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
       "time": "2026-08-02T19:00",
-      "temp": 25.0,
+      "temp": 24.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T20:00",
-      "temp": 23.7,
+      "temp": 23.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T21:00",
-      "temp": 22.3,
-      "precip_prob": 0,
-      "weather_code": 1
-    },
-    {
-      "time": "2026-08-02T22:00",
-      "temp": 21.5,
+      "temp": 22.0,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
-      "time": "2026-08-02T23:00",
+      "time": "2026-08-02T22:00",
       "temp": 21.1,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
+      "time": "2026-08-02T23:00",
+      "temp": 20.6,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-08-02",
-      "temp_max": 26.3,
+      "temp_max": 26.0,
       "temp_min": 17.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.8,
@@ -174,9 +174,9 @@
     },
     {
       "date": "2026-08-03",
-      "temp_max": 29.4,
-      "temp_min": 17.6,
-      "precipitation_mm": 0.2,
+      "temp_max": 29.1,
+      "temp_min": 17.5,
+      "precipitation_mm": 0.1,
       "wind_max_ms": 3.3,
       "weather_code": 3,
       "description": "Пасмурно"
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-02T11:35:57.867933+00:00"
+  "fetched_at": "2026-08-02T13:59:06.543982+00:00"
 }
