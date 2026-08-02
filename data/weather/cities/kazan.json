@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 23.5,
-    "feels_like": 23.8,
-    "humidity": 54,
+    "temperature": 20.8,
+    "feels_like": 21.7,
+    "humidity": 70,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 327,
-    "wind_direction_text": "ССЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1013.0,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 300,
+    "wind_direction_text": "ЗСЗ",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-08-02T18:00",
-      "temp": 26.9,
+      "temp": 27.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T19:00",
-      "temp": 25.6,
+      "temp": 25.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T20:00",
-      "temp": 23.9,
+      "temp": 24.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-02T21:00",
-      "temp": 22.4,
+      "temp": 22.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-02T22:00",
-      "temp": 21.4,
+      "temp": 21.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-02T23:00",
-      "temp": 20.5,
+      "temp": 20.4,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-08-03",
-      "temp_max": 28.0,
-      "temp_min": 18.1,
-      "precipitation_mm": 1.2,
-      "wind_max_ms": 4.4,
+      "temp_max": 27.9,
+      "temp_min": 18.0,
+      "precipitation_mm": 1.1,
+      "wind_max_ms": 4.8,
       "weather_code": 80,
       "description": "Ливень"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-02T17:18:11.557502+00:00"
+  "fetched_at": "2026-08-02T19:36:20.155508+00:00"
 }
