@@ -5,16 +5,16 @@
   "longitude": 49.0661,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 18.8,
-    "feels_like": 19.7,
-    "humidity": 80,
+    "temperature": 20.8,
+    "feels_like": 22.2,
+    "humidity": 73,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 291,
-    "wind_direction_text": "ЗСЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1014.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 279,
+    "wind_direction_text": "З",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -31,37 +31,37 @@
     },
     {
       "time": "2026-08-03T02:00",
-      "temp": 18.9,
+      "temp": 19.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-03T03:00",
-      "temp": 18.4,
+      "temp": 18.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-03T04:00",
-      "temp": 18.1,
-      "precip_prob": 0,
-      "weather_code": 1
-    },
-    {
-      "time": "2026-08-03T05:00",
-      "temp": 18.1,
-      "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
-      "time": "2026-08-03T06:00",
-      "temp": 19.4,
+      "temp": 18.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
+      "time": "2026-08-03T05:00",
+      "temp": 18.3,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
+      "time": "2026-08-03T06:00",
+      "temp": 19.5,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
       "time": "2026-08-03T07:00",
-      "temp": 21.1,
+      "temp": 21.3,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -73,91 +73,91 @@
     },
     {
       "time": "2026-08-03T09:00",
-      "temp": 24.6,
+      "temp": 24.5,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-08-03T10:00",
       "temp": 25.9,
       "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
-      "time": "2026-08-03T11:00",
-      "temp": 26.9,
-      "precip_prob": 0,
       "weather_code": 3
     },
     {
+      "time": "2026-08-03T11:00",
+      "temp": 27.1,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
       "time": "2026-08-03T12:00",
-      "temp": 27.5,
-      "precip_prob": 30,
+      "temp": 27.7,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-08-03T13:00",
-      "temp": 27.4,
-      "precip_prob": 55,
+      "temp": 27.7,
+      "precip_prob": 30,
       "weather_code": 3
     },
     {
       "time": "2026-08-03T14:00",
-      "temp": 25.3,
-      "precip_prob": 70,
-      "weather_code": 80
+      "temp": 26.6,
+      "precip_prob": 58,
+      "weather_code": 3
     },
     {
       "time": "2026-08-03T15:00",
-      "temp": 23.5,
-      "precip_prob": 38,
+      "temp": 25.1,
+      "precip_prob": 73,
       "weather_code": 80
     },
     {
       "time": "2026-08-03T16:00",
       "temp": 23.7,
-      "precip_prob": 30,
+      "precip_prob": 43,
       "weather_code": 80
     },
     {
       "time": "2026-08-03T17:00",
-      "temp": 24.5,
-      "precip_prob": 5,
-      "weather_code": 2
+      "temp": 23.5,
+      "precip_prob": 28,
+      "weather_code": 80
     },
     {
       "time": "2026-08-03T18:00",
-      "temp": 24.0,
-      "precip_prob": 5,
+      "temp": 23.4,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-08-03T19:00",
-      "temp": 22.9,
-      "precip_prob": 0,
-      "weather_code": 1
+      "temp": 22.7,
+      "precip_prob": 3,
+      "weather_code": 3
     },
     {
       "time": "2026-08-03T20:00",
-      "temp": 21.6,
+      "temp": 21.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-03T21:00",
-      "temp": 20.4,
+      "temp": 20.1,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-03T22:00",
-      "temp": 19.5,
+      "temp": 19.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-03T23:00",
-      "temp": 18.9,
+      "temp": 18.8,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -165,17 +165,17 @@
   "forecast_7d": [
     {
       "date": "2026-08-03",
-      "temp_max": 27.5,
-      "temp_min": 18.1,
-      "precipitation_mm": 1.8,
-      "wind_max_ms": 4.7,
+      "temp_max": 27.7,
+      "temp_min": 18.2,
+      "precipitation_mm": 2.2,
+      "wind_max_ms": 4.4,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-08-04",
-      "temp_max": 24.9,
-      "temp_min": 15.9,
+      "temp_max": 25.1,
+      "temp_min": 15.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.1,
       "weather_code": 3,
@@ -183,8 +183,8 @@
     },
     {
       "date": "2026-08-05",
-      "temp_max": 25.7,
-      "temp_min": 16.7,
+      "temp_max": 25.4,
+      "temp_min": 17.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.9,
       "weather_code": 3,
@@ -192,40 +192,40 @@
     },
     {
       "date": "2026-08-06",
-      "temp_max": 27.2,
-      "temp_min": 19.5,
-      "precipitation_mm": 0.2,
-      "wind_max_ms": 1.9,
+      "temp_max": 27.9,
+      "temp_min": 19.4,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 4.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-08-07",
       "temp_max": 30.5,
-      "temp_min": 20.4,
-      "precipitation_mm": 0.1,
-      "wind_max_ms": 4.1,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_min": 21.6,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 3.5,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-08-08",
-      "temp_max": 31.7,
-      "temp_min": 21.9,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 31.3,
+      "temp_min": 21.7,
+      "precipitation_mm": 1.2,
+      "wind_max_ms": 4.5,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-08-09",
-      "temp_max": 28.6,
-      "temp_min": 19.9,
-      "precipitation_mm": 2.4,
-      "wind_max_ms": 4.2,
-      "weather_code": 95,
-      "description": "Гроза"
+      "temp_max": 27.2,
+      "temp_min": 20.0,
+      "precipitation_mm": 7.2,
+      "wind_max_ms": 2.2,
+      "weather_code": 45,
+      "description": "Туман"
     }
   ],
-  "fetched_at": "2026-08-02T23:15:35.549113+00:00"
+  "fetched_at": "2026-08-03T03:56:58.727722+00:00"
 }
