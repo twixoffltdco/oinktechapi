@@ -5,16 +5,16 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 18.2,
-    "feels_like": 17.5,
-    "humidity": 74,
+    "temperature": 19.4,
+    "feels_like": 18.2,
+    "humidity": 61,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1019.0,
-    "wind_speed_ms": 3.5,
-    "wind_direction_deg": 269,
+    "wind_speed_ms": 3.1,
+    "wind_direction_deg": 279,
     "wind_direction_text": "З",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "time": "2026-08-04T12:00",
-      "temp": 19.0,
+      "temp": 19.3,
       "precip_prob": 16,
       "weather_code": 3
     },
@@ -109,55 +109,55 @@
     },
     {
       "time": "2026-08-04T15:00",
-      "temp": 19.7,
+      "temp": 19.5,
       "precip_prob": 2,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-04T16:00",
-      "temp": 20.5,
+      "temp": 19.8,
       "precip_prob": 1,
-      "weather_code": 0
+      "weather_code": 2
     },
     {
       "time": "2026-08-04T17:00",
-      "temp": 20.8,
+      "temp": 20.3,
       "precip_prob": 2,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-08-04T18:00",
-      "temp": 20.7,
+      "temp": 20.5,
       "precip_prob": 2,
       "weather_code": 0
     },
     {
       "time": "2026-08-04T19:00",
-      "temp": 20.5,
+      "temp": 20.2,
       "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-08-04T20:00",
-      "temp": 19.8,
+      "temp": 19.7,
       "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-08-04T21:00",
-      "temp": 19.0,
+      "temp": 19.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-04T22:00",
-      "temp": 18.3,
+      "temp": 18.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-04T23:00",
-      "temp": 17.8,
+      "temp": 18.1,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-08-04",
-      "temp_max": 20.8,
+      "temp_max": 20.5,
       "temp_min": 16.0,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.2,
@@ -174,28 +174,28 @@
     },
     {
       "date": "2026-08-05",
-      "temp_max": 23.4,
-      "temp_min": 16.4,
+      "temp_max": 23.6,
+      "temp_min": 16.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 3.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-08-06",
-      "temp_max": 25.7,
-      "temp_min": 18.6,
-      "precipitation_mm": 5.2,
-      "wind_max_ms": 5.7,
-      "weather_code": 63,
-      "description": "Дождь"
+      "temp_max": 25.6,
+      "temp_min": 19.1,
+      "precipitation_mm": 0.8,
+      "wind_max_ms": 4.7,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-07",
       "temp_max": 23.2,
       "temp_min": 17.3,
       "precipitation_mm": 2.5,
-      "wind_max_ms": 6.0,
+      "wind_max_ms": 6.4,
       "weather_code": 53,
       "description": "Морось"
     },
@@ -204,7 +204,7 @@
       "temp_max": 19.4,
       "temp_min": 15.3,
       "precipitation_mm": 1.8,
-      "wind_max_ms": 5.3,
+      "wind_max_ms": 6.0,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -213,7 +213,7 @@
       "temp_max": 19.4,
       "temp_min": 14.4,
       "precipitation_mm": 0.1,
-      "wind_max_ms": 2.2,
+      "wind_max_ms": 4.0,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
@@ -222,10 +222,10 @@
       "temp_max": 22.5,
       "temp_min": 13.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 2.9,
       "weather_code": 2,
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-08-04T06:42:23.059207+00:00"
+  "fetched_at": "2026-08-04T09:59:22.876283+00:00"
 }
