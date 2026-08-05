@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 18.0,
-    "feels_like": 17.7,
-    "humidity": 65,
+    "temperature": 16.5,
+    "feels_like": 16.5,
+    "humidity": 73,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1016.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 291,
+    "wind_speed_ms": 1.0,
+    "wind_direction_deg": 294,
     "wind_direction_text": "ЗСЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -133,33 +133,33 @@
     },
     {
       "time": "2026-08-05T19:00",
-      "temp": 22.9,
+      "temp": 23.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-05T20:00",
-      "temp": 21.2,
+      "temp": 21.7,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-05T21:00",
-      "temp": 19.1,
+      "temp": 19.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-05T22:00",
-      "temp": 17.7,
+      "temp": 18.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-05T23:00",
-      "temp": 16.7,
+      "temp": 16.8,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
@@ -174,7 +174,7 @@
     },
     {
       "date": "2026-08-06",
-      "temp_max": 23.1,
+      "temp_max": 23.2,
       "temp_min": 14.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.1,
@@ -185,10 +185,10 @@
       "date": "2026-08-07",
       "temp_max": 29.2,
       "temp_min": 16.0,
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 0.3,
       "wind_max_ms": 4.4,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-08",
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-05T17:55:26.982407+00:00"
+  "fetched_at": "2026-08-05T19:57:21.739854+00:00"
 }
