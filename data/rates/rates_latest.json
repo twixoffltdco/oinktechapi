@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-08-04T23:20:21.887726+00:00",
+  "updated_at": "2026-08-05T03:36:02.444322+00:00",
   "base_currency": "RUB",
   "fiat": {},
   "crypto": {
-    "ethereum": {
-      "id": "ethereum",
-      "name": "Ethereum",
-      "price_usd": 1878.28,
-      "price_rub": 151444,
-      "change_24h": 1.12
-    },
-    "dogecoin": {
-      "id": "dogecoin",
-      "name": "Dogecoin",
-      "price_usd": 0.070451,
-      "price_rub": 5.68,
-      "change_24h": 0.32
-    },
-    "solana": {
-      "id": "solana",
-      "name": "Solana",
-      "price_usd": 74.19,
-      "price_rub": 5981.83,
-      "change_24h": 1.05
-    },
     "bitcoin": {
       "id": "bitcoin",
       "name": "Bitcoin",
-      "price_usd": 64446,
-      "price_rub": 5196200,
-      "change_24h": 1.4
+      "price_usd": 64051,
+      "price_rub": 5164362,
+      "change_24h": 0.46
     },
-    "ripple": {
-      "id": "ripple",
-      "name": "XRP",
-      "price_usd": 1.078,
-      "price_rub": 86.9,
-      "change_24h": 0.33
+    "ethereum": {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "price_usd": 1864.49,
+      "price_rub": 150331,
+      "change_24h": 0.12
     },
     "tether": {
       "id": "tether",
       "name": "Tether",
-      "price_usd": 0.999332,
-      "price_rub": 80.58,
-      "change_24h": 0.01
+      "price_usd": 0.999267,
+      "price_rub": 80.57,
+      "change_24h": 0.02
+    },
+    "ripple": {
+      "id": "ripple",
+      "name": "XRP",
+      "price_usd": 1.066,
+      "price_rub": 85.97,
+      "change_24h": -0.85
+    },
+    "dogecoin": {
+      "id": "dogecoin",
+      "name": "Dogecoin",
+      "price_usd": 0.069727,
+      "price_rub": 5.62,
+      "change_24h": -0.87
+    },
+    "solana": {
+      "id": "solana",
+      "name": "Solana",
+      "price_usd": 73.73,
+      "price_rub": 5944.13,
+      "change_24h": 0.21
     }
   },
   "highlight": {
     "USD": 0,
     "EUR": 0,
     "CNY": 0,
-    "BTC_USD": 64446,
-    "ETH_USD": 1878.28,
+    "BTC_USD": 64051,
+    "ETH_USD": 1864.49,
     "TON_USD": 0
   }
 }
