@@ -5,16 +5,16 @@
   "longitude": 37.6176,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 29.7,
-    "feels_like": 31.9,
-    "humidity": 53,
-    "precipitation_mm": 0.0,
+    "temperature": 26.8,
+    "feels_like": 30.3,
+    "humidity": 70,
+    "precipitation_mm": 0.1,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 2.3,
-    "wind_direction_deg": 239,
-    "wind_direction_text": "ЗЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 236,
+    "wind_direction_text": "ЮЗ",
+    "weather_code": 80,
+    "description": "Ливень"
   },
   "hourly": [
     {
@@ -122,31 +122,31 @@
     {
       "time": "2026-08-06T17:00",
       "temp": 27.4,
-      "precip_prob": 13,
+      "precip_prob": 8,
       "weather_code": 80
     },
     {
       "time": "2026-08-06T18:00",
       "temp": 27.1,
-      "precip_prob": 20,
+      "precip_prob": 25,
       "weather_code": 3
     },
     {
       "time": "2026-08-06T19:00",
       "temp": 25.4,
-      "precip_prob": 8,
+      "precip_prob": 25,
       "weather_code": 80
     },
     {
       "time": "2026-08-06T20:00",
       "temp": 24.6,
-      "precip_prob": 0,
+      "precip_prob": 13,
       "weather_code": 3
     },
     {
       "time": "2026-08-06T21:00",
       "temp": 23.6,
-      "precip_prob": 0,
+      "precip_prob": 5,
       "weather_code": 2
     },
     {
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-06T12:20:31.652432+00:00"
+  "fetched_at": "2026-08-06T15:29:44.740452+00:00"
 }
