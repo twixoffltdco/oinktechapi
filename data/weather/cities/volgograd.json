@@ -5,14 +5,14 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 31.1,
-    "feels_like": 32.1,
-    "humidity": 38,
+    "temperature": 30.0,
+    "feels_like": 31.0,
+    "humidity": 40,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 21,
-    "wind_direction_text": "ССВ",
+    "pressure_hpa": 1013.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 346,
+    "wind_direction_text": "ССЗ",
     "weather_code": 0,
     "description": "Ясно"
   },
@@ -127,19 +127,19 @@
     },
     {
       "time": "2026-08-07T18:00",
-      "temp": 34.4,
+      "temp": 34.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-07T19:00",
-      "temp": 33.3,
+      "temp": 33.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-07T20:00",
-      "temp": 31.1,
+      "temp": 31.3,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -151,7 +151,7 @@
     },
     {
       "time": "2026-08-07T22:00",
-      "temp": 29.0,
+      "temp": 28.9,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -159,7 +159,7 @@
       "time": "2026-08-07T23:00",
       "temp": 28.1,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-08-08",
-      "temp_max": 36.4,
-      "temp_min": 24.4,
+      "temp_max": 36.5,
+      "temp_min": 24.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.3,
+      "wind_max_ms": 3.0,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-07T17:10:10.695592+00:00"
+  "fetched_at": "2026-08-07T18:04:39.492465+00:00"
 }
