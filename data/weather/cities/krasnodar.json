@@ -5,16 +5,16 @@
   "longitude": 38.9753,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 25.9,
-    "feels_like": 26.8,
-    "humidity": 54,
+    "temperature": 31.7,
+    "feels_like": 34.7,
+    "humidity": 43,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1008.0,
-    "wind_speed_ms": 2.1,
-    "wind_direction_deg": 93,
+    "wind_speed_ms": 1.9,
+    "wind_direction_deg": 81,
     "wind_direction_text": "В",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -117,13 +117,13 @@
       "time": "2026-08-08T16:00",
       "temp": 34.7,
       "precip_prob": 8,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-08T17:00",
       "temp": 34.5,
       "precip_prob": 5,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-08T18:00",
@@ -153,13 +153,13 @@
       "time": "2026-08-08T22:00",
       "temp": 27.6,
       "precip_prob": 28,
-      "weather_code": 80
+      "weather_code": 3
     },
     {
       "time": "2026-08-08T23:00",
       "temp": 26.5,
       "precip_prob": 28,
-      "weather_code": 3
+      "weather_code": 80
     }
   ],
   "forecast_7d": [
@@ -167,8 +167,8 @@
       "date": "2026-08-08",
       "temp_max": 34.7,
       "temp_min": 22.8,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 2.3,
+      "precipitation_mm": 0.4,
+      "wind_max_ms": 2.5,
       "weather_code": 80,
       "description": "Ливень"
     },
@@ -176,10 +176,10 @@
       "date": "2026-08-09",
       "temp_max": 31.2,
       "temp_min": 23.7,
-      "precipitation_mm": 0.1,
+      "precipitation_mm": 1.0,
       "wind_max_ms": 2.6,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-08-10",
@@ -227,5 +227,5 @@
       "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-08-08T05:58:29.715640+00:00"
+  "fetched_at": "2026-08-08T09:03:07.785936+00:00"
 }
