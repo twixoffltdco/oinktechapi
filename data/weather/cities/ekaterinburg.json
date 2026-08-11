@@ -5,16 +5,16 @@
   "longitude": 60.6122,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 20.6,
-    "feels_like": 18.4,
-    "humidity": 49,
+    "temperature": 21.3,
+    "feels_like": 19.0,
+    "humidity": 44,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1014.0,
-    "wind_speed_ms": 3.9,
-    "wind_direction_deg": 332,
+    "wind_speed_ms": 3.6,
+    "wind_direction_deg": 330,
     "wind_direction_text": "ССЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -85,19 +85,19 @@
     },
     {
       "time": "2026-08-11T11:00",
-      "temp": 18.4,
+      "temp": 18.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-11T12:00",
-      "temp": 19.1,
+      "temp": 19.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-11T13:00",
-      "temp": 19.9,
+      "temp": 20.1,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -115,57 +115,57 @@
     },
     {
       "time": "2026-08-11T16:00",
-      "temp": 21.2,
-      "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
-      "time": "2026-08-11T17:00",
-      "temp": 21.1,
+      "temp": 21.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
-      "time": "2026-08-11T18:00",
-      "temp": 20.7,
+      "time": "2026-08-11T17:00",
+      "temp": 21.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
+      "time": "2026-08-11T18:00",
+      "temp": 20.8,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
       "time": "2026-08-11T19:00",
-      "temp": 20.0,
+      "temp": 20.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-11T20:00",
-      "temp": 19.1,
+      "temp": 19.2,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-11T21:00",
-      "temp": 17.6,
+      "temp": 17.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-11T22:00",
-      "temp": 16.5,
+      "temp": 16.6,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-11T23:00",
-      "temp": 15.6,
+      "temp": 15.7,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-08-11",
-      "temp_max": 21.2,
+      "temp_max": 21.3,
       "temp_min": 14.4,
       "precipitation_mm": 4.0,
       "wind_max_ms": 3.9,
@@ -174,17 +174,17 @@
     },
     {
       "date": "2026-08-12",
-      "temp_max": 21.8,
-      "temp_min": 12.7,
+      "temp_max": 21.6,
+      "temp_min": 12.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.5,
+      "wind_max_ms": 3.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-08-13",
-      "temp_max": 24.5,
-      "temp_min": 13.7,
+      "temp_max": 24.0,
+      "temp_min": 14.3,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.6,
       "weather_code": 3,
@@ -192,26 +192,26 @@
     },
     {
       "date": "2026-08-14",
-      "temp_max": 22.3,
-      "temp_min": 16.8,
-      "precipitation_mm": 12.4,
-      "wind_max_ms": 2.2,
+      "temp_max": 22.9,
+      "temp_min": 17.0,
+      "precipitation_mm": 21.2,
+      "wind_max_ms": 2.8,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-08-15",
-      "temp_max": 18.6,
+      "temp_max": 17.4,
       "temp_min": 13.0,
-      "precipitation_mm": 20.4,
-      "wind_max_ms": 3.6,
-      "weather_code": 95,
-      "description": "Гроза"
+      "precipitation_mm": 24.3,
+      "wind_max_ms": 3.1,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-16",
       "temp_max": 14.7,
-      "temp_min": 10.8,
+      "temp_min": 9.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 4.1,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-11T09:15:33.005068+00:00"
+  "fetched_at": "2026-08-11T11:06:30.039341+00:00"
 }
