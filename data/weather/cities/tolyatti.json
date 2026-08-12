@@ -5,16 +5,16 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 20.6,
-    "feels_like": 20.4,
-    "humidity": 69,
-    "precipitation_mm": 0.0,
+    "temperature": 18.4,
+    "feels_like": 19.9,
+    "humidity": 86,
+    "precipitation_mm": 0.3,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 3.3,
-    "wind_direction_deg": 325,
-    "wind_direction_text": "СЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 331,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 61,
+    "description": "Небольшой дождь"
   },
   "hourly": [
     {
@@ -133,33 +133,33 @@
     },
     {
       "time": "2026-08-12T19:00",
-      "temp": 25.3,
+      "temp": 26.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-12T20:00",
-      "temp": 23.5,
+      "temp": 24.3,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-12T21:00",
-      "temp": 22.6,
+      "temp": 23.5,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-08-12T22:00",
-      "temp": 20.6,
+      "temp": 20.3,
       "precip_prob": 28,
       "weather_code": 3
     },
     {
       "time": "2026-08-12T23:00",
-      "temp": 19.2,
+      "temp": 18.7,
       "precip_prob": 58,
-      "weather_code": 3
+      "weather_code": 61
     }
   ],
   "forecast_7d": [
@@ -167,19 +167,19 @@
       "date": "2026-08-12",
       "temp_max": 27.1,
       "temp_min": 16.2,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 3.3,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "precipitation_mm": 0.5,
+      "wind_max_ms": 3.8,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-13",
-      "temp_max": 20.0,
-      "temp_min": 14.8,
-      "precipitation_mm": 2.6,
-      "wind_max_ms": 3.1,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "temp_max": 20.4,
+      "temp_min": 15.3,
+      "precipitation_mm": 3.9,
+      "wind_max_ms": 3.0,
+      "weather_code": 63,
+      "description": "Дождь"
     },
     {
       "date": "2026-08-14",
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-12T18:11:34.645801+00:00"
+  "fetched_at": "2026-08-12T19:29:46.363426+00:00"
 }
