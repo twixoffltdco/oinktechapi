@@ -5,16 +5,16 @@
   "longitude": 55.9721,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 21.8,
-    "feels_like": 22.2,
-    "humidity": 53,
+    "temperature": 19.0,
+    "feels_like": 19.0,
+    "humidity": 63,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 0.4,
-    "wind_direction_deg": 56,
-    "wind_direction_text": "СВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 72,
+    "wind_direction_text": "ВСВ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -121,43 +121,43 @@
     },
     {
       "time": "2026-08-12T17:00",
-      "temp": 23.6,
+      "temp": 24.0,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-12T18:00",
-      "temp": 23.5,
+      "temp": 23.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-12T19:00",
-      "temp": 23.1,
+      "temp": 23.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-12T20:00",
-      "temp": 22.2,
+      "temp": 22.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-12T21:00",
-      "temp": 20.4,
+      "temp": 20.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-12T22:00",
-      "temp": 19.1,
+      "temp": 19.0,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-08-12T23:00",
-      "temp": 18.2,
+      "temp": 17.9,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-08-12",
-      "temp_max": 23.8,
+      "temp_max": 24.0,
       "temp_min": 10.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 1.8,
@@ -174,58 +174,58 @@
     },
     {
       "date": "2026-08-13",
-      "temp_max": 23.1,
-      "temp_min": 12.4,
-      "precipitation_mm": 2.5,
-      "wind_max_ms": 2.9,
+      "temp_max": 24.0,
+      "temp_min": 11.6,
+      "precipitation_mm": 0.8,
+      "wind_max_ms": 2.6,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-14",
-      "temp_max": 20.0,
-      "temp_min": 12.4,
-      "precipitation_mm": 1.7,
-      "wind_max_ms": 3.6,
+      "temp_max": 20.8,
+      "temp_min": 12.3,
+      "precipitation_mm": 0.2,
+      "wind_max_ms": 4.5,
+      "weather_code": 3,
+      "description": "Пасмурно"
+    },
+    {
+      "date": "2026-08-15",
+      "temp_max": 16.3,
+      "temp_min": 8.2,
+      "precipitation_mm": 1.0,
+      "wind_max_ms": 5.0,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
-      "date": "2026-08-15",
-      "temp_max": 13.8,
-      "temp_min": 6.2,
-      "precipitation_mm": 0.5,
-      "wind_max_ms": 4.3,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
-    },
-    {
       "date": "2026-08-16",
-      "temp_max": 13.3,
-      "temp_min": 9.7,
-      "precipitation_mm": 4.2,
+      "temp_max": 13.2,
+      "temp_min": 10.1,
+      "precipitation_mm": 4.5,
       "wind_max_ms": 3.0,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-17",
-      "temp_max": 15.5,
-      "temp_min": 7.8,
-      "precipitation_mm": 9.9,
-      "wind_max_ms": 3.5,
+      "temp_max": 17.2,
+      "temp_min": 9.4,
+      "precipitation_mm": 3.0,
+      "wind_max_ms": 3.0,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-08-18",
-      "temp_max": 17.9,
-      "temp_min": 6.7,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 2.6,
-      "weather_code": 45,
-      "description": "Туман"
+      "temp_max": 17.7,
+      "temp_min": 8.8,
+      "precipitation_mm": 0.6,
+      "wind_max_ms": 3.5,
+      "weather_code": 3,
+      "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-12T15:16:31.879797+00:00"
+  "fetched_at": "2026-08-12T17:14:59.016773+00:00"
 }

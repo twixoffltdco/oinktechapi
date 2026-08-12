@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 20.8,
-    "feels_like": 20.0,
-    "humidity": 54,
+    "temperature": 17.5,
+    "feels_like": 17.2,
+    "humidity": 68,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.2,
-    "wind_direction_deg": 162,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 153,
     "wind_direction_text": "ЮЮВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "time": "2026-08-12T16:00",
-      "temp": 23.6,
+      "temp": 23.2,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -123,11 +123,11 @@
       "time": "2026-08-12T17:00",
       "temp": 23.2,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-12T18:00",
-      "temp": 22.4,
+      "temp": 22.3,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -135,37 +135,37 @@
       "time": "2026-08-12T19:00",
       "temp": 21.2,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-12T20:00",
-      "temp": 19.6,
+      "temp": 19.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-12T21:00",
-      "temp": 18.2,
+      "temp": 17.9,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-08-12T22:00",
-      "temp": 17.1,
+      "temp": 16.5,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 1
     },
     {
       "time": "2026-08-12T23:00",
-      "temp": 16.5,
+      "temp": 15.7,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-08-12",
-      "temp_max": 23.6,
+      "temp_max": 23.3,
       "temp_min": 11.5,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.2,
@@ -174,58 +174,58 @@
     },
     {
       "date": "2026-08-13",
-      "temp_max": 20.7,
-      "temp_min": 14.7,
-      "precipitation_mm": 7.1,
-      "wind_max_ms": 2.7,
-      "weather_code": 63,
-      "description": "Дождь"
+      "temp_max": 20.6,
+      "temp_min": 14.5,
+      "precipitation_mm": 2.6,
+      "wind_max_ms": 2.5,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-08-14",
-      "temp_max": 15.2,
+      "temp_max": 16.0,
       "temp_min": 9.7,
-      "precipitation_mm": 1.1,
+      "precipitation_mm": 2.0,
       "wind_max_ms": 3.4,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-08-15",
-      "temp_max": 12.0,
-      "temp_min": 7.6,
-      "precipitation_mm": 0.8,
-      "wind_max_ms": 2.2,
+      "temp_max": 11.3,
+      "temp_min": 8.1,
+      "precipitation_mm": 2.4,
+      "wind_max_ms": 2.6,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-16",
-      "temp_max": 14.4,
-      "temp_min": 6.7,
-      "precipitation_mm": 0.2,
-      "wind_max_ms": 2.1,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "temp_max": 13.4,
+      "temp_min": 8.3,
+      "precipitation_mm": 4.5,
+      "wind_max_ms": 2.5,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-08-17",
-      "temp_max": 18.8,
-      "temp_min": 10.2,
-      "precipitation_mm": 1.9,
-      "wind_max_ms": 3.6,
+      "temp_max": 16.6,
+      "temp_min": 7.5,
+      "precipitation_mm": 0.6,
+      "wind_max_ms": 2.8,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-08-18",
-      "temp_max": 18.4,
-      "temp_min": 8.5,
-      "precipitation_mm": 0.0,
+      "temp_max": 16.1,
+      "temp_min": 10.9,
+      "precipitation_mm": 0.6,
       "wind_max_ms": 2.6,
-      "weather_code": 45,
-      "description": "Туман"
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-12T15:16:37.499896+00:00"
+  "fetched_at": "2026-08-12T17:15:21.047068+00:00"
 }
