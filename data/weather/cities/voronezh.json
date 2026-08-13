@@ -5,16 +5,16 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 16.5,
-    "feels_like": 14.5,
-    "humidity": 53,
+    "temperature": 15.2,
+    "feels_like": 13.8,
+    "humidity": 63,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1019.0,
-    "wind_speed_ms": 2.2,
+    "pressure_hpa": 1020.0,
+    "wind_speed_ms": 1.8,
     "wind_direction_deg": 313,
     "wind_direction_text": "СЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-08-13T18:00",
-      "temp": 19.4,
+      "temp": 18.8,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-13T19:00",
-      "temp": 18.3,
+      "temp": 17.9,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-13T20:00",
-      "temp": 16.8,
+      "temp": 16.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-13T21:00",
-      "temp": 15.6,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-08-13T22:00",
-      "temp": 14.6,
+      "temp": 15.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
+      "time": "2026-08-13T22:00",
+      "temp": 14.2,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
       "time": "2026-08-13T23:00",
-      "temp": 13.8,
+      "temp": 13.3,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,12 +174,12 @@
     },
     {
       "date": "2026-08-14",
-      "temp_max": 20.1,
-      "temp_min": 10.4,
+      "temp_max": 20.0,
+      "temp_min": 10.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.5,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 4.4,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-08-15",
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-13T17:15:10.205547+00:00"
+  "fetched_at": "2026-08-13T18:12:32.126991+00:00"
 }
