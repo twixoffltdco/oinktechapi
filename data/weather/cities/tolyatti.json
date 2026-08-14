@@ -5,16 +5,16 @@
   "longitude": 49.4218,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 11.5,
-    "feels_like": 9.4,
-    "humidity": 71,
+    "temperature": 11.2,
+    "feels_like": 9.2,
+    "humidity": 74,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
+    "pressure_hpa": 1010.0,
     "wind_speed_ms": 2.3,
-    "wind_direction_deg": 268,
+    "wind_direction_deg": 265,
     "wind_direction_text": "З",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -38,127 +38,127 @@
     {
       "time": "2026-08-15T03:00",
       "temp": 11.0,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T04:00",
       "temp": 10.7,
-      "precip_prob": 3,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T05:00",
       "temp": 10.8,
-      "precip_prob": 3,
+      "precip_prob": 18,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T06:00",
       "temp": 10.7,
-      "precip_prob": 18,
+      "precip_prob": 25,
       "weather_code": 61
     },
     {
       "time": "2026-08-15T07:00",
       "temp": 10.6,
-      "precip_prob": 25,
+      "precip_prob": 33,
       "weather_code": 61
     },
     {
       "time": "2026-08-15T08:00",
       "temp": 10.8,
-      "precip_prob": 23,
+      "precip_prob": 20,
       "weather_code": 61
     },
     {
       "time": "2026-08-15T09:00",
       "temp": 11.3,
-      "precip_prob": 25,
+      "precip_prob": 30,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T10:00",
       "temp": 11.5,
-      "precip_prob": 18,
+      "precip_prob": 25,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T11:00",
       "temp": 12.3,
-      "precip_prob": 33,
+      "precip_prob": 38,
       "weather_code": 61
     },
     {
       "time": "2026-08-15T12:00",
       "temp": 12.5,
-      "precip_prob": 45,
+      "precip_prob": 40,
       "weather_code": 61
     },
     {
       "time": "2026-08-15T13:00",
       "temp": 13.4,
-      "precip_prob": 60,
+      "precip_prob": 35,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T14:00",
       "temp": 13.8,
-      "precip_prob": 45,
+      "precip_prob": 35,
       "weather_code": 80
     },
     {
       "time": "2026-08-15T15:00",
       "temp": 14.1,
-      "precip_prob": 40,
+      "precip_prob": 53,
       "weather_code": 80
     },
     {
       "time": "2026-08-15T16:00",
       "temp": 14.2,
-      "precip_prob": 33,
+      "precip_prob": 40,
       "weather_code": 80
     },
     {
       "time": "2026-08-15T17:00",
       "temp": 14.5,
-      "precip_prob": 33,
+      "precip_prob": 43,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T18:00",
       "temp": 14.7,
-      "precip_prob": 25,
+      "precip_prob": 23,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T19:00",
       "temp": 14.2,
-      "precip_prob": 30,
+      "precip_prob": 28,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T20:00",
       "temp": 13.8,
-      "precip_prob": 25,
+      "precip_prob": 35,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T21:00",
       "temp": 13.3,
-      "precip_prob": 25,
+      "precip_prob": 30,
       "weather_code": 2
     },
     {
       "time": "2026-08-15T22:00",
       "temp": 12.9,
-      "precip_prob": 18,
+      "precip_prob": 40,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T23:00",
       "temp": 12.6,
-      "precip_prob": 28,
+      "precip_prob": 25,
       "weather_code": 3
     }
   ],
@@ -204,7 +204,7 @@
       "temp_max": 25.3,
       "temp_min": 18.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.4,
+      "wind_max_ms": 4.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-14T20:47:51.300620+00:00"
+  "fetched_at": "2026-08-14T21:42:55.124151+00:00"
 }
