@@ -5,16 +5,16 @@
   "longitude": 39.7015,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 21.1,
-    "feels_like": 19.5,
-    "humidity": 37,
+    "temperature": 19.5,
+    "feels_like": 17.7,
+    "humidity": 40,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1018.0,
-    "wind_speed_ms": 1.0,
-    "wind_direction_deg": 360,
+    "wind_speed_ms": 1.3,
+    "wind_direction_deg": 356,
     "wind_direction_text": "С",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -127,39 +127,39 @@
     },
     {
       "time": "2026-08-15T18:00",
-      "temp": 24.9,
+      "temp": 25.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-15T19:00",
-      "temp": 24.0,
+      "temp": 24.2,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-15T20:00",
-      "temp": 22.0,
+      "temp": 22.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-15T21:00",
-      "temp": 20.3,
+      "temp": 20.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-08-15T22:00",
-      "temp": 19.1,
+      "temp": 19.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-15T23:00",
-      "temp": 18.3,
+      "temp": 18.5,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     }
   ],
   "forecast_7d": [
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-08-16",
-      "temp_max": 28.0,
-      "temp_min": 14.3,
+      "temp_max": 28.3,
+      "temp_min": 14.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.3,
+      "wind_max_ms": 2.1,
       "weather_code": 0,
       "description": "Ясно"
     },
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-08-15T17:37:51.935137+00:00"
+  "fetched_at": "2026-08-15T18:48:39.231957+00:00"
 }
