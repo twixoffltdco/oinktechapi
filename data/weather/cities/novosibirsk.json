@@ -5,16 +5,16 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 25.5,
-    "feels_like": 23.9,
-    "humidity": 38,
+    "temperature": 24.6,
+    "feels_like": 22.8,
+    "humidity": 41,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 3.0,
-    "wind_direction_deg": 48,
+    "wind_speed_ms": 3.5,
+    "wind_direction_deg": 55,
     "wind_direction_text": "СВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -104,25 +104,25 @@
     {
       "time": "2026-08-15T14:00",
       "temp": 25.2,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-15T15:00",
       "temp": 25.7,
-      "precip_prob": 1,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-15T16:00",
       "temp": 25.9,
-      "precip_prob": 2,
+      "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-15T17:00",
       "temp": 25.8,
-      "precip_prob": 2,
+      "precip_prob": 1,
       "weather_code": 3
     },
     {
@@ -140,7 +140,7 @@
     {
       "time": "2026-08-15T20:00",
       "temp": 22.6,
-      "precip_prob": 1,
+      "precip_prob": 2,
       "weather_code": 0
     },
     {
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-08-15T10:41:45.351296+00:00"
+  "fetched_at": "2026-08-15T11:36:09.488113+00:00"
 }
