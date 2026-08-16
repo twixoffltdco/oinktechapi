@@ -5,13 +5,13 @@
   "longitude": 92.8932,
   "timezone": "Asia/Krasnoyarsk",
   "current": {
-    "temperature": 12.5,
-    "feels_like": 11.5,
-    "humidity": 82,
+    "temperature": 12.2,
+    "feels_like": 11.2,
+    "humidity": 84,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 50,
+    "wind_speed_ms": 1.6,
+    "wind_direction_deg": 54,
     "wind_direction_text": "СВ",
     "weather_code": 0,
     "description": "Ясно"
@@ -111,7 +111,7 @@
       "time": "2026-08-17T15:00",
       "temp": 22.4,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 1
     },
     {
       "time": "2026-08-17T16:00",
@@ -123,13 +123,13 @@
       "time": "2026-08-17T17:00",
       "temp": 21.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-08-17T18:00",
       "temp": 21.2,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-08-17T19:00",
@@ -141,7 +141,7 @@
       "time": "2026-08-17T20:00",
       "temp": 18.7,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-17T21:00",
@@ -153,13 +153,13 @@
       "time": "2026-08-17T22:00",
       "temp": 16.3,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-17T23:00",
       "temp": 15.4,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
@@ -176,7 +176,7 @@
       "date": "2026-08-18",
       "temp_max": 19.4,
       "temp_min": 12.8,
-      "precipitation_mm": 0.1,
+      "precipitation_mm": 0.2,
       "wind_max_ms": 2.3,
       "weather_code": 51,
       "description": "Лёгкая морось"
@@ -185,7 +185,7 @@
       "date": "2026-08-19",
       "temp_max": 19.8,
       "temp_min": 12.8,
-      "precipitation_mm": 9.8,
+      "precipitation_mm": 10.5,
       "wind_max_ms": 3.3,
       "weather_code": 95,
       "description": "Гроза"
@@ -194,25 +194,25 @@
       "date": "2026-08-20",
       "temp_max": 21.3,
       "temp_min": 10.5,
-      "precipitation_mm": 0.8,
+      "precipitation_mm": 0.0,
       "wind_max_ms": 2.2,
-      "weather_code": 53,
-      "description": "Морось"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-08-21",
       "temp_max": 18.4,
       "temp_min": 14.7,
-      "precipitation_mm": 7.3,
+      "precipitation_mm": 23.9,
       "wind_max_ms": 4.1,
-      "weather_code": 80,
-      "description": "Ливень"
+      "weather_code": 81,
+      "description": "Сильный ливень"
     },
     {
       "date": "2026-08-22",
       "temp_max": 20.8,
       "temp_min": 14.0,
-      "precipitation_mm": 16.5,
+      "precipitation_mm": 32.5,
       "wind_max_ms": 5.2,
       "weather_code": 81,
       "description": "Сильный ливень"
@@ -221,11 +221,11 @@
       "date": "2026-08-23",
       "temp_max": 20.4,
       "temp_min": 13.1,
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 7.8,
       "wind_max_ms": 3.7,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 53,
+      "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-16T19:36:48.514365+00:00"
+  "fetched_at": "2026-08-16T20:40:49.259363+00:00"
 }
