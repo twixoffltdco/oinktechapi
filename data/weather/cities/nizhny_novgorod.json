@@ -5,16 +5,16 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 17.6,
-    "feels_like": 18.4,
-    "humidity": 93,
-    "precipitation_mm": 0.9,
+    "temperature": 17.5,
+    "feels_like": 18.3,
+    "humidity": 92,
+    "precipitation_mm": 0.1,
     "pressure_hpa": 1004.0,
-    "wind_speed_ms": 2.8,
-    "wind_direction_deg": 274,
+    "wind_speed_ms": 2.6,
+    "wind_direction_deg": 272,
     "wind_direction_text": "З",
-    "weather_code": 95,
-    "description": "Гроза"
+    "weather_code": 80,
+    "description": "Ливень"
   },
   "hourly": [
     {
@@ -116,25 +116,25 @@
     {
       "time": "2026-08-17T16:00",
       "temp": 17.5,
-      "precip_prob": 85,
+      "precip_prob": 90,
       "weather_code": 95
     },
     {
       "time": "2026-08-17T17:00",
       "temp": 17.6,
-      "precip_prob": 80,
+      "precip_prob": 83,
       "weather_code": 95
     },
     {
       "time": "2026-08-17T18:00",
       "temp": 17.5,
-      "precip_prob": 58,
+      "precip_prob": 50,
       "weather_code": 95
     },
     {
       "time": "2026-08-17T19:00",
       "temp": 17.4,
-      "precip_prob": 18,
+      "precip_prob": 20,
       "weather_code": 80
     },
     {
@@ -146,7 +146,7 @@
     {
       "time": "2026-08-17T21:00",
       "temp": 16.6,
-      "precip_prob": 0,
+      "precip_prob": 8,
       "weather_code": 2
     },
     {
@@ -158,7 +158,7 @@
     {
       "time": "2026-08-17T23:00",
       "temp": 15.9,
-      "precip_prob": 5,
+      "precip_prob": 0,
       "weather_code": 3
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-17T14:46:42.711782+00:00"
+  "fetched_at": "2026-08-17T15:42:27.299215+00:00"
 }
