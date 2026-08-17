@@ -5,13 +5,13 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 14.9,
-    "humidity": 81,
+    "temperature": 16.3,
+    "feels_like": 14.6,
+    "humidity": 82,
     "precipitation_mm": 0.0,
     "pressure_hpa": 999.0,
-    "wind_speed_ms": 4.7,
-    "wind_direction_deg": 218,
+    "wind_speed_ms": 5.1,
+    "wind_direction_deg": 229,
     "wind_direction_text": "ЮЗ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -73,7 +73,7 @@
     },
     {
       "time": "2026-08-17T09:00",
-      "temp": 16.4,
+      "temp": 16.3,
       "precip_prob": 78,
       "weather_code": 3
     },
@@ -81,7 +81,7 @@
       "time": "2026-08-17T10:00",
       "temp": 16.2,
       "precip_prob": 87,
-      "weather_code": 51
+      "weather_code": 3
     },
     {
       "time": "2026-08-17T11:00",
@@ -97,98 +97,98 @@
     },
     {
       "time": "2026-08-17T13:00",
-      "temp": 17.7,
+      "temp": 17.8,
       "precip_prob": 91,
       "weather_code": 3
     },
     {
       "time": "2026-08-17T14:00",
-      "temp": 17.8,
+      "temp": 18.5,
       "precip_prob": 88,
       "weather_code": 3
     },
     {
       "time": "2026-08-17T15:00",
-      "temp": 18.1,
+      "temp": 17.6,
       "precip_prob": 84,
-      "weather_code": 3
+      "weather_code": 51
     },
     {
       "time": "2026-08-17T16:00",
-      "temp": 17.9,
+      "temp": 17.4,
       "precip_prob": 78,
-      "weather_code": 3
+      "weather_code": 51
     },
     {
       "time": "2026-08-17T17:00",
-      "temp": 17.6,
+      "temp": 17.3,
       "precip_prob": 71,
       "weather_code": 51
     },
     {
       "time": "2026-08-17T18:00",
-      "temp": 17.4,
+      "temp": 17.3,
       "precip_prob": 65,
       "weather_code": 51
     },
     {
       "time": "2026-08-17T19:00",
-      "temp": 17.7,
+      "temp": 17.5,
       "precip_prob": 62,
       "weather_code": 3
     },
     {
       "time": "2026-08-17T20:00",
-      "temp": 17.5,
+      "temp": 17.3,
       "precip_prob": 60,
       "weather_code": 51
     },
     {
       "time": "2026-08-17T21:00",
-      "temp": 16.8,
+      "temp": 17.2,
       "precip_prob": 59,
-      "weather_code": 53
-    },
-    {
-      "time": "2026-08-17T22:00",
-      "temp": 16.9,
-      "precip_prob": 60,
       "weather_code": 51
     },
     {
+      "time": "2026-08-17T22:00",
+      "temp": 17.0,
+      "precip_prob": 60,
+      "weather_code": 3
+    },
+    {
       "time": "2026-08-17T23:00",
-      "temp": 16.4,
+      "temp": 16.7,
       "precip_prob": 61,
-      "weather_code": 2
+      "weather_code": 51
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-08-17",
-      "temp_max": 18.1,
+      "temp_max": 18.5,
       "temp_min": 15.6,
-      "precipitation_mm": 1.6,
-      "wind_max_ms": 5.5,
-      "weather_code": 53,
-      "description": "Морось"
+      "precipitation_mm": 0.9,
+      "wind_max_ms": 5.2,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-18",
-      "temp_max": 19.2,
+      "temp_max": 19.4,
       "temp_min": 15.1,
-      "precipitation_mm": 2.9,
+      "precipitation_mm": 1.9,
       "wind_max_ms": 4.0,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-19",
-      "temp_max": 17.1,
+      "temp_max": 16.4,
       "temp_min": 14.7,
-      "precipitation_mm": 61.9,
-      "wind_max_ms": 6.6,
-      "weather_code": 95,
-      "description": "Гроза"
+      "precipitation_mm": 75.7,
+      "wind_max_ms": 7.5,
+      "weather_code": 81,
+      "description": "Сильный ливень"
     },
     {
       "date": "2026-08-20",
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-17T05:51:50.757212+00:00"
+  "fetched_at": "2026-08-17T07:17:39.385496+00:00"
 }
