@@ -5,16 +5,16 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 16.9,
-    "feels_like": 15.8,
-    "humidity": 80,
-    "precipitation_mm": 0.1,
+    "temperature": 17.0,
+    "feels_like": 16.0,
+    "humidity": 81,
+    "precipitation_mm": 0.4,
     "pressure_hpa": 1000.0,
-    "wind_speed_ms": 4.2,
-    "wind_direction_deg": 233,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 51,
-    "description": "Лёгкая морось"
+    "wind_speed_ms": 4.1,
+    "wind_direction_deg": 242,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 61,
+    "description": "Небольшой дождь"
   },
   "hourly": [
     {
@@ -145,19 +145,19 @@
     },
     {
       "time": "2026-08-17T21:00",
-      "temp": 17.6,
+      "temp": 17.7,
       "precip_prob": 84,
       "weather_code": 51
     },
     {
       "time": "2026-08-17T22:00",
-      "temp": 17.1,
+      "temp": 17.3,
       "precip_prob": 85,
       "weather_code": 3
     },
     {
       "time": "2026-08-17T23:00",
-      "temp": 16.8,
+      "temp": 17.1,
       "precip_prob": 86,
       "weather_code": 51
     }
@@ -174,19 +174,19 @@
     },
     {
       "date": "2026-08-18",
-      "temp_max": 20.0,
-      "temp_min": 15.3,
+      "temp_max": 20.2,
+      "temp_min": 14.9,
       "precipitation_mm": 1.9,
-      "wind_max_ms": 4.1,
+      "wind_max_ms": 4.7,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-19",
-      "temp_max": 17.1,
+      "temp_max": 17.6,
       "temp_min": 14.3,
       "precipitation_mm": 69.9,
-      "wind_max_ms": 7.7,
+      "wind_max_ms": 7.8,
       "weather_code": 82,
       "description": "Очень сильный ливень"
     },
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-08-17T19:43:46.706024+00:00"
+  "fetched_at": "2026-08-17T20:45:50.107700+00:00"
 }
