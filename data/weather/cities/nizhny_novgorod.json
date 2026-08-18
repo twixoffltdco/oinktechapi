@@ -5,16 +5,16 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 14.0,
-    "feels_like": 14.7,
-    "humidity": 96,
+    "temperature": 15.4,
+    "feels_like": 16.2,
+    "humidity": 92,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1006.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 207,
-    "wind_direction_text": "ЮЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 1.0,
+    "wind_direction_deg": 217,
+    "wind_direction_text": "ЮЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -62,7 +62,7 @@
     {
       "time": "2026-08-18T07:00",
       "temp": 15.8,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 1
     },
     {
@@ -80,43 +80,43 @@
     {
       "time": "2026-08-18T10:00",
       "temp": 19.8,
-      "precip_prob": 13,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-08-18T11:00",
       "temp": 20.5,
-      "precip_prob": 35,
+      "precip_prob": 28,
       "weather_code": 2
     },
     {
       "time": "2026-08-18T12:00",
       "temp": 20.4,
-      "precip_prob": 40,
+      "precip_prob": 25,
       "weather_code": 2
     },
     {
       "time": "2026-08-18T13:00",
       "temp": 21.6,
-      "precip_prob": 30,
+      "precip_prob": 15,
       "weather_code": 2
     },
     {
       "time": "2026-08-18T14:00",
       "temp": 22.0,
-      "precip_prob": 23,
+      "precip_prob": 10,
       "weather_code": 2
     },
     {
       "time": "2026-08-18T15:00",
       "temp": 22.4,
-      "precip_prob": 13,
+      "precip_prob": 15,
       "weather_code": 2
     },
     {
       "time": "2026-08-18T16:00",
       "temp": 22.5,
-      "precip_prob": 8,
+      "precip_prob": 15,
       "weather_code": 2
     },
     {
@@ -134,7 +134,7 @@
     {
       "time": "2026-08-18T19:00",
       "temp": 20.8,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 0
     },
     {
@@ -158,7 +158,7 @@
     {
       "time": "2026-08-18T23:00",
       "temp": 17.5,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 1
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-18T03:10:13.505167+00:00"
+  "fetched_at": "2026-08-18T03:59:51.551338+00:00"
 }
