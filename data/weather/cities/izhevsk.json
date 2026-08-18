@@ -5,14 +5,14 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 13.8,
-    "feels_like": 14.2,
-    "humidity": 87,
+    "temperature": 13.3,
+    "feels_like": 13.7,
+    "humidity": 89,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1009.0,
-    "wind_speed_ms": 0.4,
-    "wind_direction_deg": 146,
-    "wind_direction_text": "ЮВ",
+    "pressure_hpa": 1010.0,
+    "wind_speed_ms": 0.3,
+    "wind_direction_deg": 108,
+    "wind_direction_text": "ВЮВ",
     "weather_code": 1,
     "description": "Преимущественно ясно"
   },
@@ -20,13 +20,13 @@
     {
       "time": "2026-08-19T00:00",
       "temp": 14.1,
-      "precip_prob": 8,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
       "time": "2026-08-19T01:00",
       "temp": 13.5,
-      "precip_prob": 5,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
@@ -152,7 +152,7 @@
     {
       "time": "2026-08-19T22:00",
       "temp": 17.2,
-      "precip_prob": 3,
+      "precip_prob": 0,
       "weather_code": 1
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "date": "2026-08-23",
-      "temp_max": 21.1,
+      "temp_max": 20.9,
       "temp_min": 12.5,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 1.8,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "precipitation_mm": 10.8,
+      "wind_max_ms": 2.2,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-08-24",
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-08-18T20:42:13.848079+00:00"
+  "fetched_at": "2026-08-18T21:41:12.855459+00:00"
 }
