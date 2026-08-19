@@ -5,16 +5,16 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 16.0,
-    "feels_like": 13.3,
-    "humidity": 82,
-    "precipitation_mm": 0.1,
+    "temperature": 15.9,
+    "feels_like": 13.4,
+    "humidity": 81,
+    "precipitation_mm": 0.0,
     "pressure_hpa": 998.0,
-    "wind_speed_ms": 7.0,
-    "wind_direction_deg": 261,
-    "wind_direction_text": "З",
-    "weather_code": 51,
-    "description": "Лёгкая морось"
+    "wind_speed_ms": 6.4,
+    "wind_direction_deg": 254,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-08-19T22:00",
-      "temp": 15.8,
+      "temp": 15.9,
       "precip_prob": 91,
       "weather_code": 51
     },
     {
       "time": "2026-08-19T23:00",
-      "temp": 15.5,
+      "temp": 15.4,
       "precip_prob": 95,
       "weather_code": 2
     }
@@ -167,15 +167,15 @@
       "date": "2026-08-19",
       "temp_max": 16.5,
       "temp_min": 13.6,
-      "precipitation_mm": 39.0,
+      "precipitation_mm": 38.8,
       "wind_max_ms": 9.0,
       "weather_code": 63,
       "description": "Дождь"
     },
     {
       "date": "2026-08-20",
-      "temp_max": 20.1,
-      "temp_min": 12.6,
+      "temp_max": 20.3,
+      "temp_min": 12.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 5.7,
       "weather_code": 3,
@@ -183,18 +183,18 @@
     },
     {
       "date": "2026-08-21",
-      "temp_max": 19.3,
-      "temp_min": 15.4,
-      "precipitation_mm": 0.5,
-      "wind_max_ms": 5.4,
+      "temp_max": 18.9,
+      "temp_min": 15.3,
+      "precipitation_mm": 0.6,
+      "wind_max_ms": 5.7,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-22",
       "temp_max": 20.6,
-      "temp_min": 13.0,
-      "precipitation_mm": 6.0,
+      "temp_min": 13.6,
+      "precipitation_mm": 4.8,
       "wind_max_ms": 2.9,
       "weather_code": 80,
       "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Лёгкая морось"
     }
   ],
-  "fetched_at": "2026-08-19T17:43:08.588975+00:00"
+  "fetched_at": "2026-08-19T18:55:01.185765+00:00"
 }
