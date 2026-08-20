@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 22.4,
-    "feels_like": 21.7,
+    "temperature": 22.3,
+    "feels_like": 21.6,
     "humidity": 46,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1017.0,
-    "wind_speed_ms": 1.5,
-    "wind_direction_deg": 16,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 25,
     "wind_direction_text": "ССВ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -103,61 +103,61 @@
     },
     {
       "time": "2026-08-20T14:00",
-      "temp": 22.0,
+      "temp": 22.1,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-20T15:00",
-      "temp": 22.3,
+      "temp": 22.4,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-20T16:00",
-      "temp": 22.4,
+      "temp": 22.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-20T17:00",
-      "temp": 22.4,
+      "temp": 22.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-20T18:00",
-      "temp": 22.2,
+      "temp": 22.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-20T19:00",
-      "temp": 21.5,
+      "temp": 21.4,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-20T20:00",
-      "temp": 19.8,
+      "temp": 20.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-20T21:00",
-      "temp": 18.5,
+      "temp": 18.6,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-08-20T22:00",
-      "temp": 17.4,
+      "temp": 17.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-20T23:00",
-      "temp": 16.6,
+      "temp": 16.9,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-08-20",
-      "temp_max": 22.4,
+      "temp_max": 22.6,
       "temp_min": 10.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.1,
@@ -174,7 +174,7 @@
     },
     {
       "date": "2026-08-21",
-      "temp_max": 27.0,
+      "temp_max": 26.9,
       "temp_min": 13.9,
       "precipitation_mm": 0.2,
       "wind_max_ms": 3.1,
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-20T11:44:50.040098+00:00"
+  "fetched_at": "2026-08-20T13:13:06.981264+00:00"
 }
