@@ -5,16 +5,16 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 16.9,
-    "feels_like": 18.2,
-    "humidity": 92,
-    "precipitation_mm": 1.2,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 135,
-    "wind_direction_text": "ЮВ",
-    "weather_code": 81,
-    "description": "Сильный ливень"
+    "temperature": 16.3,
+    "feels_like": 16.4,
+    "humidity": 93,
+    "precipitation_mm": 0.1,
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 3.1,
+    "wind_direction_deg": 153,
+    "wind_direction_text": "ЮЮВ",
+    "weather_code": 95,
+    "description": "Гроза"
   },
   "hourly": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "time": "2026-08-21T02:00",
-      "temp": 18.5,
+      "temp": 18.4,
       "precip_prob": 30,
       "weather_code": 3
     },
@@ -43,13 +43,13 @@
     },
     {
       "time": "2026-08-21T04:00",
-      "temp": 17.1,
+      "temp": 17.0,
       "precip_prob": 58,
       "weather_code": 95
     },
     {
       "time": "2026-08-21T05:00",
-      "temp": 16.8,
+      "temp": 16.7,
       "precip_prob": 88,
       "weather_code": 81
     },
@@ -57,23 +57,23 @@
       "time": "2026-08-21T06:00",
       "temp": 16.5,
       "precip_prob": 75,
-      "weather_code": 80
+      "weather_code": 95
     },
     {
       "time": "2026-08-21T07:00",
-      "temp": 16.4,
+      "temp": 16.3,
       "precip_prob": 83,
-      "weather_code": 80
+      "weather_code": 95
     },
     {
       "time": "2026-08-21T08:00",
-      "temp": 16.6,
+      "temp": 16.5,
       "precip_prob": 85,
-      "weather_code": 80
+      "weather_code": 95
     },
     {
       "time": "2026-08-21T09:00",
-      "temp": 17.1,
+      "temp": 17.2,
       "precip_prob": 78,
       "weather_code": 80
     },
@@ -81,41 +81,41 @@
       "time": "2026-08-21T10:00",
       "temp": 18.0,
       "precip_prob": 68,
-      "weather_code": 95
+      "weather_code": 80
     },
     {
       "time": "2026-08-21T11:00",
-      "temp": 19.0,
+      "temp": 18.7,
       "precip_prob": 65,
       "weather_code": 95
     },
     {
       "time": "2026-08-21T12:00",
-      "temp": 19.3,
+      "temp": 19.5,
       "precip_prob": 80,
       "weather_code": 95
     },
     {
       "time": "2026-08-21T13:00",
-      "temp": 19.9,
+      "temp": 19.8,
       "precip_prob": 78,
-      "weather_code": 80
+      "weather_code": 95
     },
     {
       "time": "2026-08-21T14:00",
-      "temp": 19.9,
+      "temp": 20.4,
       "precip_prob": 75,
       "weather_code": 80
     },
     {
       "time": "2026-08-21T15:00",
-      "temp": 19.5,
+      "temp": 20.5,
       "precip_prob": 53,
-      "weather_code": 80
+      "weather_code": 3
     },
     {
       "time": "2026-08-21T16:00",
-      "temp": 20.4,
+      "temp": 20.9,
       "precip_prob": 43,
       "weather_code": 2
     },
@@ -127,56 +127,56 @@
     },
     {
       "time": "2026-08-21T18:00",
-      "temp": 19.9,
+      "temp": 20.2,
       "precip_prob": 13,
       "weather_code": 2
     },
     {
       "time": "2026-08-21T19:00",
-      "temp": 19.4,
+      "temp": 19.7,
       "precip_prob": 8,
       "weather_code": 2
     },
     {
       "time": "2026-08-21T20:00",
-      "temp": 18.4,
-      "precip_prob": 3,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-08-21T21:00",
-      "temp": 17.3,
+      "temp": 18.9,
       "precip_prob": 3,
       "weather_code": 2
     },
     {
-      "time": "2026-08-21T22:00",
-      "temp": 16.4,
-      "precip_prob": 0,
+      "time": "2026-08-21T21:00",
+      "temp": 17.7,
+      "precip_prob": 3,
       "weather_code": 3
     },
     {
-      "time": "2026-08-21T23:00",
-      "temp": 15.8,
+      "time": "2026-08-21T22:00",
+      "temp": 17.0,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
+    },
+    {
+      "time": "2026-08-21T23:00",
+      "temp": 16.0,
+      "precip_prob": 0,
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-08-21",
-      "temp_max": 20.5,
-      "temp_min": 15.8,
-      "precipitation_mm": 16.6,
-      "wind_max_ms": 3.6,
+      "temp_max": 20.9,
+      "temp_min": 16.0,
+      "precipitation_mm": 15.5,
+      "wind_max_ms": 3.4,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-08-22",
       "temp_max": 18.3,
-      "temp_min": 13.5,
-      "precipitation_mm": 6.7,
+      "temp_min": 12.8,
+      "precipitation_mm": 6.8,
       "wind_max_ms": 3.8,
       "weather_code": 95,
       "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-20T23:42:43.611326+00:00"
+  "fetched_at": "2026-08-21T01:59:46.543098+00:00"
 }
