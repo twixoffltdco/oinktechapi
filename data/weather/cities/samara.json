@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 22.0,
-    "feels_like": 22.6,
-    "humidity": 61,
+    "temperature": 21.5,
+    "feels_like": 22.5,
+    "humidity": 68,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.5,
-    "wind_direction_deg": 247,
-    "wind_direction_text": "ЗЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 1.7,
+    "wind_direction_deg": 280,
+    "wind_direction_text": "З",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -133,33 +133,33 @@
     },
     {
       "time": "2026-08-21T19:00",
-      "temp": 25.0,
+      "temp": 25.3,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-21T20:00",
-      "temp": 23.6,
+      "temp": 24.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-21T21:00",
-      "temp": 22.9,
+      "temp": 23.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-21T22:00",
-      "temp": 21.8,
+      "temp": 22.2,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-21T23:00",
-      "temp": 20.8,
+      "temp": 21.4,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
@@ -175,9 +175,9 @@
     {
       "date": "2026-08-22",
       "temp_max": 24.8,
-      "temp_min": 17.7,
+      "temp_min": 17.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.5,
+      "wind_max_ms": 3.6,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-21T17:47:30.521972+00:00"
+  "fetched_at": "2026-08-21T18:58:36.388702+00:00"
 }
