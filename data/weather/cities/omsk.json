@@ -5,16 +5,16 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 14.8,
-    "feels_like": 15.5,
-    "humidity": 90,
+    "temperature": 17.3,
+    "feels_like": 18.3,
+    "humidity": 81,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
     "wind_speed_ms": 0.6,
-    "wind_direction_deg": 232,
+    "wind_direction_deg": 222,
     "wind_direction_text": "ЮЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -98,25 +98,25 @@
     {
       "time": "2026-08-22T13:00",
       "temp": 21.6,
-      "precip_prob": 0,
+      "precip_prob": 2,
       "weather_code": 51
     },
     {
       "time": "2026-08-22T14:00",
       "temp": 22.2,
-      "precip_prob": 0,
+      "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-08-22T15:00",
       "temp": 22.5,
-      "precip_prob": 0,
+      "precip_prob": 8,
       "weather_code": 2
     },
     {
       "time": "2026-08-22T16:00",
       "temp": 22.6,
-      "precip_prob": 4,
+      "precip_prob": 9,
       "weather_code": 3
     },
     {
@@ -128,13 +128,13 @@
     {
       "time": "2026-08-22T18:00",
       "temp": 21.5,
-      "precip_prob": 14,
+      "precip_prob": 10,
       "weather_code": 2
     },
     {
       "time": "2026-08-22T19:00",
       "temp": 21.1,
-      "precip_prob": 14,
+      "precip_prob": 11,
       "weather_code": 51
     },
     {
@@ -146,19 +146,19 @@
     {
       "time": "2026-08-22T21:00",
       "temp": 18.6,
-      "precip_prob": 8,
+      "precip_prob": 10,
       "weather_code": 0
     },
     {
       "time": "2026-08-22T22:00",
       "temp": 18.0,
-      "precip_prob": 5,
+      "precip_prob": 7,
       "weather_code": 1
     },
     {
       "time": "2026-08-22T23:00",
       "temp": 17.5,
-      "precip_prob": 2,
+      "precip_prob": 3,
       "weather_code": 1
     }
   ],
@@ -227,5 +227,5 @@
       "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-22T01:52:04.453905+00:00"
+  "fetched_at": "2026-08-22T03:09:14.654848+00:00"
 }
