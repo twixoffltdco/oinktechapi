@@ -5,16 +5,16 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 23.5,
-    "feels_like": 23.9,
-    "humidity": 61,
+    "temperature": 21.3,
+    "feels_like": 21.0,
+    "humidity": 63,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
-    "wind_speed_ms": 2.7,
-    "wind_direction_deg": 324,
-    "wind_direction_text": "СЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 3.0,
+    "wind_direction_deg": 327,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -135,7 +135,7 @@
       "time": "2026-08-23T19:00",
       "temp": 26.8,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-08-23T20:00",
@@ -147,17 +147,17 @@
       "time": "2026-08-23T21:00",
       "temp": 22.6,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-08-23T22:00",
-      "temp": 20.8,
+      "temp": 20.9,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-08-23T23:00",
-      "temp": 19.4,
+      "temp": 19.5,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -168,18 +168,18 @@
       "temp_max": 33.2,
       "temp_min": 18.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.4,
+      "wind_max_ms": 3.6,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-08-24",
       "temp_max": 24.3,
-      "temp_min": 16.1,
+      "temp_min": 16.2,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.7,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-08-25",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-23T17:37:42.938629+00:00"
+  "fetched_at": "2026-08-23T18:50:08.345248+00:00"
 }
