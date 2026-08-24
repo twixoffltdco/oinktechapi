@@ -5,13 +5,13 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 15.4,
-    "feels_like": 15.1,
-    "humidity": 80,
+    "temperature": 15.5,
+    "feels_like": 14.9,
+    "humidity": 77,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1016.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 152,
+    "wind_speed_ms": 2.1,
+    "wind_direction_deg": 149,
     "wind_direction_text": "ЮЮВ",
     "weather_code": 2,
     "description": "Переменная облачность"
@@ -25,21 +25,21 @@
     },
     {
       "time": "2026-08-24T01:00",
-      "temp": 15.2,
+      "temp": 15.0,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-24T02:00",
-      "temp": 15.3,
+      "temp": 15.2,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-24T03:00",
-      "temp": 15.3,
+      "temp": 15.2,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-08-24T04:00",
@@ -49,19 +49,19 @@
     },
     {
       "time": "2026-08-24T05:00",
-      "temp": 15.4,
+      "temp": 15.5,
       "precip_prob": 3,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-24T06:00",
-      "temp": 15.5,
+      "temp": 15.6,
       "precip_prob": 3,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-08-24T07:00",
-      "temp": 16.0,
+      "temp": 16.1,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -73,7 +73,7 @@
     },
     {
       "time": "2026-08-24T09:00",
-      "temp": 18.7,
+      "temp": 18.6,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -85,31 +85,31 @@
     },
     {
       "time": "2026-08-24T11:00",
-      "temp": 21.4,
+      "temp": 21.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T12:00",
-      "temp": 22.2,
+      "temp": 22.3,
       "precip_prob": 8,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T13:00",
-      "temp": 22.7,
+      "temp": 22.4,
       "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T14:00",
-      "temp": 22.7,
+      "temp": 23.1,
       "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T15:00",
-      "temp": 23.4,
+      "temp": 22.5,
       "precip_prob": 10,
       "weather_code": 3
     },
@@ -121,33 +121,33 @@
     },
     {
       "time": "2026-08-24T17:00",
-      "temp": 22.7,
+      "temp": 22.3,
       "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T18:00",
-      "temp": 22.6,
+      "temp": 21.9,
       "precip_prob": 25,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T19:00",
-      "temp": 22.0,
+      "temp": 21.2,
       "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-08-24T20:00",
-      "temp": 20.6,
+      "temp": 20.8,
       "precip_prob": 18,
-      "weather_code": 61
+      "weather_code": 3
     },
     {
       "time": "2026-08-24T21:00",
-      "temp": 19.5,
+      "temp": 20.0,
       "precip_prob": 20,
-      "weather_code": 61
+      "weather_code": 3
     },
     {
       "time": "2026-08-24T22:00",
@@ -157,26 +157,26 @@
     },
     {
       "time": "2026-08-24T23:00",
-      "temp": 18.6,
+      "temp": 18.7,
       "precip_prob": 36,
-      "weather_code": 61
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-08-24",
-      "temp_max": 23.4,
-      "temp_min": 15.2,
-      "precipitation_mm": 1.6,
-      "wind_max_ms": 3.8,
+      "temp_max": 23.1,
+      "temp_min": 15.0,
+      "precipitation_mm": 1.4,
+      "wind_max_ms": 3.9,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-08-25",
       "temp_max": 19.5,
-      "temp_min": 16.8,
-      "precipitation_mm": 9.6,
+      "temp_min": 16.7,
+      "precipitation_mm": 8.4,
       "wind_max_ms": 3.1,
       "weather_code": 80,
       "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-08-23T23:37:44.113902+00:00"
+  "fetched_at": "2026-08-24T01:59:15.408629+00:00"
 }
