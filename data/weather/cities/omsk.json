@@ -5,13 +5,13 @@
   "longitude": 73.3242,
   "timezone": "Asia/Omsk",
   "current": {
-    "temperature": 14.9,
-    "feels_like": 15.0,
-    "humidity": 95,
+    "temperature": 14.8,
+    "feels_like": 14.6,
+    "humidity": 92,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1014.0,
     "wind_speed_ms": 2.4,
-    "wind_direction_deg": 359,
+    "wind_direction_deg": 7,
     "wind_direction_text": "С",
     "weather_code": 0,
     "description": "Ясно"
@@ -19,19 +19,19 @@
   "hourly": [
     {
       "time": "2026-08-25T00:00",
-      "temp": 15.3,
+      "temp": 15.9,
       "precip_prob": 2,
       "weather_code": 0
     },
     {
       "time": "2026-08-25T01:00",
-      "temp": 14.9,
+      "temp": 15.2,
       "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-08-25T02:00",
-      "temp": 14.6,
+      "temp": 14.7,
       "precip_prob": 1,
       "weather_code": 0
     },
@@ -49,27 +49,27 @@
     },
     {
       "time": "2026-08-25T05:00",
-      "temp": 13.7,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-08-25T06:00",
-      "temp": 13.5,
-      "precip_prob": 0,
-      "weather_code": 0
-    },
-    {
-      "time": "2026-08-25T07:00",
       "temp": 13.8,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
-      "time": "2026-08-25T08:00",
-      "temp": 15.1,
+      "time": "2026-08-25T06:00",
+      "temp": 13.6,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
+    },
+    {
+      "time": "2026-08-25T07:00",
+      "temp": 13.9,
+      "precip_prob": 0,
+      "weather_code": 0
+    },
+    {
+      "time": "2026-08-25T08:00",
+      "temp": 15.2,
+      "precip_prob": 0,
+      "weather_code": 2
     },
     {
       "time": "2026-08-25T09:00",
@@ -79,7 +79,7 @@
     },
     {
       "time": "2026-08-25T10:00",
-      "temp": 18.4,
+      "temp": 18.3,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -91,19 +91,19 @@
     },
     {
       "time": "2026-08-25T12:00",
-      "temp": 20.8,
+      "temp": 21.0,
       "precip_prob": 2,
       "weather_code": 51
     },
     {
       "time": "2026-08-25T13:00",
-      "temp": 21.6,
+      "temp": 21.7,
       "precip_prob": 13,
       "weather_code": 51
     },
     {
       "time": "2026-08-25T14:00",
-      "temp": 22.2,
+      "temp": 22.4,
       "precip_prob": 29,
       "weather_code": 51
     },
@@ -117,47 +117,47 @@
       "time": "2026-08-25T16:00",
       "temp": 22.7,
       "precip_prob": 33,
-      "weather_code": 51
+      "weather_code": 3
     },
     {
       "time": "2026-08-25T17:00",
-      "temp": 22.4,
+      "temp": 22.6,
       "precip_prob": 21,
-      "weather_code": 51
+      "weather_code": 3
     },
     {
       "time": "2026-08-25T18:00",
       "temp": 22.1,
       "precip_prob": 12,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-08-25T19:00",
       "temp": 21.4,
       "precip_prob": 7,
-      "weather_code": 1
+      "weather_code": 3
     },
     {
       "time": "2026-08-25T20:00",
-      "temp": 19.7,
+      "temp": 19.9,
       "precip_prob": 4,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-08-25T21:00",
       "temp": 18.7,
       "precip_prob": 2,
-      "weather_code": 2
+      "weather_code": 0
     },
     {
       "time": "2026-08-25T22:00",
-      "temp": 17.9,
+      "temp": 18.0,
       "precip_prob": 1,
       "weather_code": 0
     },
     {
       "time": "2026-08-25T23:00",
-      "temp": 17.2,
+      "temp": 17.3,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -166,66 +166,66 @@
     {
       "date": "2026-08-25",
       "temp_max": 22.7,
-      "temp_min": 13.5,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 2.9,
+      "temp_min": 13.6,
+      "precipitation_mm": 0.5,
+      "wind_max_ms": 2.8,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-26",
-      "temp_max": 24.0,
+      "temp_max": 24.1,
       "temp_min": 14.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
+      "wind_max_ms": 2.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-08-27",
-      "temp_max": 28.1,
-      "temp_min": 16.6,
-      "precipitation_mm": 3.3,
-      "wind_max_ms": 6.2,
+      "temp_max": 27.4,
+      "temp_min": 16.5,
+      "precipitation_mm": 6.0,
+      "wind_max_ms": 4.8,
+      "weather_code": 81,
+      "description": "Сильный ливень"
+    },
+    {
+      "date": "2026-08-28",
+      "temp_max": 19.9,
+      "temp_min": 14.4,
+      "precipitation_mm": 3.2,
+      "wind_max_ms": 4.7,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
-      "date": "2026-08-28",
-      "temp_max": 21.0,
-      "temp_min": 14.3,
+      "date": "2026-08-29",
+      "temp_max": 16.4,
+      "temp_min": 10.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.8,
+      "wind_max_ms": 2.7,
       "weather_code": 3,
       "description": "Пасмурно"
-    },
-    {
-      "date": "2026-08-29",
-      "temp_max": 17.2,
-      "temp_min": 10.9,
-      "precipitation_mm": 3.6,
-      "wind_max_ms": 5.0,
-      "weather_code": 55,
-      "description": "Сильная морось"
     },
     {
       "date": "2026-08-30",
-      "temp_max": 13.0,
-      "temp_min": 6.6,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 3.9,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "temp_max": 14.2,
+      "temp_min": 6.3,
+      "precipitation_mm": 0.3,
+      "wind_max_ms": 4.5,
+      "weather_code": 51,
+      "description": "Лёгкая морось"
     },
     {
       "date": "2026-08-31",
-      "temp_max": 13.9,
-      "temp_min": 5.5,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 5.2,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 11.3,
+      "temp_min": 5.6,
+      "precipitation_mm": 4.8,
+      "wind_max_ms": 3.8,
+      "weather_code": 53,
+      "description": "Морось"
     }
   ],
-  "fetched_at": "2026-08-24T19:01:22.003619+00:00"
+  "fetched_at": "2026-08-24T19:46:47.604606+00:00"
 }
