@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 16.7,
-    "humidity": 80,
+    "temperature": 15.7,
+    "feels_like": 15.6,
+    "humidity": 79,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 1.3,
-    "wind_direction_deg": 270,
-    "wind_direction_text": "З",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "wind_speed_ms": 1.5,
+    "wind_direction_deg": 286,
+    "wind_direction_text": "ЗСЗ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -32,25 +32,25 @@
     {
       "time": "2026-08-26T02:00",
       "temp": 15.5,
-      "precip_prob": 10,
+      "precip_prob": 8,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T03:00",
       "temp": 14.7,
-      "precip_prob": 15,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T04:00",
       "temp": 13.9,
-      "precip_prob": 5,
+      "precip_prob": 3,
       "weather_code": 0
     },
     {
       "time": "2026-08-26T05:00",
       "temp": 13.5,
-      "precip_prob": 0,
+      "precip_prob": 3,
       "weather_code": 1
     },
     {
@@ -80,25 +80,25 @@
     {
       "time": "2026-08-26T10:00",
       "temp": 17.5,
-      "precip_prob": 5,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T11:00",
       "temp": 18.3,
-      "precip_prob": 5,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T12:00",
       "temp": 18.6,
-      "precip_prob": 10,
+      "precip_prob": 3,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T13:00",
       "temp": 18.7,
-      "precip_prob": 10,
+      "precip_prob": 8,
       "weather_code": 3
     },
     {
@@ -110,37 +110,37 @@
     {
       "time": "2026-08-26T15:00",
       "temp": 17.9,
-      "precip_prob": 43,
+      "precip_prob": 35,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T16:00",
       "temp": 17.6,
-      "precip_prob": 58,
+      "precip_prob": 53,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T17:00",
       "temp": 16.6,
-      "precip_prob": 70,
+      "precip_prob": 63,
       "weather_code": 80
     },
     {
       "time": "2026-08-26T18:00",
       "temp": 15.7,
-      "precip_prob": 58,
+      "precip_prob": 53,
       "weather_code": 80
     },
     {
       "time": "2026-08-26T19:00",
       "temp": 15.0,
-      "precip_prob": 45,
+      "precip_prob": 40,
       "weather_code": 80
     },
     {
       "time": "2026-08-26T20:00",
       "temp": 14.1,
-      "precip_prob": 25,
+      "precip_prob": 20,
       "weather_code": 80
     },
     {
@@ -152,7 +152,7 @@
     {
       "time": "2026-08-26T22:00",
       "temp": 13.5,
-      "precip_prob": 3,
+      "precip_prob": 5,
       "weather_code": 80
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "date": "2026-08-30",
-      "temp_max": 13.3,
+      "temp_max": 12.8,
       "temp_min": 4.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.5,
@@ -227,5 +227,5 @@
       "description": "Ливень"
     }
   ],
-  "fetched_at": "2026-08-25T20:48:39.312967+00:00"
+  "fetched_at": "2026-08-25T21:45:45.795468+00:00"
 }
