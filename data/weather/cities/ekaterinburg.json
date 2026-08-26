@@ -5,16 +5,16 @@
   "longitude": 60.6122,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 18.1,
-    "feels_like": 19.0,
+    "temperature": 18.4,
+    "feels_like": 19.6,
     "humidity": 81,
-    "precipitation_mm": 0.0,
+    "precipitation_mm": 0.2,
     "pressure_hpa": 1009.0,
-    "wind_speed_ms": 1.4,
-    "wind_direction_deg": 234,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 180,
+    "wind_direction_text": "Ю",
+    "weather_code": 80,
+    "description": "Ливень"
   },
   "hourly": [
     {
@@ -56,37 +56,37 @@
     {
       "time": "2026-08-26T06:00",
       "temp": 18.5,
-      "precip_prob": 48,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T07:00",
       "temp": 18.1,
-      "precip_prob": 38,
+      "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T08:00",
       "temp": 18.4,
-      "precip_prob": 58,
+      "precip_prob": 55,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T09:00",
       "temp": 18.3,
-      "precip_prob": 65,
+      "precip_prob": 70,
       "weather_code": 80
     },
     {
       "time": "2026-08-26T10:00",
       "temp": 18.9,
-      "precip_prob": 53,
+      "precip_prob": 70,
       "weather_code": 80
     },
     {
       "time": "2026-08-26T11:00",
       "temp": 19.3,
-      "precip_prob": 45,
+      "precip_prob": 50,
       "weather_code": 80
     },
     {
@@ -98,25 +98,25 @@
     {
       "time": "2026-08-26T13:00",
       "temp": 21.9,
-      "precip_prob": 18,
+      "precip_prob": 23,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T14:00",
       "temp": 22.1,
-      "precip_prob": 13,
+      "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-08-26T15:00",
       "temp": 22.6,
-      "precip_prob": 10,
+      "precip_prob": 15,
       "weather_code": 2
     },
     {
       "time": "2026-08-26T16:00",
       "temp": 22.3,
-      "precip_prob": 8,
+      "precip_prob": 0,
       "weather_code": 2
     },
     {
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-08-26T02:00:15.664481+00:00"
+  "fetched_at": "2026-08-26T03:26:47.530042+00:00"
 }
