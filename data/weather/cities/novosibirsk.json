@@ -5,16 +5,16 @@
   "longitude": 82.9207,
   "timezone": "Asia/Novosibirsk",
   "current": {
-    "temperature": 6.7,
-    "feels_like": 4.9,
-    "humidity": 94,
+    "temperature": 5.8,
+    "feels_like": 3.9,
+    "humidity": 95,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1014.0,
-    "wind_speed_ms": 1.2,
-    "wind_direction_deg": 241,
-    "wind_direction_text": "ЗЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1015.0,
+    "wind_speed_ms": 1.4,
+    "wind_direction_deg": 260,
+    "wind_direction_text": "З",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -135,13 +135,13 @@
       "time": "2026-09-02T19:00",
       "temp": 13.1,
       "precip_prob": 18,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-09-02T20:00",
       "temp": 11.7,
       "precip_prob": 12,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-09-02T21:00",
@@ -205,8 +205,8 @@
       "temp_min": 11.3,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.3,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-09-07",
@@ -227,5 +227,5 @@
       "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-09-01T21:48:46.620380+00:00"
+  "fetched_at": "2026-09-02T00:17:24.501200+00:00"
 }
