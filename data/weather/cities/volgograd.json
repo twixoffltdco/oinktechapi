@@ -5,14 +5,14 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 24.4,
-    "feels_like": 22.0,
-    "humidity": 22,
+    "temperature": 20.2,
+    "feels_like": 18.3,
+    "humidity": 33,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1015.0,
-    "wind_speed_ms": 0.9,
-    "wind_direction_deg": 117,
-    "wind_direction_text": "ВЮВ",
+    "wind_speed_ms": 0.8,
+    "wind_direction_deg": 40,
+    "wind_direction_text": "СВ",
     "weather_code": 3,
     "description": "Пасмурно"
   },
@@ -133,13 +133,13 @@
     },
     {
       "time": "2026-09-03T19:00",
-      "temp": 24.8,
+      "temp": 24.9,
       "precip_prob": 3,
       "weather_code": 2
     },
     {
       "time": "2026-09-03T20:00",
-      "temp": 23.2,
+      "temp": 23.4,
       "precip_prob": 3,
       "weather_code": 3
     },
@@ -151,9 +151,9 @@
     },
     {
       "time": "2026-09-03T22:00",
-      "temp": 21.1,
+      "temp": 20.9,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-09-03T23:00",
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-09-04",
-      "temp_max": 28.8,
-      "temp_min": 17.7,
+      "temp_max": 29.0,
+      "temp_min": 17.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.8,
+      "wind_max_ms": 3.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-09-03T16:28:54.105312+00:00"
+  "fetched_at": "2026-09-03T19:52:47.614815+00:00"
 }
