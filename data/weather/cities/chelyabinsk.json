@@ -5,16 +5,16 @@
   "longitude": 61.4368,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 26.4,
-    "feels_like": 23.1,
-    "humidity": 21,
+    "temperature": 17.9,
+    "feels_like": 16.5,
+    "humidity": 49,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1016.0,
-    "wind_speed_ms": 2.8,
-    "wind_direction_deg": 222,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1017.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 239,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -103,7 +103,7 @@
     },
     {
       "time": "2026-09-04T14:00",
-      "temp": 26.3,
+      "temp": 26.5,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -111,7 +111,7 @@
       "time": "2026-09-04T15:00",
       "temp": 25.6,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-09-04T16:00",
@@ -127,7 +127,7 @@
     },
     {
       "time": "2026-09-04T18:00",
-      "temp": 25.4,
+      "temp": 25.3,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -145,19 +145,19 @@
     },
     {
       "time": "2026-09-04T21:00",
-      "temp": 18.6,
+      "temp": 18.2,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
+      "time": "2026-09-04T22:00",
+      "temp": 17.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
-      "time": "2026-09-04T22:00",
-      "temp": 17.2,
-      "precip_prob": 0,
-      "weather_code": 2
-    },
-    {
       "time": "2026-09-04T23:00",
-      "temp": 15.5,
+      "temp": 15.7,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -165,67 +165,67 @@
   "forecast_7d": [
     {
       "date": "2026-09-04",
-      "temp_max": 26.3,
+      "temp_max": 26.5,
       "temp_min": 13.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
+      "wind_max_ms": 3.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-05",
-      "temp_max": 24.5,
-      "temp_min": 13.2,
+      "temp_max": 25.2,
+      "temp_min": 12.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.8,
+      "wind_max_ms": 5.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-06",
-      "temp_max": 25.1,
-      "temp_min": 14.4,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 5.4,
-      "weather_code": 80,
-      "description": "Ливень"
+      "temp_max": 26.3,
+      "temp_min": 16.6,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 4.5,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-09-07",
-      "temp_max": 29.9,
-      "temp_min": 15.3,
+      "temp_max": 30.0,
+      "temp_min": 16.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.9,
+      "wind_max_ms": 4.7,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-08",
-      "temp_max": 29.0,
-      "temp_min": 13.4,
+      "temp_max": 28.8,
+      "temp_min": 13.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.2,
+      "wind_max_ms": 4.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-09",
-      "temp_max": 25.3,
-      "temp_min": 13.9,
+      "temp_max": 21.3,
+      "temp_min": 12.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.6,
+      "wind_max_ms": 4.0,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-10",
-      "temp_max": 21.7,
-      "temp_min": 11.3,
+      "temp_max": 18.1,
+      "temp_min": 11.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.0,
+      "wind_max_ms": 4.6,
       "weather_code": 3,
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-09-04T11:22:44.511881+00:00"
+  "fetched_at": "2026-09-04T16:24:48.376266+00:00"
 }
