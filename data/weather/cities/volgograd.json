@@ -5,16 +5,16 @@
   "longitude": 44.5133,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 29.4,
-    "feels_like": 26.5,
-    "humidity": 23,
+    "temperature": 24.4,
+    "feels_like": 22.9,
+    "humidity": 33,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1012.0,
-    "wind_speed_ms": 3.7,
-    "wind_direction_deg": 251,
+    "wind_speed_ms": 1.5,
+    "wind_direction_deg": 250,
     "wind_direction_text": "ЗЮЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -109,45 +109,45 @@
     },
     {
       "time": "2026-09-05T15:00",
-      "temp": 30.1,
+      "temp": 30.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-05T16:00",
-      "temp": 29.9,
+      "temp": 30.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T17:00",
-      "temp": 29.2,
+      "temp": 29.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T18:00",
-      "temp": 27.9,
+      "temp": 28.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T19:00",
-      "temp": 25.4,
+      "temp": 25.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T20:00",
-      "temp": 23.8,
+      "temp": 24.0,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-09-05T21:00",
-      "temp": 23.1,
+      "temp": 22.9,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-09-05T22:00",
@@ -157,75 +157,75 @@
     },
     {
       "time": "2026-09-05T23:00",
-      "temp": 21.7,
+      "temp": 21.9,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-09-05",
-      "temp_max": 30.1,
+      "temp_max": 30.8,
       "temp_min": 17.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.7,
+      "wind_max_ms": 3.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-06",
-      "temp_max": 27.5,
-      "temp_min": 17.8,
-      "precipitation_mm": 4.8,
-      "wind_max_ms": 5.0,
-      "weather_code": 63,
-      "description": "Дождь"
+      "temp_max": 28.0,
+      "temp_min": 17.9,
+      "precipitation_mm": 8.9,
+      "wind_max_ms": 4.7,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-07",
-      "temp_max": 19.5,
-      "temp_min": 14.1,
-      "precipitation_mm": 2.8,
-      "wind_max_ms": 4.9,
+      "temp_max": 18.3,
+      "temp_min": 14.6,
+      "precipitation_mm": 5.9,
+      "wind_max_ms": 4.8,
       "weather_code": 95,
       "description": "Гроза"
     },
     {
       "date": "2026-09-08",
-      "temp_max": 14.9,
-      "temp_min": 11.7,
-      "precipitation_mm": 0.2,
-      "wind_max_ms": 5.0,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "temp_max": 16.8,
+      "temp_min": 10.3,
+      "precipitation_mm": 1.5,
+      "wind_max_ms": 5.1,
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-09",
-      "temp_max": 19.2,
-      "temp_min": 9.8,
+      "temp_max": 17.7,
+      "temp_min": 8.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.8,
+      "wind_max_ms": 4.5,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-10",
-      "temp_max": 23.7,
-      "temp_min": 10.4,
+      "temp_max": 21.4,
+      "temp_min": 10.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.6,
+      "wind_max_ms": 3.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-11",
-      "temp_max": 27.4,
-      "temp_min": 13.9,
+      "temp_max": 23.9,
+      "temp_min": 12.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.5,
-      "weather_code": 1,
-      "description": "Преимущественно ясно"
+      "wind_max_ms": 1.9,
+      "weather_code": 0,
+      "description": "Ясно"
     }
   ],
-  "fetched_at": "2026-09-05T13:53:19.338121+00:00"
+  "fetched_at": "2026-09-05T16:50:54.348035+00:00"
 }
