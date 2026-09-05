@@ -5,14 +5,14 @@
   "longitude": 38.9753,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 30.6,
-    "feels_like": 30.8,
-    "humidity": 27,
+    "temperature": 31.2,
+    "feels_like": 29.5,
+    "humidity": 24,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1015.0,
-    "wind_speed_ms": 1.6,
-    "wind_direction_deg": 305,
-    "wind_direction_text": "СЗ",
+    "pressure_hpa": 1014.0,
+    "wind_speed_ms": 2.2,
+    "wind_direction_deg": 262,
+    "wind_direction_text": "З",
     "weather_code": 1,
     "description": "Преимущественно ясно"
   },
@@ -91,13 +91,13 @@
     },
     {
       "time": "2026-09-05T12:00",
-      "temp": 29.0,
+      "temp": 29.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T13:00",
-      "temp": 30.2,
+      "temp": 30.4,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -115,49 +115,49 @@
     },
     {
       "time": "2026-09-05T16:00",
-      "temp": 31.1,
+      "temp": 31.2,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-05T17:00",
-      "temp": 30.7,
+      "temp": 31.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-05T18:00",
-      "temp": 29.4,
+      "temp": 29.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-09-05T19:00",
-      "temp": 27.2,
+      "temp": 27.6,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-05T20:00",
-      "temp": 25.2,
+      "temp": 25.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-05T21:00",
-      "temp": 23.7,
+      "temp": 24.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T22:00",
-      "temp": 22.5,
+      "temp": 22.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-05T23:00",
-      "temp": 21.8,
+      "temp": 22.0,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,18 +165,18 @@
   "forecast_7d": [
     {
       "date": "2026-09-05",
-      "temp_max": 31.1,
+      "temp_max": 31.2,
       "temp_min": 16.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.6,
+      "wind_max_ms": 2.8,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-09-06",
-      "temp_max": 30.6,
+      "temp_max": 30.5,
       "temp_min": 18.5,
-      "precipitation_mm": 4.2,
+      "precipitation_mm": 4.0,
       "wind_max_ms": 5.5,
       "weather_code": 95,
       "description": "Гроза"
@@ -227,5 +227,5 @@
       "description": "Преимущественно ясно"
     }
   ],
-  "fetched_at": "2026-09-05T10:40:06.523216+00:00"
+  "fetched_at": "2026-09-05T13:53:02.346940+00:00"
 }
