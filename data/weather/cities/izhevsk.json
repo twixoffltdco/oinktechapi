@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 12.4,
-    "feels_like": 11.3,
-    "humidity": 73,
+    "temperature": 9.8,
+    "feels_like": 8.7,
+    "humidity": 90,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1012.0,
-    "wind_speed_ms": 1.1,
-    "wind_direction_deg": 128,
-    "wind_direction_text": "ЮВ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1014.0,
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 104,
+    "wind_direction_text": "ВЮВ",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -133,40 +133,40 @@
     },
     {
       "time": "2026-09-09T19:00",
-      "temp": 14.3,
+      "temp": 13.6,
       "precip_prob": 5,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T20:00",
-      "temp": 12.9,
+      "temp": 12.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T21:00",
-      "temp": 12.0,
+      "temp": 11.4,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-09-09T22:00",
-      "temp": 11.1,
+      "temp": 10.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-09T23:00",
-      "temp": 10.4,
+      "temp": 10.1,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-09-09",
       "temp_max": 16.5,
-      "temp_min": 10.4,
+      "temp_min": 10.1,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.9,
       "weather_code": 3,
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-09-10",
-      "temp_max": 17.3,
-      "temp_min": 8.1,
+      "temp_max": 18.2,
+      "temp_min": 8.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.2,
+      "wind_max_ms": 2.9,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-09-09T16:41:58.908394+00:00"
+  "fetched_at": "2026-09-09T19:48:18.791402+00:00"
 }

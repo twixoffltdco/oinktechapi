@@ -5,16 +5,16 @@
   "longitude": 37.6176,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 17.5,
-    "feels_like": 17.6,
-    "humidity": 70,
+    "temperature": 14.8,
+    "feels_like": 14.4,
+    "humidity": 77,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1013.0,
-    "wind_speed_ms": 1.0,
-    "wind_direction_deg": 217,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "wind_speed_ms": 1.2,
+    "wind_direction_deg": 200,
+    "wind_direction_text": "ЮЮЗ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -127,37 +127,37 @@
     },
     {
       "time": "2026-09-09T18:00",
-      "temp": 20.0,
+      "temp": 20.5,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T19:00",
-      "temp": 18.3,
+      "temp": 18.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T20:00",
-      "temp": 16.8,
+      "temp": 17.3,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T21:00",
-      "temp": 15.6,
+      "temp": 16.1,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-09-09T22:00",
-      "temp": 14.8,
+      "temp": 15.2,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-09T23:00",
-      "temp": 14.2,
+      "temp": 14.6,
       "precip_prob": 0,
       "weather_code": 2
     }
@@ -174,16 +174,16 @@
     },
     {
       "date": "2026-09-10",
-      "temp_max": 24.7,
-      "temp_min": 11.9,
+      "temp_max": 25.3,
+      "temp_min": 12.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.1,
+      "wind_max_ms": 3.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-11",
-      "temp_max": 16.9,
+      "temp_max": 17.1,
       "temp_min": 12.5,
       "precipitation_mm": 5.4,
       "wind_max_ms": 4.5,
@@ -227,5 +227,5 @@
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-09-09T16:41:30.047879+00:00"
+  "fetched_at": "2026-09-09T19:47:51.458178+00:00"
 }
