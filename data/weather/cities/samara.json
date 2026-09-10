@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 12.2,
-    "feels_like": 11.5,
-    "humidity": 91,
+    "temperature": 11.4,
+    "feels_like": 10.7,
+    "humidity": 94,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1017.0,
-    "wind_speed_ms": 1.7,
-    "wind_direction_deg": 10,
+    "pressure_hpa": 1018.0,
+    "wind_speed_ms": 1.5,
+    "wind_direction_deg": 11,
     "wind_direction_text": "С",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 1,
+    "description": "Преимущественно ясно"
   },
   "hourly": [
     {
@@ -133,13 +133,13 @@
     },
     {
       "time": "2026-09-10T19:00",
-      "temp": 13.0,
+      "temp": 13.1,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-10T20:00",
-      "temp": 12.3,
+      "temp": 12.4,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-09-10T22:00",
-      "temp": 11.6,
+      "temp": 11.7,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-09-10T23:00",
-      "temp": 11.4,
+      "temp": 11.5,
       "precip_prob": 0,
       "weather_code": 1
     }
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-09-11",
-      "temp_max": 17.7,
-      "temp_min": 9.6,
+      "temp_max": 17.8,
+      "temp_min": 9.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.8,
+      "wind_max_ms": 1.6,
       "weather_code": 45,
       "description": "Туман"
     },
@@ -185,7 +185,7 @@
       "date": "2026-09-12",
       "temp_max": 16.8,
       "temp_min": 12.1,
-      "precipitation_mm": 6.3,
+      "precipitation_mm": 6.0,
       "wind_max_ms": 4.8,
       "weather_code": 80,
       "description": "Ливень"
@@ -227,5 +227,5 @@
       "description": "Гроза"
     }
   ],
-  "fetched_at": "2026-09-10T16:27:10.939934+00:00"
+  "fetched_at": "2026-09-10T19:44:39.787629+00:00"
 }
