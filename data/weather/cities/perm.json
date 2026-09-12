@@ -5,14 +5,14 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 14.7,
-    "feels_like": 14.9,
-    "humidity": 92,
+    "temperature": 14.3,
+    "feels_like": 14.6,
+    "humidity": 96,
     "precipitation_mm": 0.2,
-    "pressure_hpa": 1009.0,
+    "pressure_hpa": 1008.0,
     "wind_speed_ms": 1.7,
-    "wind_direction_deg": 332,
-    "wind_direction_text": "ССЗ",
+    "wind_direction_deg": 303,
+    "wind_direction_text": "ЗСЗ",
     "weather_code": 61,
     "description": "Небольшой дождь"
   },
@@ -103,13 +103,13 @@
     },
     {
       "time": "2026-09-12T14:00",
-      "temp": 14.5,
+      "temp": 14.4,
       "precip_prob": 53,
       "weather_code": 61
     },
     {
       "time": "2026-09-12T15:00",
-      "temp": 14.6,
+      "temp": 14.7,
       "precip_prob": 45,
       "weather_code": 61
     },
@@ -121,13 +121,13 @@
     },
     {
       "time": "2026-09-12T17:00",
-      "temp": 14.7,
+      "temp": 14.6,
       "precip_prob": 80,
       "weather_code": 61
     },
     {
       "time": "2026-09-12T18:00",
-      "temp": 14.8,
+      "temp": 14.6,
       "precip_prob": 78,
       "weather_code": 3
     },
@@ -145,7 +145,7 @@
     },
     {
       "time": "2026-09-12T21:00",
-      "temp": 14.0,
+      "temp": 13.9,
       "precip_prob": 80,
       "weather_code": 61
     },
@@ -165,19 +165,19 @@
   "forecast_7d": [
     {
       "date": "2026-09-12",
-      "temp_max": 14.8,
+      "temp_max": 14.7,
       "temp_min": 12.1,
-      "precipitation_mm": 8.5,
-      "wind_max_ms": 2.1,
+      "precipitation_mm": 10.0,
+      "wind_max_ms": 1.9,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-13",
-      "temp_max": 13.7,
+      "temp_max": 15.6,
       "temp_min": 12.2,
-      "precipitation_mm": 22.4,
-      "wind_max_ms": 4.3,
+      "precipitation_mm": 16.8,
+      "wind_max_ms": 3.8,
       "weather_code": 80,
       "description": "Ливень"
     },
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-09-12T10:51:36.878742+00:00"
+  "fetched_at": "2026-09-12T14:11:12.641347+00:00"
 }
