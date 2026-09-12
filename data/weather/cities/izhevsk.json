@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 9.4,
-    "feels_like": 8.6,
-    "humidity": 96,
+    "temperature": 8.5,
+    "feels_like": 7.4,
+    "humidity": 95,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1013.0,
-    "wind_speed_ms": 1.0,
-    "wind_direction_deg": 73,
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 72,
     "wind_direction_text": "ВСВ",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "time": "2026-09-12T01:00",
-      "temp": 10.0,
+      "temp": 9.9,
       "precip_prob": 0,
       "weather_code": 1
     },
@@ -37,27 +37,27 @@
     },
     {
       "time": "2026-09-12T03:00",
-      "temp": 9.4,
+      "temp": 9.3,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-12T04:00",
-      "temp": 9.0,
+      "temp": 8.8,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-12T05:00",
-      "temp": 8.6,
+      "temp": 8.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T06:00",
-      "temp": 8.2,
+      "temp": 8.0,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 45
     },
     {
       "time": "2026-09-12T07:00",
@@ -67,61 +67,61 @@
     },
     {
       "time": "2026-09-12T08:00",
-      "temp": 11.1,
+      "temp": 11.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T09:00",
-      "temp": 13.6,
+      "temp": 13.4,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T10:00",
-      "temp": 15.1,
+      "temp": 15.4,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T11:00",
-      "temp": 16.2,
+      "temp": 16.5,
       "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-09-12T12:00",
-      "temp": 17.0,
-      "precip_prob": 3,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-09-12T13:00",
-      "temp": 17.7,
-      "precip_prob": 3,
       "weather_code": 1
     },
     {
+      "time": "2026-09-12T12:00",
+      "temp": 17.5,
+      "precip_prob": 3,
+      "weather_code": 2
+    },
+    {
+      "time": "2026-09-12T13:00",
+      "temp": 18.0,
+      "precip_prob": 3,
+      "weather_code": 3
+    },
+    {
       "time": "2026-09-12T14:00",
-      "temp": 17.7,
+      "temp": 17.3,
       "precip_prob": 10,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T15:00",
-      "temp": 17.3,
+      "temp": 16.6,
       "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T16:00",
-      "temp": 16.5,
+      "temp": 15.9,
       "precip_prob": 28,
       "weather_code": 3
     },
     {
       "time": "2026-09-12T17:00",
-      "temp": 15.2,
+      "temp": 15.3,
       "precip_prob": 23,
       "weather_code": 3
     },
@@ -129,35 +129,35 @@
       "time": "2026-09-12T18:00",
       "temp": 14.2,
       "precip_prob": 28,
-      "weather_code": 3
+      "weather_code": 80
     },
     {
       "time": "2026-09-12T19:00",
       "temp": 13.5,
       "precip_prob": 48,
-      "weather_code": 3
+      "weather_code": 80
     },
     {
       "time": "2026-09-12T20:00",
-      "temp": 12.9,
+      "temp": 12.5,
       "precip_prob": 53,
       "weather_code": 61
     },
     {
       "time": "2026-09-12T21:00",
-      "temp": 12.2,
+      "temp": 11.9,
       "precip_prob": 50,
-      "weather_code": 61
+      "weather_code": 63
     },
     {
       "time": "2026-09-12T22:00",
-      "temp": 11.7,
+      "temp": 11.6,
       "precip_prob": 48,
       "weather_code": 61
     },
     {
       "time": "2026-09-12T23:00",
-      "temp": 11.4,
+      "temp": 11.5,
       "precip_prob": 43,
       "weather_code": 61
     }
@@ -165,21 +165,21 @@
   "forecast_7d": [
     {
       "date": "2026-09-12",
-      "temp_max": 17.7,
-      "temp_min": 8.2,
-      "precipitation_mm": 1.8,
+      "temp_max": 18.0,
+      "temp_min": 8.0,
+      "precipitation_mm": 9.5,
       "wind_max_ms": 3.0,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-09-13",
       "temp_max": 16.0,
-      "temp_min": 9.3,
-      "precipitation_mm": 0.1,
+      "temp_min": 10.1,
+      "precipitation_mm": 1.0,
       "wind_max_ms": 4.7,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 61,
+      "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-14",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-09-11T22:37:53.996104+00:00"
+  "fetched_at": "2026-09-12T01:10:19.395450+00:00"
 }
