@@ -5,16 +5,16 @@
   "longitude": 56.2502,
   "timezone": "Asia/Yekaterinburg",
   "current": {
-    "temperature": 13.7,
-    "feels_like": 12.3,
-    "humidity": 78,
+    "temperature": 15.2,
+    "feels_like": 14.6,
+    "humidity": 73,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1018.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 288,
-    "wind_direction_text": "ЗСЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "pressure_hpa": 1017.0,
+    "wind_speed_ms": 1.3,
+    "wind_direction_deg": 257,
+    "wind_direction_text": "ЗЮЗ",
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -85,13 +85,13 @@
     },
     {
       "time": "2026-09-15T11:00",
-      "temp": 12.0,
+      "temp": 12.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-15T12:00",
-      "temp": 12.8,
+      "temp": 12.9,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -103,9 +103,9 @@
     },
     {
       "time": "2026-09-15T14:00",
-      "temp": 15.0,
+      "temp": 15.1,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-09-15T15:00",
@@ -115,31 +115,31 @@
     },
     {
       "time": "2026-09-15T16:00",
-      "temp": 16.0,
+      "temp": 16.1,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-15T17:00",
-      "temp": 15.8,
+      "temp": 16.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-15T18:00",
-      "temp": 15.4,
+      "temp": 15.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-15T19:00",
-      "temp": 14.8,
+      "temp": 14.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-09-15T20:00",
-      "temp": 14.0,
+      "temp": 13.8,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -153,11 +153,11 @@
       "time": "2026-09-15T22:00",
       "temp": 12.9,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 3
     },
     {
       "time": "2026-09-15T23:00",
-      "temp": 12.5,
+      "temp": 12.4,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-09-15",
-      "temp_max": 16.0,
+      "temp_max": 16.1,
       "temp_min": 9.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.6,
@@ -174,44 +174,44 @@
     },
     {
       "date": "2026-09-16",
-      "temp_max": 14.1,
-      "temp_min": 11.1,
-      "precipitation_mm": 9.2,
-      "wind_max_ms": 2.9,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "temp_max": 13.2,
+      "temp_min": 11.0,
+      "precipitation_mm": 9.3,
+      "wind_max_ms": 2.5,
+      "weather_code": 80,
+      "description": "Ливень"
     },
     {
       "date": "2026-09-17",
-      "temp_max": 15.4,
+      "temp_max": 15.0,
       "temp_min": 9.5,
-      "precipitation_mm": 2.7,
-      "wind_max_ms": 3.3,
+      "precipitation_mm": 0.8,
+      "wind_max_ms": 3.4,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-09-18",
-      "temp_max": 15.9,
-      "temp_min": 6.7,
+      "temp_max": 15.2,
+      "temp_min": 6.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 2.6,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-19",
-      "temp_max": 15.7,
-      "temp_min": 8.3,
+      "temp_max": 15.4,
+      "temp_min": 8.5,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 2.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-20",
       "temp_max": 17.4,
-      "temp_min": 10.1,
+      "temp_min": 10.5,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.7,
       "weather_code": 3,
@@ -227,5 +227,5 @@
       "description": "Туман"
     }
   ],
-  "fetched_at": "2026-09-15T07:48:34.491965+00:00"
+  "fetched_at": "2026-09-15T13:36:34.171974+00:00"
 }
