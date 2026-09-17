@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 16.1,
-    "feels_like": 15.0,
-    "humidity": 73,
+    "temperature": 12.2,
+    "feels_like": 12.0,
+    "humidity": 91,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1015.0,
-    "wind_speed_ms": 2.9,
-    "wind_direction_deg": 4,
-    "wind_direction_text": "С",
-    "weather_code": 1,
-    "description": "Преимущественно ясно"
+    "pressure_hpa": 1016.0,
+    "wind_speed_ms": 0.9,
+    "wind_direction_deg": 347,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "time": "2026-09-17T16:00",
-      "temp": 16.3,
+      "temp": 16.4,
       "precip_prob": 0,
       "weather_code": 2
     },
@@ -123,41 +123,41 @@
       "time": "2026-09-17T17:00",
       "temp": 16.2,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-09-17T18:00",
-      "temp": 15.8,
+      "temp": 15.7,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-17T19:00",
-      "temp": 14.8,
+      "temp": 14.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-17T20:00",
-      "temp": 14.0,
+      "temp": 13.9,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-17T21:00",
-      "temp": 13.4,
+      "temp": 13.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-17T22:00",
-      "temp": 12.7,
+      "temp": 12.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-17T23:00",
-      "temp": 12.1,
+      "temp": 11.8,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,8 +165,8 @@
   "forecast_7d": [
     {
       "date": "2026-09-17",
-      "temp_max": 16.3,
-      "temp_min": 12.1,
+      "temp_max": 16.4,
+      "temp_min": 11.8,
       "precipitation_mm": 0.1,
       "wind_max_ms": 3.0,
       "weather_code": 3,
@@ -174,26 +174,26 @@
     },
     {
       "date": "2026-09-18",
-      "temp_max": 17.5,
-      "temp_min": 9.5,
+      "temp_max": 17.6,
+      "temp_min": 9.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.6,
+      "wind_max_ms": 1.7,
       "weather_code": 2,
       "description": "Переменная облачность"
     },
     {
       "date": "2026-09-19",
-      "temp_max": 19.6,
-      "temp_min": 9.2,
+      "temp_max": 20.1,
+      "temp_min": 9.7,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.5,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "weather_code": 1,
+      "description": "Преимущественно ясно"
     },
     {
       "date": "2026-09-20",
-      "temp_max": 20.9,
-      "temp_min": 12.5,
+      "temp_max": 21.3,
+      "temp_min": 12.2,
       "precipitation_mm": 0.0,
       "wind_max_ms": 2.3,
       "weather_code": 3,
@@ -201,31 +201,31 @@
     },
     {
       "date": "2026-09-21",
-      "temp_max": 21.3,
-      "temp_min": 14.1,
+      "temp_max": 21.4,
+      "temp_min": 15.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.9,
+      "wind_max_ms": 2.7,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-22",
-      "temp_max": 21.9,
-      "temp_min": 13.6,
+      "temp_max": 21.6,
+      "temp_min": 12.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.0,
-      "weather_code": 2,
-      "description": "Переменная облачность"
+      "wind_max_ms": 1.8,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-09-23",
-      "temp_max": 24.3,
-      "temp_min": 12.2,
+      "temp_max": 23.0,
+      "temp_min": 12.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.2,
-      "weather_code": 0,
-      "description": "Ясно"
+      "wind_max_ms": 3.1,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-09-17T13:31:34.150938+00:00"
+  "fetched_at": "2026-09-17T18:17:20.125241+00:00"
 }
