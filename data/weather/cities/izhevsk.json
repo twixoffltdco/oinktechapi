@@ -5,16 +5,16 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 16.4,
-    "feels_like": 14.5,
-    "humidity": 52,
+    "temperature": 12.2,
+    "feels_like": 11.0,
+    "humidity": 72,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1017.0,
-    "wind_speed_ms": 2.0,
-    "wind_direction_deg": 229,
-    "wind_direction_text": "ЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "wind_speed_ms": 1.0,
+    "wind_direction_deg": 209,
+    "wind_direction_text": "ЮЮЗ",
+    "weather_code": 0,
+    "description": "Ясно"
   },
   "hourly": [
     {
@@ -97,67 +97,67 @@
     },
     {
       "time": "2026-09-18T13:00",
-      "temp": 15.9,
-      "precip_prob": 0,
-      "weather_code": 1
-    },
-    {
-      "time": "2026-09-18T14:00",
-      "temp": 16.3,
-      "precip_prob": 0,
-      "weather_code": 1
-    },
-    {
-      "time": "2026-09-18T15:00",
       "temp": 16.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
-      "time": "2026-09-18T16:00",
-      "temp": 16.3,
+      "time": "2026-09-18T14:00",
+      "temp": 16.8,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
+    },
+    {
+      "time": "2026-09-18T15:00",
+      "temp": 17.0,
+      "precip_prob": 0,
+      "weather_code": 1
+    },
+    {
+      "time": "2026-09-18T16:00",
+      "temp": 17.3,
+      "precip_prob": 0,
+      "weather_code": 1
     },
     {
       "time": "2026-09-18T17:00",
-      "temp": 15.8,
+      "temp": 16.7,
       "precip_prob": 0,
-      "weather_code": 2
+      "weather_code": 1
     },
     {
       "time": "2026-09-18T18:00",
-      "temp": 14.5,
+      "temp": 15.4,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-18T19:00",
-      "temp": 12.9,
+      "temp": 13.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-18T20:00",
-      "temp": 11.6,
+      "temp": 12.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-18T21:00",
-      "temp": 10.6,
+      "temp": 11.5,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-18T22:00",
-      "temp": 9.6,
+      "temp": 10.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-18T23:00",
-      "temp": 8.7,
+      "temp": 9.2,
       "precip_prob": 0,
       "weather_code": 0
     }
@@ -165,35 +165,35 @@
   "forecast_7d": [
     {
       "date": "2026-09-18",
-      "temp_max": 16.4,
+      "temp_max": 17.3,
       "temp_min": 3.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.0,
+      "wind_max_ms": 1.9,
       "weather_code": 45,
       "description": "Туман"
     },
     {
       "date": "2026-09-19",
-      "temp_max": 17.8,
-      "temp_min": 5.4,
+      "temp_max": 19.0,
+      "temp_min": 5.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.4,
-      "weather_code": 45,
-      "description": "Туман"
+      "wind_max_ms": 2.3,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-09-20",
-      "temp_max": 17.9,
-      "temp_min": 9.9,
+      "temp_max": 18.7,
+      "temp_min": 10.7,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.5,
+      "wind_max_ms": 2.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-09-21",
-      "temp_max": 19.6,
-      "temp_min": 11.4,
+      "temp_max": 20.7,
+      "temp_min": 10.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.4,
       "weather_code": 3,
@@ -201,31 +201,31 @@
     },
     {
       "date": "2026-09-22",
-      "temp_max": 21.2,
-      "temp_min": 12.5,
+      "temp_max": 21.8,
+      "temp_min": 11.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.7,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 2.1,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     },
     {
       "date": "2026-09-23",
-      "temp_max": 21.3,
-      "temp_min": 10.5,
+      "temp_max": 22.2,
+      "temp_min": 9.1,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.2,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 2.1,
+      "weather_code": 45,
+      "description": "Туман"
     },
     {
       "date": "2026-09-24",
-      "temp_max": 21.6,
-      "temp_min": 11.1,
+      "temp_max": 22.5,
+      "temp_min": 10.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.1,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 2.8,
+      "weather_code": 2,
+      "description": "Переменная облачность"
     }
   ],
-  "fetched_at": "2026-09-18T11:21:32.286075+00:00"
+  "fetched_at": "2026-09-18T16:28:03.433837+00:00"
 }
