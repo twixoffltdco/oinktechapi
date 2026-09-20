@@ -5,16 +5,16 @@
   "longitude": 44.002,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 14.9,
-    "feels_like": 14.0,
-    "humidity": 68,
+    "temperature": 13.2,
+    "feels_like": 12.1,
+    "humidity": 75,
     "precipitation_mm": 0.0,
     "pressure_hpa": 1018.0,
-    "wind_speed_ms": 1.2,
-    "wind_direction_deg": 194,
+    "wind_speed_ms": 1.5,
+    "wind_direction_deg": 196,
     "wind_direction_text": "ЮЮЗ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -127,39 +127,39 @@
     },
     {
       "time": "2026-09-20T18:00",
-      "temp": 17.4,
+      "temp": 17.6,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-20T19:00",
-      "temp": 15.8,
+      "temp": 16.0,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-09-20T20:00",
-      "temp": 14.6,
+      "temp": 14.7,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-09-20T21:00",
-      "temp": 13.9,
+      "temp": 14.0,
       "precip_prob": 0,
       "weather_code": 1
     },
     {
       "time": "2026-09-20T22:00",
-      "temp": 13.4,
+      "temp": 13.3,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-09-20T23:00",
-      "temp": 12.9,
+      "temp": 12.8,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     }
   ],
   "forecast_7d": [
@@ -174,10 +174,10 @@
     },
     {
       "date": "2026-09-21",
-      "temp_max": 21.8,
-      "temp_min": 10.9,
+      "temp_max": 21.7,
+      "temp_min": 11.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.2,
+      "wind_max_ms": 3.3,
       "weather_code": 3,
       "description": "Пасмурно"
     },
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-09-20T16:50:08.179378+00:00"
+  "fetched_at": "2026-09-20T19:29:32.761023+00:00"
 }
