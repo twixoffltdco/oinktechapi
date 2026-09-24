@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-24T17:22:37.033169+00:00",
+  "updated_at": "2026-09-24T21:37:50.927663+00:00",
   "category": "tech",
   "articles": [
+    {
+      "id": "da0aaaa852ce",
+      "title": "SberDevices подала иск к «М.Видео» на 6,6 млрд рублей",
+      "url": "https://vc.ru/legal/3157763-sberdevices-isk-mvideo?from=rss",
+      "description": "Сути претензий в карточке дела пока нет.",
+      "published_at": "2026-09-24T22:44:23+03:00",
+      "source_key": "vc",
+      "source_name": "VC.ru",
+      "category": "tech",
+      "logo": "https://vc.ru/favicon.ico"
+    },
+    {
+      "id": "089c8e00b030",
+      "title": "TAPe+ML v3 на arXiv: превосходим SOTA в классификации, детекции и сегментации при &lt;100 тыс. параметров",
+      "url": "https://habr.com/ru/articles/1086426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086426",
+      "description": "Мы опубликовали на arXiv статью TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision. В ней собраны результаты TAPe+ML v3 на задачах классификации, object detection, instance segmentation, индексации и поиска сцен в видео, а также в промышленном OOD-пилоте.Статья на arXiv: TAPe+ML: A Compact Structured Representation for Multi-Task Computer VisionКлючевые результаты TAPe+ML v388,1% Top-1 на ImageNet-1k, 65,3 mAP50–95 в детекции COCO, 58,4 Mask mAP50–95 в COCO instance segm",
+      "published_at": "2026-09-24T21:27:00",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "bbe04a411778",
+      "title": "Jev: модель, которая ничего не пишет",
+      "url": "https://habr.com/ru/companies/polzaai/articles/1086424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086424",
+      "description": "Если вы много слышали про Jev, но так и не разобрались до конца в чем состоит его идея, то мы с командой решили собрать все воедино и рассказать что это за загадочно дешевая модель, которая выдает бесплатно токены ответа.&nbsp; Читать далее",
+      "published_at": "2026-09-24T21:02:17",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "3bbeb827cc02",
+      "title": "Минпромторг определил ставки технологического сбора для производителей и импортёров электроники, который начнут брать с 1 декабря 2026 года",
+      "url": "https://vc.ru/tech/3157538-minpromtorg-utverdil-stavki-tehnologicheskogo-sbora-dlya-elektroniki?from=rss",
+      "description": "Их размер будет зависить от вида продукции и того, включены ли товарный знак или модель в систему маркировки.",
+      "published_at": "2026-09-24T20:54:56+03:00",
+      "source_key": "vc",
+      "source_name": "VC.ru",
+      "category": "tech",
+      "logo": "https://vc.ru/favicon.ico"
+    },
+    {
+      "id": "d0f0825c7023",
+      "title": "Как мы дописываем оборванные ответы языковой модели и почему склейка оказалась сложнее, чем кажется",
+      "url": "https://habr.com/ru/articles/1086420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086420",
+      "description": "Мы делаем сервис с несколькими языковыми моделями в одном чате. Однажды модель начала отвечать списком из ста пунктов и оборвалась на середине слова, без ошибок и предупреждений. Рассказываю, почему так бывает, как мы дописываем ответ по finish_reason и почему склеить куски без артефактов оказалось сложнее, чем кажется: три ловушки и функция, которая их обходит. Читать далее",
+      "published_at": "2026-09-24T20:53:55",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "c33aa87aa73d",
+      "title": "Platinum One OS на базе Samsung M52 звонки, смс, Vulkan, Misa",
+      "url": "https://habr.com/ru/articles/1086416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086416",
+      "description": "Первый запуск Linux на телефоне выглядит как победа: появляется рабочий стол, реагирует сенсор, открывается терминал. Потом начинаешь пользоваться устройством и обнаруживаешь, сколько работы скрывалось за этой картинкой.После перезагрузки экран может остаться чёрным. Модем обнаруживает SIM, но не регистрируется в сети. DSP сообщает, что запущен, а ALSA по-прежнему не видит звуковых карт. Трёхмерная модель ассистента отображается, но стоит в T-позе.На Samsung M52 я прохожу именно этот этап разраб",
+      "published_at": "2026-09-24T20:17:30",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
     {
       "id": "155dda096176",
       "title": "Минфин поменял условия семейной ипотеки — ставка и максимальная сумма кредита будут зависеть от количества детей и региона проживания",
@@ -12,6 +78,72 @@
       "source_name": "VC.ru",
       "category": "tech",
       "logo": "https://vc.ru/favicon.ico"
+    },
+    {
+      "id": "2d168d2a8bb5",
+      "title": "Рынок вычислений в России, Казахстане и Беларуси",
+      "url": "https://habr.com/ru/articles/1086402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086402",
+      "description": "Сколько вычислительной мощности реально у России, Казахстана и Беларуси — и что из этого доступно CTO прямо сейчас. Прайсы: аренда H100 от 342 ₽/час, серая карта от 2,65 млн ₽; порог, когда выгоднее купить, чем платить за API. Господдержка: 243-ФЗ уже в силе, пакет 71,7 млрд ₽ обсуждается, платный ЦКП — от 208 ₽/час. Казахстан строит ИИ-хаб с NVIDIA; у Беларуси — профицит атомной энергетики и тариф 0,69 ₽/кВт·ч. Шесть выводов с цифрами и первоисточниками. Погрузиться в анализ",
+      "published_at": "2026-09-24T18:30:16",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "0d7d39e4feba",
+      "title": "Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API",
+      "url": "https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396",
+      "description": "Обычно задача «создать базу знаний из&nbsp;сайта» звучит просто: взять HTML, извлечь текст, разбить его на&nbsp;фрагменты, построить embeddings и&nbsp;отправить всё в&nbsp;RAG.На&nbsp;современных сайтах этот подход всё чаще перестаёт работать.Главная причина&nbsp;— сайт может практически не&nbsp;содержать данных в&nbsp;исходном HTML. Пользователь открывает страницу, браузер загружает JavaScript, JavaScript обращается к&nbsp;API, а&nbsp;уже API возвращает услуги, товары, объекты, статьи, цены и&n",
+      "published_at": "2026-09-24T18:04:16",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "86b2d22de015",
+      "title": "Все уведомления в одном окне: я сделал программу, чтобы больше не пропускать сообщения",
+      "url": "https://habr.com/ru/articles/1086394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086394",
+      "description": "Сообщения летят со всех сторон: рабочий чат, Telegram, почта, домовой чат. Каждое всплывает на пару секунд и исчезает, и после созвона уже не вспомнить, что пропустил.Я сделал бесплатную программу messhub. Она собирает все уведомления, которые пк и так показывает, на одну доску с колонкой на каждое приложение. Всплывашка исчезла, а сообщение осталось, пока вы сами не отметите его прочитанным. Можно отложить сообщение на вечер, спрятать болтливый чат, подсветить сообщения важных людей и одной кно",
+      "published_at": "2026-09-24T18:03:11",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "b3c0e6436c46",
+      "title": "И все-таки AI уже стал математиком или нет?",
+      "url": "https://habr.com/ru/articles/1086390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086390",
+      "description": "Я решил разобраться в этом вопросе, когда OpenAI и Anthropic стали нон-стопом сыпать новостями про новые математические рекорды и открытия. Читать далее",
+      "published_at": "2026-09-24T17:54:33",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "0f2f008a9c86",
+      "title": "CISO, которого не слышат или почему сильная программа ИБ проигрывает слабой политике",
+      "url": "https://habr.com/ru/companies/otus/articles/1084832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084832",
+      "description": "CISO может хорошо понимать угрозы и технологии, но&nbsp;всё равно сталкиваться с&nbsp;нехваткой ресурсов и поддержки бизнеса. Узнаем, почему руководителю ИБ важно уметь говорить с&nbsp;компанией на&nbsp;одном языке и как&nbsp;превратить безопасность из&nbsp;набора требований в&nbsp;понятную бизнес‑ценность.  Разобраться в теме",
+      "published_at": "2026-09-24T17:50:50",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
+    },
+    {
+      "id": "e7b996946084",
+      "title": "Как перестать искать ошибки в YAML глазами: пишем валидатор для Go",
+      "url": "https://habr.com/ru/articles/1086386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086386",
+      "description": "Пользователи EasyP присылали нам в чат YAML-конфиги, а мы глазами искали в них лишний пробел, неправильную вложенность или опечатку в ключе. В какой-то момент мне это надоело, и я написал go-yamlvalidator. В статье рассказываю, как из простой проверки YAML выросла библиотека со своими схемами, custom validators и полноценной поддержкой JSON Schema. Читать далее",
+      "published_at": "2026-09-24T17:50:21",
+      "source_key": "tech_habr",
+      "source_name": "Хабр",
+      "category": "tech",
+      "logo": "https://habr.com/favicon.ico"
     },
     {
       "id": "cc409de91896",
@@ -377,116 +509,6 @@
       "logo": "https://habr.com/favicon.ico"
     },
     {
-      "id": "fe8f9f98b0bb",
-      "title": "Архитектура цифрового выражения субъектности",
-      "url": "https://habr.com/ru/articles/1086254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086254",
-      "description": "Привет, Хабр! В&nbsp;этом эссе я рассмотрю проблемы современных социально‑экономических отношений в&nbsp;цифровой среде и то, как&nbsp;человечество будет решать их уже в&nbsp;ближайшем будущем, тем самым формируя новый общемировой стандарт. Но&nbsp;для&nbsp;начала мы взглянем под&nbsp;весьма неочевидным углом на&nbsp;такое понятие, как субъектность... Вперёд!",
-      "published_at": "2026-09-24T13:23:45",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "840c50d001de",
-      "title": "Заметки в своём GitHub без сервера: как я оживил BatNoter и написал синхронизацию на Git Data API",
-      "url": "https://habr.com/ru/articles/1086244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086244",
-      "description": "Мне давно нравится идея хранить заметки обычными Markdown-файлами в своём репозитории на GitHub. Файлы остаются твоими, их можно открыть на github.com или в любом редакторе, а история изменений достаётся даром: это просто коммиты.Был проект BatNoter, который делал ровно это, но ему нужен был собственный сервер для входа через GitHub. В конце 2022 года сервер перестал отвечать, и приложение умерло.Я переписал его так, чтобы сервер был не нужен вовсе. Получился Notewing: браузер сам ходит в GitHub",
-      "published_at": "2026-09-24T13:19:45",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "8419abc68b99",
-      "title": "Помните исследование про «ИИ замедляет на 19%»? Его повторили — и оно сломалось",
-      "url": "https://habr.com/ru/companies/domclick/articles/1085232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085232",
-      "description": "Июль 2025: METR показал, что с ИИ опытные разработчики работают на 19% медленнее, хотя уверены, что быстрее на 20%. Февраль 2026: эксперимент повторили на 57 разработчиках — и METR сам написал, почему цифрам нельзя верить: всё больше участников не хотят работать без ИИ даже за деньги, а 30–50% прячут задачи, где ИИ особенно хорош. Май 2026: опрос, ускорение «в 3 раза» — и снова оговорки. Разбираю три поста и что из них следует для спора «заменит или нет». Читать далее",
-      "published_at": "2026-09-24T13:16:06",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "e334877daa77",
-      "title": "Есть время, ум и деньги: почему социальные танцы — идеальное хобби для ИТ-специалистов",
-      "url": "https://habr.com/ru/articles/1085626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085626",
-      "description": "Социальные танцы — отличный антидот от выгорания в ИТ. Никаких мониторов, грейдов, тасок и дедлайнов. Только музыка, несложные движения и возможность переключиться на что-то совершенно другое.&nbsp;Истории двух специалистов Мегаплана, для которых танцы стали важной частью жизни. Вполне возможно, их опыт вдохновит вас тоже попробовать.  Читать далее",
-      "published_at": "2026-09-24T13:14:49",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "fc5974ee14dd",
-      "title": "Как я всё‑таки опубликовала игру в Google Play из России",
-      "url": "https://habr.com/ru/articles/1086240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086240",
-      "description": "Когда я только начала разбираться, как&nbsp;опубликовать приложение в&nbsp;Google Play из&nbsp;России, у&nbsp;меня довольно&nbsp;быстро появилось ощущение, что&nbsp;я занимаюсь чем‑то если не&nbsp;запрещённым, то как&nbsp;минимум подозрительным. Почти везде логика&nbsp;была примерно одинаковой: из&nbsp;России вроде&nbsp;бы можно, но&nbsp;желательно иметь иностранную карту, иностранный адрес, иностранный номер телефона, жить где‑нибудь в&nbsp;Сербии, Грузии или&nbsp;Казахстане и, по&nbsp;возможно",
-      "published_at": "2026-09-24T13:11:09",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "2244ee23ae1d",
-      "title": "[Перевод] AI пишет код быстрее, но ревью становится тяжелее: откуда берётся когнитивный долг",
-      "url": "https://habr.com/ru/companies/otus/articles/1085730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085730",
-      "description": "Возможности AI-инструментов для разработки растут, и вместе с этим меняется привычный процесс работы с кодом: генерация занимает меньше времени, но понимание результата всё чаще становится задачей ревьюера. Разберемся, почему проверка AI-кода создаёт дополнительную когнитивную нагрузку, как из этого появляется незаметный долг и какие подходы помогают сохранить качество разработки при работе с агентами. Разобрать подход",
-      "published_at": "2026-09-24T13:10:31",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "1381a602911e",
-      "title": "Пять шагов Илона Маска для улучшения процессов",
-      "url": "https://habr.com/ru/articles/1082692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082692",
-      "description": "Самый успешный инженерный предприниматель мира использует алгоритм улучшения процессов, благодаря которому весь мир пользуется классными продуктами от Tesla, SpaceX, Neuralink и других компаний. В статье расскажу про алгоритм - в деталях и с примерами.   Читать далее",
-      "published_at": "2026-09-24T13:10:24",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "23aca4b88cc3",
-      "title": "ИИ заберёт тексты и код. Но это никогда не было главной работой человека. Часть 3",
-      "url": "https://habr.com/ru/companies/X5Tech/articles/1063486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063486",
-      "description": "В третьей части серии разбираем, почему такая универсальность не всегда помогает системе. На практике она может обернуться постоянным переключением контекста, размытыми зонами ответственности и задачами без понятного владельца.🔎 Внутри: объединение ролей, цена переключения контекста, границы ответственности, ошибки на стыках команд, «спагетти-система» и разница между настоящей универсальностью и попыткой собрать несколько профессий в одном человеке.Заходите и делитесь в комментариях, где в вашей",
-      "published_at": "2026-09-24T13:09:20",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "327a4ed2ef4b",
-      "title": "Шахматы голосом: как объяснить Алисе ход, если игрок не видит доску",
-      "url": "https://habr.com/ru/articles/1086234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086234",
-      "description": "Шахматы кажутся почти идеальной игрой для голосового интерфейса: состояние компактное, правила формальны, допустимых ходов конечное число. На практике всё ломается о распознавание коротких шахматных координат и необходимость безопасно восстановить намерение игрока. Рассказываю, как мы разделили правила и движок, уложили Stockfish в жёсткий дедлайн и сделали всю партию доступной без экрана. Читать статью",
-      "published_at": "2026-09-24T13:04:52",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
-      "id": "7e068ca9efe2",
-      "title": "Как взвесить чужой репозиторий, не запуская его: 138 проектов из трендов GitHub",
-      "url": "https://habr.com/ru/articles/1086232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086232",
-      "description": "За месяц дайджест трендов GitHub про ИИ-агентов принёс мне 138 уникальных репозиториев. Я взвесил каждый, ничего не запуская: скачал архив через API и посчитал отдельно код, прозу, тесты и сгенерированное. 56 % оказались платформами, которые форкают только с намерением сопровождать. Лёгких, которые можно переписать под себя за вечер, всего 24, и половина из них вообще не инструменты. Лицензия оказалась фильтром раньше веса: у 9 репозиториев её нет совсем, а один файл начинается словами MIT и ниж",
-      "published_at": "2026-09-24T13:03:16",
-      "source_key": "tech_habr",
-      "source_name": "Хабр",
-      "category": "tech",
-      "logo": "https://habr.com/favicon.ico"
-    },
-    {
       "id": "c2d561a33f14",
       "title": "Microsoft представила обновлённые Surface Pro 12 и Surface Laptop 13 на процессоре Snapdragon X2 Plus",
       "url": "https://vc.ru/tech/3156318-microsoft-surface-pro-laptop-snapdragon?from=rss",
@@ -509,17 +531,6 @@
       "logo": "https://vc.ru/favicon.ico"
     },
     {
-      "id": "41703f1e507d",
-      "title": "YouTube анонсировал инструмент для редактирования видео и обложек с помощью ИИ-помощника",
-      "url": "https://vc.ru/services/3156121-youtube-predstavil-ii-pomoshchnika-dlya-redaktirovaniya-video?from=rss",
-      "description": "Он будет работать формате чат-бота.",
-      "published_at": "2026-09-24T12:23:22+03:00",
-      "source_key": "vc",
-      "source_name": "VC.ru",
-      "category": "tech",
-      "logo": "https://vc.ru/favicon.ico"
-    },
-    {
       "id": "9414680931cd",
       "title": "Meta* представила «умные» очки без камеры Ray-Ban Meta* Audio за $349",
       "url": "https://vc.ru/tech/3156105-ray-ban-meta-audio-ochki-bez-kamery?from=rss",
@@ -536,17 +547,6 @@
       "url": "https://vc.ru/money/3155990-t-bank-oplata-mobilnoj-svyazi?from=rss",
       "description": "По словам банка, комиссии за услугу нет — платежи проходят в рублях с автоматической конвертацией в валюту оператора.",
       "published_at": "2026-09-24T10:17:42+03:00",
-      "source_key": "vc",
-      "source_name": "VC.ru",
-      "category": "tech",
-      "logo": "https://vc.ru/favicon.ico"
-    },
-    {
-      "id": "2902daadfff8",
-      "title": "Meta* представила очки виртуальной реальности Meta* VR Glasses за $1300 — они весят 100 г, а аккумулятор и чипы вынесены в отдельный модуль",
-      "url": "https://vc.ru/tech/3155885-meta-predstavila-ochki-vr-glasses?from=rss",
-      "description": "Продажи устройства планируют начать весной 2027 года.",
-      "published_at": "2026-09-24T09:51:30+03:00",
       "source_key": "vc",
       "source_name": "VC.ru",
       "category": "tech",
