@@ -5,16 +5,16 @@
   "longitude": 50.1002,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 3.1,
-    "feels_like": -0.3,
-    "humidity": 81,
+    "temperature": 3.0,
+    "feels_like": -0.2,
+    "humidity": 84,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1018.0,
-    "wind_speed_ms": 2.5,
-    "wind_direction_deg": 307,
-    "wind_direction_text": "СЗ",
-    "weather_code": 3,
-    "description": "Пасмурно"
+    "pressure_hpa": 1017.0,
+    "wind_speed_ms": 2.2,
+    "wind_direction_deg": 328,
+    "wind_direction_text": "ССЗ",
+    "weather_code": 61,
+    "description": "Небольшой дождь"
   },
   "hourly": [
     {
@@ -37,49 +37,49 @@
     },
     {
       "time": "2026-10-03T03:00",
-      "temp": 3.1,
+      "temp": 3.3,
       "precip_prob": 5,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T04:00",
-      "temp": 3.0,
+      "temp": 3.3,
       "precip_prob": 20,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T05:00",
-      "temp": 2.9,
+      "temp": 3.1,
       "precip_prob": 28,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T06:00",
-      "temp": 2.7,
+      "temp": 3.0,
       "precip_prob": 25,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T07:00",
-      "temp": 2.7,
+      "temp": 2.8,
       "precip_prob": 25,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T08:00",
-      "temp": 2.7,
+      "temp": 2.8,
       "precip_prob": 23,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T09:00",
-      "temp": 3.0,
+      "temp": 3.3,
       "precip_prob": 25,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T10:00",
-      "temp": 3.2,
+      "temp": 3.5,
       "precip_prob": 55,
       "weather_code": 61
     },
@@ -91,13 +91,13 @@
     },
     {
       "time": "2026-10-03T12:00",
-      "temp": 3.7,
+      "temp": 3.9,
       "precip_prob": 78,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T13:00",
-      "temp": 4.0,
+      "temp": 3.9,
       "precip_prob": 85,
       "weather_code": 61
     },
@@ -109,7 +109,7 @@
     },
     {
       "time": "2026-10-03T15:00",
-      "temp": 4.1,
+      "temp": 4.0,
       "precip_prob": 98,
       "weather_code": 61
     },
@@ -121,43 +121,43 @@
     },
     {
       "time": "2026-10-03T17:00",
-      "temp": 3.8,
+      "temp": 3.7,
       "precip_prob": 88,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T18:00",
-      "temp": 3.4,
+      "temp": 3.5,
       "precip_prob": 88,
       "weather_code": 61
     },
     {
       "time": "2026-10-03T19:00",
-      "temp": 3.1,
+      "temp": 3.2,
       "precip_prob": 80,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T20:00",
-      "temp": 2.8,
+      "temp": 3.1,
       "precip_prob": 73,
-      "weather_code": 61
+      "weather_code": 3
     },
     {
       "time": "2026-10-03T21:00",
-      "temp": 2.8,
+      "temp": 2.9,
       "precip_prob": 65,
       "weather_code": 3
     },
     {
       "time": "2026-10-03T22:00",
-      "temp": 2.6,
+      "temp": 2.7,
       "precip_prob": 55,
-      "weather_code": 61
+      "weather_code": 3
     },
     {
       "time": "2026-10-03T23:00",
-      "temp": 2.2,
+      "temp": 2.5,
       "precip_prob": 68,
       "weather_code": 61
     }
@@ -166,8 +166,8 @@
     {
       "date": "2026-10-03",
       "temp_max": 4.1,
-      "temp_min": 2.2,
-      "precipitation_mm": 4.7,
+      "temp_min": 2.5,
+      "precipitation_mm": 4.4,
       "wind_max_ms": 4.4,
       "weather_code": 61,
       "description": "Небольшой дождь"
@@ -175,8 +175,8 @@
     {
       "date": "2026-10-04",
       "temp_max": 6.9,
-      "temp_min": 2.1,
-      "precipitation_mm": 2.0,
+      "temp_min": 2.4,
+      "precipitation_mm": 1.6,
       "wind_max_ms": 4.5,
       "weather_code": 61,
       "description": "Небольшой дождь"
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-02T23:00:29.441160+00:00"
+  "fetched_at": "2026-10-03T02:01:46.529696+00:00"
 }
