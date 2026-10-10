@@ -5,16 +5,16 @@
   "longitude": 37.6176,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 10.7,
-    "feels_like": 8.0,
-    "humidity": 68,
+    "temperature": 8.1,
+    "feels_like": 5.9,
+    "humidity": 82,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1009.0,
-    "wind_speed_ms": 2.7,
-    "wind_direction_deg": 236,
+    "pressure_hpa": 1012.0,
+    "wind_speed_ms": 1.9,
+    "wind_direction_deg": 231,
     "wind_direction_text": "ЮЗ",
-    "weather_code": 2,
-    "description": "Переменная облачность"
+    "weather_code": 3,
+    "description": "Пасмурно"
   },
   "hourly": [
     {
@@ -109,55 +109,55 @@
     },
     {
       "time": "2026-10-10T15:00",
-      "temp": 11.6,
+      "temp": 11.3,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T16:00",
-      "temp": 11.4,
+      "temp": 11.2,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T17:00",
-      "temp": 11.1,
+      "temp": 10.9,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-10T18:00",
-      "temp": 10.8,
+      "temp": 10.6,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-10-10T19:00",
-      "temp": 10.4,
+      "temp": 10.2,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-10-10T20:00",
-      "temp": 9.8,
+      "temp": 9.4,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-10-10T21:00",
-      "temp": 9.1,
+      "temp": 8.6,
       "precip_prob": 0,
       "weather_code": 2
     },
     {
       "time": "2026-10-10T22:00",
-      "temp": 9.0,
+      "temp": 8.3,
       "precip_prob": 0,
-      "weather_code": 3
+      "weather_code": 2
     },
     {
       "time": "2026-10-10T23:00",
-      "temp": 8.9,
+      "temp": 8.1,
       "precip_prob": 0,
       "weather_code": 3
     }
@@ -165,7 +165,7 @@
   "forecast_7d": [
     {
       "date": "2026-10-10",
-      "temp_max": 11.6,
+      "temp_max": 11.3,
       "temp_min": 6.8,
       "precipitation_mm": 0.1,
       "wind_max_ms": 4.1,
@@ -174,58 +174,58 @@
     },
     {
       "date": "2026-10-11",
-      "temp_max": 13.6,
-      "temp_min": 6.7,
+      "temp_max": 14.4,
+      "temp_min": 6.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.1,
+      "wind_max_ms": 2.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-12",
-      "temp_max": 14.0,
-      "temp_min": 11.2,
+      "temp_max": 14.1,
+      "temp_min": 11.1,
       "precipitation_mm": 5.8,
-      "wind_max_ms": 2.4,
+      "wind_max_ms": 2.5,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-10-13",
-      "temp_max": 12.5,
-      "temp_min": 9.5,
-      "precipitation_mm": 3.3,
-      "wind_max_ms": 1.8,
+      "temp_max": 12.8,
+      "temp_min": 10.8,
+      "precipitation_mm": 0.9,
+      "wind_max_ms": 2.0,
       "weather_code": 80,
       "description": "Ливень"
     },
     {
       "date": "2026-10-14",
-      "temp_max": 11.0,
-      "temp_min": 8.1,
-      "precipitation_mm": 1.7,
-      "wind_max_ms": 1.9,
+      "temp_max": 10.6,
+      "temp_min": 9.4,
+      "precipitation_mm": 2.7,
+      "wind_max_ms": 1.6,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-10-15",
-      "temp_max": 18.2,
-      "temp_min": 7.5,
+      "temp_max": 12.5,
+      "temp_min": 9.9,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.1,
+      "wind_max_ms": 1.8,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-16",
-      "temp_max": 18.2,
-      "temp_min": 9.9,
+      "temp_max": 12.3,
+      "temp_min": 8.6,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.1,
-      "weather_code": 1,
-      "description": "Преимущественно ясно"
+      "wind_max_ms": 1.2,
+      "weather_code": 45,
+      "description": "Туман"
     }
   ],
-  "fetched_at": "2026-10-10T15:24:20.566724+00:00"
+  "fetched_at": "2026-10-10T20:05:40.143008+00:00"
 }
