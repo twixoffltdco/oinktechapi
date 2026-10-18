@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T18:09:42.497066+00:00",
+  "updated_at": "2026-10-18T20:48:59.212708+00:00",
   "cities_count": 19,
   "cities": {
     "moscow": {
@@ -9,14 +9,14 @@
       "longitude": 37.6176,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 10.9,
-        "feels_like": 9.5,
-        "humidity": 89,
+        "temperature": 9.0,
+        "feels_like": 6.6,
+        "humidity": 87,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1024.0,
-        "wind_speed_ms": 2.3,
-        "wind_direction_deg": 5,
-        "wind_direction_text": "С",
+        "pressure_hpa": 1026.0,
+        "wind_speed_ms": 3.0,
+        "wind_direction_deg": 21,
+        "wind_direction_text": "ССВ",
         "weather_code": 3,
         "description": "Пасмурно"
       },
@@ -231,7 +231,7 @@
           "description": "Переменная облачность"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:19.657546+00:00"
+      "fetched_at": "2026-10-18T20:48:32.230598+00:00"
     },
     "spb": {
       "city_key": "spb",
@@ -240,16 +240,16 @@
       "longitude": 30.3609,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 5.9,
-        "feels_like": 2.7,
-        "humidity": 71,
+        "temperature": 4.8,
+        "feels_like": 1.2,
+        "humidity": 79,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1034.0,
-        "wind_speed_ms": 2.2,
-        "wind_direction_deg": 358,
+        "pressure_hpa": 1036.0,
+        "wind_speed_ms": 3.2,
+        "wind_direction_deg": 5,
         "wind_direction_text": "С",
-        "weather_code": 1,
-        "description": "Преимущественно ясно"
+        "weather_code": 2,
+        "description": "Переменная облачность"
       },
       "hourly": [
         {
@@ -380,13 +380,13 @@
         },
         {
           "time": "2026-10-18T21:00",
-          "temp": 5.9,
+          "temp": 5.7,
           "precip_prob": 0,
-          "weather_code": 1
+          "weather_code": 0
         },
         {
           "time": "2026-10-18T22:00",
-          "temp": 5.4,
+          "temp": 5.3,
           "precip_prob": 0,
           "weather_code": 2
         },
@@ -401,7 +401,7 @@
         {
           "date": "2026-10-18",
           "temp_max": 9.3,
-          "temp_min": 4.8,
+          "temp_min": 4.7,
           "precipitation_mm": 0.3,
           "wind_max_ms": 4.5,
           "weather_code": 53,
@@ -412,25 +412,25 @@
           "temp_max": 8.6,
           "temp_min": 3.2,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 3.0,
+          "wind_max_ms": 3.1,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-20",
-          "temp_max": 8.7,
+          "temp_max": 8.8,
           "temp_min": 2.6,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 2.7,
+          "wind_max_ms": 2.8,
           "weather_code": 2,
           "description": "Переменная облачность"
         },
         {
           "date": "2026-10-21",
-          "temp_max": 7.2,
-          "temp_min": 0.2,
+          "temp_max": 8.2,
+          "temp_min": 0.6,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 4.2,
+          "wind_max_ms": 4.0,
           "weather_code": 3,
           "description": "Пасмурно"
         },
@@ -439,30 +439,30 @@
           "temp_max": 12.2,
           "temp_min": 6.7,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 4.5,
+          "wind_max_ms": 4.0,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-23",
-          "temp_max": 11.8,
-          "temp_min": 6.3,
+          "temp_max": 12.3,
+          "temp_min": 6.0,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 3.9,
+          "wind_max_ms": 4.0,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-24",
-          "temp_max": 11.9,
-          "temp_min": 6.8,
-          "precipitation_mm": 0.3,
-          "wind_max_ms": 4.5,
+          "temp_max": 10.1,
+          "temp_min": 6.3,
+          "precipitation_mm": 0.6,
+          "wind_max_ms": 3.6,
           "weather_code": 51,
           "description": "Лёгкая морось"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:20.078187+00:00"
+      "fetched_at": "2026-10-18T20:48:32.882784+00:00"
     },
     "novosibirsk": {
       "city_key": "novosibirsk",
@@ -471,21 +471,21 @@
       "longitude": 82.9207,
       "timezone": "Asia/Novosibirsk",
       "current": {
-        "temperature": -0.9,
-        "feels_like": -5.4,
-        "humidity": 75,
+        "temperature": -0.5,
+        "feels_like": -5.0,
+        "humidity": 81,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1031.0,
-        "wind_speed_ms": 3.4,
-        "wind_direction_deg": 163,
-        "wind_direction_text": "ЮЮВ",
-        "weather_code": 2,
-        "description": "Переменная облачность"
+        "pressure_hpa": 1030.0,
+        "wind_speed_ms": 3.8,
+        "wind_direction_deg": 175,
+        "wind_direction_text": "Ю",
+        "weather_code": 3,
+        "description": "Пасмурно"
       },
       "hourly": [
         {
           "time": "2026-10-19T00:00",
-          "temp": -1.5,
+          "temp": -0.9,
           "precip_prob": 0,
           "weather_code": 3
         },
@@ -497,67 +497,67 @@
         },
         {
           "time": "2026-10-19T02:00",
-          "temp": -0.9,
+          "temp": -1.1,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 1
         },
         {
           "time": "2026-10-19T03:00",
-          "temp": -0.7,
+          "temp": -0.8,
           "precip_prob": 0,
           "weather_code": 2
         },
         {
           "time": "2026-10-19T04:00",
-          "temp": -0.6,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T05:00",
-          "temp": -0.2,
+          "temp": -0.4,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
+          "time": "2026-10-19T05:00",
+          "temp": -0.1,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
           "time": "2026-10-19T06:00",
-          "temp": 0.4,
+          "temp": 0.0,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T07:00",
-          "temp": 0.6,
+          "temp": 0.0,
           "precip_prob": 0,
-          "weather_code": 3
+          "weather_code": 2
         },
         {
           "time": "2026-10-19T08:00",
-          "temp": 0.8,
+          "temp": 0.0,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T09:00",
-          "temp": 0.7,
+          "temp": 0.3,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T10:00",
-          "temp": 1.0,
+          "temp": 0.5,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T11:00",
-          "temp": 1.3,
+          "temp": 1.0,
           "precip_prob": 1,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T12:00",
-          "temp": 1.8,
+          "temp": 1.6,
           "precip_prob": 2,
           "weather_code": 3
         },
@@ -565,83 +565,83 @@
           "time": "2026-10-19T13:00",
           "temp": 2.2,
           "precip_prob": 2,
-          "weather_code": 3
+          "weather_code": 51
         },
         {
           "time": "2026-10-19T14:00",
-          "temp": 3.3,
+          "temp": 3.2,
           "precip_prob": 1,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T15:00",
-          "temp": 3.8,
+          "temp": 3.4,
           "precip_prob": 0,
-          "weather_code": 51
+          "weather_code": 3
         },
         {
           "time": "2026-10-19T16:00",
-          "temp": 4.6,
+          "temp": 3.9,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T17:00",
-          "temp": 5.4,
+          "temp": 4.6,
           "precip_prob": 2,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T18:00",
-          "temp": 5.2,
+          "temp": 4.9,
           "precip_prob": 5,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T19:00",
-          "temp": 5.3,
+          "temp": 4.9,
           "precip_prob": 8,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T20:00",
-          "temp": 5.3,
+          "temp": 4.8,
           "precip_prob": 8,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T21:00",
-          "temp": 5.5,
+          "temp": 4.9,
           "precip_prob": 8,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T22:00",
-          "temp": 5.6,
+          "temp": 4.8,
           "precip_prob": 12,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T23:00",
-          "temp": 5.9,
+          "temp": 4.7,
           "precip_prob": 26,
-          "weather_code": 51
+          "weather_code": 53
         }
       ],
       "forecast_7d": [
         {
           "date": "2026-10-19",
-          "temp_max": 5.9,
-          "temp_min": -1.5,
-          "precipitation_mm": 0.9,
-          "wind_max_ms": 5.4,
-          "weather_code": 51,
-          "description": "Лёгкая морось"
+          "temp_max": 5.0,
+          "temp_min": -1.1,
+          "precipitation_mm": 1.0,
+          "wind_max_ms": 6.0,
+          "weather_code": 53,
+          "description": "Морось"
         },
         {
           "date": "2026-10-20",
-          "temp_max": 7.8,
-          "temp_min": 0.3,
+          "temp_max": 7.9,
+          "temp_min": 0.4,
           "precipitation_mm": 8.2,
           "wind_max_ms": 6.5,
           "weather_code": 85,
@@ -649,51 +649,51 @@
         },
         {
           "date": "2026-10-21",
-          "temp_max": 2.2,
+          "temp_max": 2.3,
           "temp_min": -0.7,
-          "precipitation_mm": 6.0,
-          "wind_max_ms": 5.6,
+          "precipitation_mm": 8.2,
+          "wind_max_ms": 5.7,
           "weather_code": 85,
           "description": "Снегопад"
         },
         {
           "date": "2026-10-22",
-          "temp_max": 3.2,
-          "temp_min": -1.1,
-          "precipitation_mm": 4.4,
-          "wind_max_ms": 4.7,
-          "weather_code": 85,
-          "description": "Снегопад"
+          "temp_max": 2.8,
+          "temp_min": -0.7,
+          "precipitation_mm": 5.0,
+          "wind_max_ms": 4.8,
+          "weather_code": 53,
+          "description": "Морось"
         },
         {
           "date": "2026-10-23",
-          "temp_max": 0.3,
-          "temp_min": -2.2,
-          "precipitation_mm": 0.4,
-          "wind_max_ms": 3.6,
-          "weather_code": 85,
-          "description": "Снегопад"
-        },
-        {
-          "date": "2026-10-24",
-          "temp_max": 1.0,
-          "temp_min": -4.1,
-          "precipitation_mm": 1.0,
-          "wind_max_ms": 5.3,
+          "temp_max": -0.2,
+          "temp_min": -2.7,
+          "precipitation_mm": 1.2,
+          "wind_max_ms": 4.0,
           "weather_code": 71,
           "description": "Небольшой снег"
         },
         {
+          "date": "2026-10-24",
+          "temp_max": 1.2,
+          "temp_min": -3.1,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 5.7,
+          "weather_code": 3,
+          "description": "Пасмурно"
+        },
+        {
           "date": "2026-10-25",
-          "temp_max": 2.1,
-          "temp_min": -0.1,
-          "precipitation_mm": 3.2,
-          "wind_max_ms": 5.1,
+          "temp_max": 1.6,
+          "temp_min": -5.4,
+          "precipitation_mm": 6.0,
+          "wind_max_ms": 5.3,
           "weather_code": 73,
           "description": "Снег"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:20.618003+00:00"
+      "fetched_at": "2026-10-18T20:48:33.522167+00:00"
     },
     "ekaterinburg": {
       "city_key": "ekaterinburg",
@@ -702,173 +702,164 @@
       "longitude": 60.6122,
       "timezone": "Asia/Yekaterinburg",
       "current": {
-        "temperature": 12.1,
-        "feels_like": 9.4,
-        "humidity": 56,
+        "temperature": 12.0,
+        "feels_like": 8.4,
+        "humidity": 52,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1020.0,
-        "wind_speed_ms": 2.3,
-        "wind_direction_deg": 220,
-        "wind_direction_text": "ЮЗ",
+        "pressure_hpa": 1019.0,
+        "wind_speed_ms": 3.5,
+        "wind_direction_deg": 238,
+        "wind_direction_text": "ЗЮЗ",
         "weather_code": 3,
         "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 9.7,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 9.3,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 9.1,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 8.8,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 8.7,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 8.8,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 8.8,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 8.8,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 8.7,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 9.3,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 11.1,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T11:00",
-          "temp": 13.2,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T12:00",
-          "temp": 14.8,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 15.6,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 16.5,
+          "time": "2026-10-19T00:00",
+          "temp": 12.3,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T15:00",
-          "temp": 16.2,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T16:00",
-          "temp": 15.9,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T17:00",
-          "temp": 15.5,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T18:00",
-          "temp": 14.4,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 13.5,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T20:00",
-          "temp": 13.0,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T21:00",
-          "temp": 12.5,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T22:00",
+          "time": "2026-10-19T01:00",
           "temp": 12.2,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T23:00",
-          "temp": 12.1,
+          "time": "2026-10-19T02:00",
+          "temp": 11.9,
           "precip_prob": 0,
           "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T03:00",
+          "temp": 11.8,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T04:00",
+          "temp": 11.7,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T05:00",
+          "temp": 11.3,
+          "precip_prob": 5,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T06:00",
+          "temp": 11.1,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 10.6,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 10.1,
+          "precip_prob": 8,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 8.8,
+          "precip_prob": 55,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 7.5,
+          "precip_prob": 95,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 5.2,
+          "precip_prob": 98,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 5.1,
+          "precip_prob": 70,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 5.1,
+          "precip_prob": 30,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 5.2,
+          "precip_prob": 38,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 4.9,
+          "precip_prob": 25,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 4.2,
+          "precip_prob": 8,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 4.2,
+          "precip_prob": 10,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 3.6,
+          "precip_prob": 3,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 2.5,
+          "precip_prob": 3,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 1.7,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 1.0,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 0.3,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": -0.3,
+          "precip_prob": 0,
+          "weather_code": 1
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 16.5,
-          "temp_min": 8.7,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 3.5,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 12.3,
@@ -922,9 +913,18 @@
           "wind_max_ms": 3.1,
           "weather_code": 3,
           "description": "Пасмурно"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 7.0,
+          "temp_min": -1.2,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 1.4,
+          "weather_code": 1,
+          "description": "Преимущественно ясно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:21.026242+00:00"
+      "fetched_at": "2026-10-18T20:48:34.155005+00:00"
     },
     "kazan": {
       "city_key": "kazan",
@@ -933,16 +933,16 @@
       "longitude": 49.0661,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 10.8,
+        "temperature": 10.5,
         "feels_like": 8.2,
-        "humidity": 54,
+        "humidity": 55,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1021.0,
-        "wind_speed_ms": 1.4,
-        "wind_direction_deg": 168,
-        "wind_direction_text": "ЮЮВ",
-        "weather_code": 1,
-        "description": "Преимущественно ясно"
+        "pressure_hpa": 1022.0,
+        "wind_speed_ms": 0.9,
+        "wind_direction_deg": 186,
+        "wind_direction_text": "Ю",
+        "weather_code": 3,
+        "description": "Пасмурно"
       },
       "hourly": [
         {
@@ -1155,7 +1155,7 @@
           "description": "Ясно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:21.441497+00:00"
+      "fetched_at": "2026-10-18T20:48:34.812520+00:00"
     },
     "nizhny_novgorod": {
       "city_key": "nizhny_novgorod",
@@ -1164,16 +1164,16 @@
       "longitude": 44.002,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 11.8,
-        "feels_like": 10.4,
-        "humidity": 77,
+        "temperature": 10.3,
+        "feels_like": 8.6,
+        "humidity": 88,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1021.0,
-        "wind_speed_ms": 1.6,
-        "wind_direction_deg": 313,
-        "wind_direction_text": "СЗ",
-        "weather_code": 0,
-        "description": "Ясно"
+        "pressure_hpa": 1023.0,
+        "wind_speed_ms": 2.4,
+        "wind_direction_deg": 345,
+        "wind_direction_text": "ССЗ",
+        "weather_code": 2,
+        "description": "Переменная облачность"
       },
       "hourly": [
         {
@@ -1386,7 +1386,7 @@
           "description": "Преимущественно ясно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:21.853356+00:00"
+      "fetched_at": "2026-10-18T20:48:35.599651+00:00"
     },
     "chelyabinsk": {
       "city_key": "chelyabinsk",
@@ -1395,173 +1395,164 @@
       "longitude": 61.4368,
       "timezone": "Asia/Yekaterinburg",
       "current": {
-        "temperature": 10.9,
-        "feels_like": 8.7,
-        "humidity": 61,
+        "temperature": 12.0,
+        "feels_like": 9.6,
+        "humidity": 56,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1024.0,
-        "wind_speed_ms": 1.4,
-        "wind_direction_deg": 222,
-        "wind_direction_text": "ЮЗ",
+        "pressure_hpa": 1022.0,
+        "wind_speed_ms": 1.8,
+        "wind_direction_deg": 246,
+        "wind_direction_text": "ЗЮЗ",
         "weather_code": 3,
         "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 10.0,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 9.5,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 8.2,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 7.8,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 7.6,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 7.2,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 7.0,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 7.2,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 6.9,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 7.8,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 10.8,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T11:00",
-          "temp": 13.6,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T12:00",
-          "temp": 15.7,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 17.2,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 18.5,
+          "time": "2026-10-19T00:00",
+          "temp": 11.0,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T15:00",
-          "temp": 18.6,
+          "time": "2026-10-19T01:00",
+          "temp": 11.3,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T16:00",
-          "temp": 18.5,
+          "time": "2026-10-19T02:00",
+          "temp": 12.2,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T17:00",
-          "temp": 18.1,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T18:00",
-          "temp": 16.0,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 14.4,
+          "time": "2026-10-19T03:00",
+          "temp": 12.3,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T20:00",
-          "temp": 13.2,
-          "precip_prob": 0,
-          "weather_code": 2
+          "time": "2026-10-19T04:00",
+          "temp": 12.4,
+          "precip_prob": 3,
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T21:00",
-          "temp": 12.0,
-          "precip_prob": 0,
-          "weather_code": 2
+          "time": "2026-10-19T05:00",
+          "temp": 12.1,
+          "precip_prob": 3,
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T22:00",
+          "time": "2026-10-19T06:00",
+          "temp": 11.6,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 11.3,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 11.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T09:00",
           "temp": 11.5,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T23:00",
-          "temp": 10.9,
+          "time": "2026-10-19T10:00",
+          "temp": 11.7,
           "precip_prob": 0,
           "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 12.2,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 13.3,
+          "precip_prob": 5,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 8.9,
+          "precip_prob": 23,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 7.2,
+          "precip_prob": 78,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 6.3,
+          "precip_prob": 63,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 6.3,
+          "precip_prob": 10,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 5.5,
+          "precip_prob": 10,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 4.5,
+          "precip_prob": 13,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 3.7,
+          "precip_prob": 3,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 2.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 2.0,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 1.4,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 0.9,
+          "precip_prob": 0,
+          "weather_code": 1
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 18.7,
-          "temp_min": 6.9,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 2.5,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 13.4,
@@ -1615,9 +1606,18 @@
           "wind_max_ms": 2.4,
           "weather_code": 3,
           "description": "Пасмурно"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 7.4,
+          "temp_min": 0.1,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 1.4,
+          "weather_code": 3,
+          "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:22.371889+00:00"
+      "fetched_at": "2026-10-18T20:48:36.242377+00:00"
     },
     "samara": {
       "city_key": "samara",
@@ -1626,173 +1626,164 @@
       "longitude": 50.1002,
       "timezone": "Europe/Samara",
       "current": {
-        "temperature": 11.5,
-        "feels_like": 9.0,
-        "humidity": 46,
+        "temperature": 11.6,
+        "feels_like": 8.9,
+        "humidity": 43,
         "precipitation_mm": 0.0,
         "pressure_hpa": 1024.0,
-        "wind_speed_ms": 0.8,
-        "wind_direction_deg": 135,
-        "wind_direction_text": "ЮВ",
+        "wind_speed_ms": 0.9,
+        "wind_direction_deg": 148,
+        "wind_direction_text": "ЮЮВ",
         "weather_code": 3,
         "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 12.2,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 12.2,
+          "time": "2026-10-19T00:00",
+          "temp": 11.5,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T02:00",
-          "temp": 12.1,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 11.7,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 11.2,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 10.9,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 10.1,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 9.5,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 9.8,
-          "precip_prob": 8,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 10.6,
-          "precip_prob": 13,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 10.3,
-          "precip_prob": 18,
-          "weather_code": 61
-        },
-        {
-          "time": "2026-10-18T11:00",
-          "temp": 11.3,
-          "precip_prob": 13,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T12:00",
-          "temp": 12.3,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 14.5,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 15.6,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T15:00",
-          "temp": 16.0,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T16:00",
-          "temp": 16.3,
-          "precip_prob": 3,
-          "weather_code": 61
-        },
-        {
-          "time": "2026-10-18T17:00",
-          "temp": 15.5,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T18:00",
-          "temp": 14.4,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 13.5,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T20:00",
-          "temp": 12.4,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T21:00",
+          "time": "2026-10-19T01:00",
           "temp": 11.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T22:00",
-          "temp": 11.5,
+          "time": "2026-10-19T02:00",
+          "temp": 11.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T23:00",
-          "temp": 11.5,
+          "time": "2026-10-19T03:00",
+          "temp": 11.2,
           "precip_prob": 0,
           "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T04:00",
+          "temp": 11.2,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T05:00",
+          "temp": 10.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T06:00",
+          "temp": 10.5,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 10.2,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 9.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 10.2,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 11.3,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 13.0,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 15.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 16.1,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 16.1,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 15.9,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 15.2,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 13.9,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 12.3,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 11.2,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 10.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 8.8,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 7.7,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 6.8,
+          "precip_prob": 0,
+          "weather_code": 0
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 16.3,
-          "temp_min": 9.5,
-          "precipitation_mm": 0.5,
-          "wind_max_ms": 2.8,
-          "weather_code": 61,
-          "description": "Небольшой дождь"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 16.2,
@@ -1846,9 +1837,18 @@
           "wind_max_ms": 2.1,
           "weather_code": 2,
           "description": "Переменная облачность"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 9.8,
+          "temp_min": 0.5,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 1.5,
+          "weather_code": 2,
+          "description": "Переменная облачность"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:22.779206+00:00"
+      "fetched_at": "2026-10-18T20:48:36.876463+00:00"
     },
     "omsk": {
       "city_key": "omsk",
@@ -1857,23 +1857,23 @@
       "longitude": 73.3242,
       "timezone": "Asia/Omsk",
       "current": {
-        "temperature": 7.4,
-        "feels_like": 5.1,
+        "temperature": 7.2,
+        "feels_like": 4.8,
         "humidity": 96,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1023.0,
-        "wind_speed_ms": 2.7,
-        "wind_direction_deg": 242,
+        "pressure_hpa": 1022.0,
+        "wind_speed_ms": 2.8,
+        "wind_direction_deg": 248,
         "wind_direction_text": "ЗЮЗ",
-        "weather_code": 2,
-        "description": "Переменная облачность"
+        "weather_code": 0,
+        "description": "Ясно"
       },
       "hourly": [
         {
           "time": "2026-10-19T00:00",
           "temp": 7.4,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 0
         },
         {
           "time": "2026-10-19T01:00",
@@ -1889,127 +1889,127 @@
         },
         {
           "time": "2026-10-19T03:00",
-          "temp": 7.1,
+          "temp": 7.2,
           "precip_prob": 0,
-          "weather_code": 0
+          "weather_code": 1
         },
         {
           "time": "2026-10-19T04:00",
-          "temp": 7.1,
+          "temp": 7.2,
           "precip_prob": 1,
-          "weather_code": 0
+          "weather_code": 1
         },
         {
           "time": "2026-10-19T05:00",
-          "temp": 7.0,
+          "temp": 7.4,
           "precip_prob": 3,
           "weather_code": 1
         },
         {
           "time": "2026-10-19T06:00",
-          "temp": 7.0,
+          "temp": 7.1,
           "precip_prob": 4,
-          "weather_code": 2
+          "weather_code": 1
         },
         {
           "time": "2026-10-19T07:00",
           "temp": 7.0,
           "precip_prob": 3,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-19T08:00",
-          "temp": 6.8,
-          "precip_prob": 1,
           "weather_code": 2
         },
         {
+          "time": "2026-10-19T08:00",
+          "temp": 7.0,
+          "precip_prob": 1,
+          "weather_code": 3
+        },
+        {
           "time": "2026-10-19T09:00",
-          "temp": 7.4,
+          "temp": 7.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T10:00",
-          "temp": 8.7,
+          "temp": 8.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T11:00",
-          "temp": 9.9,
+          "temp": 10.0,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T12:00",
-          "temp": 11.4,
+          "temp": 11.7,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T13:00",
-          "temp": 12.8,
+          "temp": 12.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T14:00",
-          "temp": 13.3,
+          "temp": 13.2,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T15:00",
-          "temp": 13.2,
+          "temp": 13.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T16:00",
-          "temp": 13.3,
+          "temp": 13.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T17:00",
-          "temp": 13.2,
+          "temp": 13.5,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T18:00",
-          "temp": 12.8,
+          "temp": 13.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T19:00",
-          "temp": 13.0,
+          "temp": 13.5,
           "precip_prob": 24,
           "weather_code": 3
         },
         {
           "time": "2026-10-19T20:00",
-          "temp": 11.6,
+          "temp": 12.8,
           "precip_prob": 56,
-          "weather_code": 51
+          "weather_code": 3
         },
         {
           "time": "2026-10-19T21:00",
-          "temp": 9.8,
+          "temp": 11.0,
           "precip_prob": 82,
-          "weather_code": 53
+          "weather_code": 51
         },
         {
           "time": "2026-10-19T22:00",
-          "temp": 8.8,
+          "temp": 8.9,
           "precip_prob": 93,
           "weather_code": 55
         },
         {
           "time": "2026-10-19T23:00",
-          "temp": 7.2,
+          "temp": 7.0,
           "precip_prob": 98,
           "weather_code": 53
         }
@@ -2017,69 +2017,69 @@
       "forecast_7d": [
         {
           "date": "2026-10-19",
-          "temp_max": 13.3,
-          "temp_min": 5.8,
-          "precipitation_mm": 4.2,
-          "wind_max_ms": 6.5,
+          "temp_max": 13.6,
+          "temp_min": 6.3,
+          "precipitation_mm": 3.2,
+          "wind_max_ms": 6.0,
           "weather_code": 55,
           "description": "Сильная морось"
         },
         {
           "date": "2026-10-20",
-          "temp_max": 5.7,
-          "temp_min": 0.3,
-          "precipitation_mm": 6.9,
-          "wind_max_ms": 7.7,
+          "temp_max": 6.2,
+          "temp_min": 0.6,
+          "precipitation_mm": 6.3,
+          "wind_max_ms": 7.2,
           "weather_code": 86,
           "description": "Сильный снегопад"
         },
         {
           "date": "2026-10-21",
-          "temp_max": 6.9,
-          "temp_min": 1.6,
-          "precipitation_mm": 2.4,
-          "wind_max_ms": 8.0,
+          "temp_max": 7.3,
+          "temp_min": 1.7,
+          "precipitation_mm": 0.8,
+          "wind_max_ms": 7.7,
+          "weather_code": 71,
+          "description": "Небольшой снег"
+        },
+        {
+          "date": "2026-10-22",
+          "temp_max": 5.0,
+          "temp_min": 1.3,
+          "precipitation_mm": 2.2,
+          "wind_max_ms": 6.5,
           "weather_code": 85,
           "description": "Снегопад"
         },
         {
-          "date": "2026-10-22",
-          "temp_max": 4.6,
-          "temp_min": 1.1,
-          "precipitation_mm": 1.4,
-          "wind_max_ms": 6.5,
-          "weather_code": 51,
-          "description": "Лёгкая морось"
-        },
-        {
           "date": "2026-10-23",
-          "temp_max": 2.0,
-          "temp_min": -2.0,
+          "temp_max": 2.3,
+          "temp_min": -2.2,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 5.0,
+          "wind_max_ms": 4.8,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-24",
-          "temp_max": 4.7,
-          "temp_min": -2.2,
+          "temp_max": 3.3,
+          "temp_min": -2.4,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 3.9,
+          "wind_max_ms": 4.3,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-25",
-          "temp_max": 6.4,
-          "temp_min": -0.2,
+          "temp_max": 5.3,
+          "temp_min": 2.2,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 2.1,
+          "wind_max_ms": 3.0,
           "weather_code": 3,
           "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:23.189571+00:00"
+      "fetched_at": "2026-10-18T20:48:37.508746+00:00"
     },
     "rostov": {
       "city_key": "rostov",
@@ -2088,14 +2088,14 @@
       "longitude": 39.7015,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 17.9,
-        "feels_like": 18.6,
-        "humidity": 80,
-        "precipitation_mm": 0.1,
-        "pressure_hpa": 1015.0,
-        "wind_speed_ms": 1.4,
-        "wind_direction_deg": 135,
-        "wind_direction_text": "ЮВ",
+        "temperature": 17.2,
+        "feels_like": 16.7,
+        "humidity": 81,
+        "precipitation_mm": 0.0,
+        "pressure_hpa": 1017.0,
+        "wind_speed_ms": 3.2,
+        "wind_direction_deg": 208,
+        "wind_direction_text": "ЮЮЗ",
         "weather_code": 61,
         "description": "Небольшой дождь"
       },
@@ -2310,7 +2310,7 @@
           "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:23.606983+00:00"
+      "fetched_at": "2026-10-18T20:48:38.141217+00:00"
     },
     "ufa": {
       "city_key": "ufa",
@@ -2319,173 +2319,164 @@
       "longitude": 55.9721,
       "timezone": "Asia/Yekaterinburg",
       "current": {
-        "temperature": 11.9,
-        "feels_like": 8.3,
-        "humidity": 39,
+        "temperature": 11.0,
+        "feels_like": 7.4,
+        "humidity": 41,
         "precipitation_mm": 0.0,
         "pressure_hpa": 1024.0,
         "wind_speed_ms": 2.3,
         "wind_direction_deg": 195,
         "wind_direction_text": "ЮЮЗ",
-        "weather_code": 2,
-        "description": "Переменная облачность"
+        "weather_code": 3,
+        "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 5.6,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 5.1,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 4.6,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 4.2,
+          "time": "2026-10-19T00:00",
+          "temp": 11.6,
           "precip_prob": 0,
           "weather_code": 2
         },
         {
-          "time": "2026-10-18T04:00",
-          "temp": 3.8,
+          "time": "2026-10-19T01:00",
+          "temp": 10.8,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T05:00",
-          "temp": 4.1,
+          "time": "2026-10-19T02:00",
+          "temp": 11.0,
           "precip_prob": 0,
-          "weather_code": 45
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T06:00",
-          "temp": 4.1,
+          "time": "2026-10-19T03:00",
+          "temp": 10.6,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T07:00",
-          "temp": 3.4,
+          "time": "2026-10-19T04:00",
+          "temp": 9.7,
           "precip_prob": 0,
-          "weather_code": 45
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T08:00",
-          "temp": 3.1,
+          "time": "2026-10-19T05:00",
+          "temp": 8.4,
           "precip_prob": 0,
-          "weather_code": 45
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T09:00",
-          "temp": 4.1,
+          "time": "2026-10-19T06:00",
+          "temp": 8.0,
           "precip_prob": 0,
-          "weather_code": 45
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T10:00",
-          "temp": 7.2,
+          "time": "2026-10-19T07:00",
+          "temp": 8.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 8.5,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 9.3,
+          "precip_prob": 5,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 10.0,
+          "precip_prob": 15,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 11.2,
+          "precip_prob": 18,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 11.4,
+          "precip_prob": 15,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 10.3,
+          "precip_prob": 23,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 8.7,
+          "precip_prob": 8,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 9.1,
           "precip_prob": 0,
           "weather_code": 1
         },
         {
-          "time": "2026-10-18T11:00",
-          "temp": 9.8,
+          "time": "2026-10-19T16:00",
+          "temp": 8.8,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 1
         },
         {
-          "time": "2026-10-18T12:00",
-          "temp": 12.8,
+          "time": "2026-10-19T17:00",
+          "temp": 7.9,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T13:00",
-          "temp": 14.9,
+          "time": "2026-10-19T18:00",
+          "temp": 6.4,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T14:00",
-          "temp": 16.5,
+          "time": "2026-10-19T19:00",
+          "temp": 4.9,
           "precip_prob": 0,
-          "weather_code": 3
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T15:00",
-          "temp": 16.9,
+          "time": "2026-10-19T20:00",
+          "temp": 3.9,
           "precip_prob": 0,
-          "weather_code": 3
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T16:00",
-          "temp": 17.0,
+          "time": "2026-10-19T21:00",
+          "temp": 2.9,
           "precip_prob": 0,
-          "weather_code": 3
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T17:00",
-          "temp": 17.0,
+          "time": "2026-10-19T22:00",
+          "temp": 1.8,
           "precip_prob": 0,
-          "weather_code": 3
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T18:00",
-          "temp": 15.1,
+          "time": "2026-10-19T23:00",
+          "temp": 0.9,
           "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 14.0,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T20:00",
-          "temp": 13.0,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T21:00",
-          "temp": 11.9,
-          "precip_prob": 3,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T22:00",
-          "temp": 11.5,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T23:00",
-          "temp": 11.9,
-          "precip_prob": 3,
-          "weather_code": 2
+          "weather_code": 0
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 17.1,
-          "temp_min": 3.1,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 3.1,
-          "weather_code": 45,
-          "description": "Туман"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 11.6,
@@ -2539,9 +2530,18 @@
           "wind_max_ms": 1.0,
           "weather_code": 45,
           "description": "Туман"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 8.2,
+          "temp_min": -3.8,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 1.1,
+          "weather_code": 45,
+          "description": "Туман"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:24.019449+00:00"
+      "fetched_at": "2026-10-18T20:48:38.917542+00:00"
     },
     "krasnodar": {
       "city_key": "krasnodar",
@@ -2550,16 +2550,16 @@
       "longitude": 38.9753,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 15.3,
-        "feels_like": 14.9,
-        "humidity": 84,
+        "temperature": 14.3,
+        "feels_like": 13.6,
+        "humidity": 87,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1017.0,
-        "wind_speed_ms": 2.2,
-        "wind_direction_deg": 183,
-        "wind_direction_text": "Ю",
-        "weather_code": 3,
-        "description": "Пасмурно"
+        "pressure_hpa": 1018.0,
+        "wind_speed_ms": 2.6,
+        "wind_direction_deg": 209,
+        "wind_direction_text": "ЮЮЗ",
+        "weather_code": 0,
+        "description": "Ясно"
       },
       "hourly": [
         {
@@ -2772,238 +2772,7 @@
           "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:24.428625+00:00"
-    },
-    "krasnoyarsk": {
-      "city_key": "krasnoyarsk",
-      "city_name": "Красноярск",
-      "latitude": 56.0153,
-      "longitude": 92.8932,
-      "timezone": "Asia/Krasnoyarsk",
-      "current": {
-        "temperature": -2.1,
-        "feels_like": -5.8,
-        "humidity": 74,
-        "precipitation_mm": 0.0,
-        "pressure_hpa": 1032.0,
-        "wind_speed_ms": 1.6,
-        "wind_direction_deg": 270,
-        "wind_direction_text": "З",
-        "weather_code": 2,
-        "description": "Переменная облачность"
-      },
-      "hourly": [
-        {
-          "time": "2026-10-19T00:00",
-          "temp": -2.6,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T01:00",
-          "temp": -2.1,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T02:00",
-          "temp": -1.9,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T03:00",
-          "temp": -1.8,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-19T04:00",
-          "temp": -2.6,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T05:00",
-          "temp": -2.9,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T06:00",
-          "temp": -3.2,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T07:00",
-          "temp": -3.7,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T08:00",
-          "temp": -3.8,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T09:00",
-          "temp": -1.5,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-19T10:00",
-          "temp": 0.4,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-19T11:00",
-          "temp": 1.9,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-19T12:00",
-          "temp": 2.9,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T13:00",
-          "temp": 3.4,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-19T14:00",
-          "temp": 3.6,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-19T15:00",
-          "temp": 3.7,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T16:00",
-          "temp": 3.2,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T17:00",
-          "temp": 2.3,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T18:00",
-          "temp": 1.1,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T19:00",
-          "temp": 0.8,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T20:00",
-          "temp": 0.6,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T21:00",
-          "temp": 0.8,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T22:00",
-          "temp": 1.0,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-19T23:00",
-          "temp": 1.5,
-          "precip_prob": 0,
-          "weather_code": 3
-        }
-      ],
-      "forecast_7d": [
-        {
-          "date": "2026-10-19",
-          "temp_max": 3.7,
-          "temp_min": -4.0,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 4.1,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
-        {
-          "date": "2026-10-20",
-          "temp_max": 8.4,
-          "temp_min": 2.1,
-          "precipitation_mm": 0.4,
-          "wind_max_ms": 5.4,
-          "weather_code": 51,
-          "description": "Лёгкая морось"
-        },
-        {
-          "date": "2026-10-21",
-          "temp_max": 6.9,
-          "temp_min": -1.0,
-          "precipitation_mm": 1.1,
-          "wind_max_ms": 6.9,
-          "weather_code": 85,
-          "description": "Снегопад"
-        },
-        {
-          "date": "2026-10-22",
-          "temp_max": 4.0,
-          "temp_min": 0.1,
-          "precipitation_mm": 5.3,
-          "wind_max_ms": 3.9,
-          "weather_code": 85,
-          "description": "Снегопад"
-        },
-        {
-          "date": "2026-10-23",
-          "temp_max": 0.6,
-          "temp_min": -2.0,
-          "precipitation_mm": 1.9,
-          "wind_max_ms": 4.5,
-          "weather_code": 85,
-          "description": "Снегопад"
-        },
-        {
-          "date": "2026-10-24",
-          "temp_max": -1.1,
-          "temp_min": -3.2,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 5.6,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
-        {
-          "date": "2026-10-25",
-          "temp_max": 1.6,
-          "temp_min": -4.7,
-          "precipitation_mm": 4.2,
-          "wind_max_ms": 7.0,
-          "weather_code": 85,
-          "description": "Снегопад"
-        }
-      ],
-      "fetched_at": "2026-10-18T18:09:24.852435+00:00"
+      "fetched_at": "2026-10-18T20:48:39.588732+00:00"
     },
     "perm": {
       "city_key": "perm",
@@ -3012,173 +2781,164 @@
       "longitude": 56.2502,
       "timezone": "Asia/Yekaterinburg",
       "current": {
-        "temperature": 10.8,
-        "feels_like": 7.3,
-        "humidity": 60,
+        "temperature": 10.6,
+        "feels_like": 6.9,
+        "humidity": 58,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1018.0,
-        "wind_speed_ms": 3.8,
-        "wind_direction_deg": 224,
-        "wind_direction_text": "ЮЗ",
+        "pressure_hpa": 1017.0,
+        "wind_speed_ms": 3.9,
+        "wind_direction_deg": 238,
+        "wind_direction_text": "ЗЮЗ",
         "weather_code": 3,
         "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 10.9,
-          "precip_prob": 0,
-          "weather_code": 1
+          "time": "2026-10-19T00:00",
+          "temp": 10.8,
+          "precip_prob": 25,
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T01:00",
-          "temp": 10.6,
-          "precip_prob": 0,
-          "weather_code": 2
+          "time": "2026-10-19T01:00",
+          "temp": 10.8,
+          "precip_prob": 25,
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T02:00",
-          "temp": 11.0,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 10.7,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T04:00",
+          "time": "2026-10-19T02:00",
           "temp": 10.5,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 10.0,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 9.8,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 9.6,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 9.6,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 10.2,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 11.4,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T11:00",
-          "temp": 12.2,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T12:00",
-          "temp": 12.9,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 13.6,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 14.2,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T15:00",
-          "temp": 13.5,
           "precip_prob": 20,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T16:00",
-          "temp": 13.5,
-          "precip_prob": 23,
+          "time": "2026-10-19T03:00",
+          "temp": 10.2,
+          "precip_prob": 33,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T17:00",
-          "temp": 12.8,
-          "precip_prob": 15,
-          "weather_code": 3
+          "time": "2026-10-19T04:00",
+          "temp": 9.6,
+          "precip_prob": 80,
+          "weather_code": 61
         },
         {
-          "time": "2026-10-18T18:00",
-          "temp": 12.2,
+          "time": "2026-10-19T05:00",
+          "temp": 8.0,
+          "precip_prob": 98,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T06:00",
+          "temp": 5.6,
+          "precip_prob": 100,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 4.4,
+          "precip_prob": 98,
+          "weather_code": 61
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 3.9,
+          "precip_prob": 65,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 3.6,
           "precip_prob": 8,
-          "weather_code": 3
+          "weather_code": 2
         },
         {
-          "time": "2026-10-18T19:00",
-          "temp": 11.6,
-          "precip_prob": 13,
-          "weather_code": 3
+          "time": "2026-10-19T10:00",
+          "temp": 3.3,
+          "precip_prob": 0,
+          "weather_code": 2
         },
         {
-          "time": "2026-10-18T20:00",
-          "temp": 11.8,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T21:00",
-          "temp": 11.3,
-          "precip_prob": 10,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T22:00",
-          "temp": 11.0,
+          "time": "2026-10-19T11:00",
+          "temp": 2.9,
           "precip_prob": 3,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T23:00",
-          "temp": 10.8,
-          "precip_prob": 13,
+          "time": "2026-10-19T12:00",
+          "temp": 3.0,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 4.5,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 5.2,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 5.4,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 5.1,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 4.3,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 3.6,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 3.0,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 2.6,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 2.3,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 1.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 1.6,
+          "precip_prob": 0,
           "weather_code": 3
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 14.2,
-          "temp_min": 9.6,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 4.3,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 10.8,
@@ -3232,9 +2992,18 @@
           "wind_max_ms": 1.6,
           "weather_code": 1,
           "description": "Преимущественно ясно"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 6.5,
+          "temp_min": 0.0,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 0.8,
+          "weather_code": 1,
+          "description": "Преимущественно ясно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:25.265744+00:00"
+      "fetched_at": "2026-10-18T20:48:55.415698+00:00"
     },
     "voronezh": {
       "city_key": "voronezh",
@@ -3243,16 +3012,16 @@
       "longitude": 39.2005,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 13.7,
-        "feels_like": 12.7,
-        "humidity": 72,
+        "temperature": 11.8,
+        "feels_like": 10.3,
+        "humidity": 69,
         "precipitation_mm": 0.0,
         "pressure_hpa": 1019.0,
-        "wind_speed_ms": 1.2,
-        "wind_direction_deg": 59,
-        "wind_direction_text": "ВСВ",
-        "weather_code": 2,
-        "description": "Переменная облачность"
+        "wind_speed_ms": 1.1,
+        "wind_direction_deg": 41,
+        "wind_direction_text": "СВ",
+        "weather_code": 3,
+        "description": "Пасмурно"
       },
       "hourly": [
         {
@@ -3465,7 +3234,7 @@
           "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:25.717444+00:00"
+      "fetched_at": "2026-10-18T20:48:56.055436+00:00"
     },
     "volgograd": {
       "city_key": "volgograd",
@@ -3474,16 +3243,16 @@
       "longitude": 44.5133,
       "timezone": "Europe/Moscow",
       "current": {
-        "temperature": 16.7,
-        "feels_like": 14.0,
-        "humidity": 35,
+        "temperature": 14.2,
+        "feels_like": 11.9,
+        "humidity": 44,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1017.0,
-        "wind_speed_ms": 1.5,
-        "wind_direction_deg": 70,
-        "wind_direction_text": "ВСВ",
-        "weather_code": 1,
-        "description": "Преимущественно ясно"
+        "pressure_hpa": 1018.0,
+        "wind_speed_ms": 1.0,
+        "wind_direction_deg": 84,
+        "wind_direction_text": "В",
+        "weather_code": 2,
+        "description": "Переменная облачность"
       },
       "hourly": [
         {
@@ -3696,7 +3465,238 @@
           "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:26.134466+00:00"
+      "fetched_at": "2026-10-18T20:48:56.690595+00:00"
+    },
+    "saratov": {
+      "city_key": "saratov",
+      "city_name": "Саратов",
+      "latitude": 51.533,
+      "longitude": 46.0342,
+      "timezone": "Europe/Moscow",
+      "current": {
+        "temperature": 10.6,
+        "feels_like": 7.8,
+        "humidity": 44,
+        "precipitation_mm": 0.0,
+        "pressure_hpa": 1022.0,
+        "wind_speed_ms": 1.1,
+        "wind_direction_deg": 49,
+        "wind_direction_text": "СВ",
+        "weather_code": 2,
+        "description": "Переменная облачность"
+      },
+      "hourly": [
+        {
+          "time": "2026-10-18T00:00",
+          "temp": 12.9,
+          "precip_prob": 20,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T01:00",
+          "temp": 12.2,
+          "precip_prob": 3,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T02:00",
+          "temp": 11.8,
+          "precip_prob": 3,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T03:00",
+          "temp": 10.2,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T04:00",
+          "temp": 10.0,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T05:00",
+          "temp": 9.8,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T06:00",
+          "temp": 9.2,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T07:00",
+          "temp": 9.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T08:00",
+          "temp": 9.8,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T09:00",
+          "temp": 11.1,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T10:00",
+          "temp": 12.7,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T11:00",
+          "temp": 14.0,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T12:00",
+          "temp": 15.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T13:00",
+          "temp": 16.5,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-18T14:00",
+          "temp": 16.8,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T15:00",
+          "temp": 18.2,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T16:00",
+          "temp": 17.7,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-18T17:00",
+          "temp": 16.1,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-18T18:00",
+          "temp": 15.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T19:00",
+          "temp": 14.5,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-18T20:00",
+          "temp": 13.6,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-18T21:00",
+          "temp": 12.5,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-18T22:00",
+          "temp": 11.7,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-18T23:00",
+          "temp": 11.2,
+          "precip_prob": 0,
+          "weather_code": 2
+        }
+      ],
+      "forecast_7d": [
+        {
+          "date": "2026-10-18",
+          "temp_max": 18.2,
+          "temp_min": 9.2,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 2.6,
+          "weather_code": 3,
+          "description": "Пасмурно"
+        },
+        {
+          "date": "2026-10-19",
+          "temp_max": 17.3,
+          "temp_min": 8.5,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 4.1,
+          "weather_code": 3,
+          "description": "Пасмурно"
+        },
+        {
+          "date": "2026-10-20",
+          "temp_max": 11.1,
+          "temp_min": 4.7,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 4.1,
+          "weather_code": 2,
+          "description": "Переменная облачность"
+        },
+        {
+          "date": "2026-10-21",
+          "temp_max": 11.0,
+          "temp_min": 1.6,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 2.3,
+          "weather_code": 0,
+          "description": "Ясно"
+        },
+        {
+          "date": "2026-10-22",
+          "temp_max": 11.8,
+          "temp_min": 2.8,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 2.7,
+          "weather_code": 3,
+          "description": "Пасмурно"
+        },
+        {
+          "date": "2026-10-23",
+          "temp_max": 13.5,
+          "temp_min": 3.5,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 3.5,
+          "weather_code": 2,
+          "description": "Переменная облачность"
+        },
+        {
+          "date": "2026-10-24",
+          "temp_max": 12.3,
+          "temp_min": 3.5,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 3.9,
+          "weather_code": 2,
+          "description": "Переменная облачность"
+        }
+      ],
+      "fetched_at": "2026-10-18T20:48:57.317104+00:00"
     },
     "tyumen": {
       "city_key": "tyumen",
@@ -3705,188 +3705,179 @@
       "longitude": 68.0,
       "timezone": "Asia/Yekaterinburg",
       "current": {
-        "temperature": 11.1,
-        "feels_like": 8.0,
-        "humidity": 74,
+        "temperature": 11.9,
+        "feels_like": 8.1,
+        "humidity": 62,
         "precipitation_mm": 0.0,
-        "pressure_hpa": 1019.0,
-        "wind_speed_ms": 4.3,
-        "wind_direction_deg": 242,
+        "pressure_hpa": 1018.0,
+        "wind_speed_ms": 4.8,
+        "wind_direction_deg": 243,
         "wind_direction_text": "ЗЮЗ",
-        "weather_code": 2,
-        "description": "Переменная облачность"
+        "weather_code": 3,
+        "description": "Пасмурно"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 7.4,
-          "precip_prob": 7,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 7.5,
-          "precip_prob": 15,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 7.6,
-          "precip_prob": 20,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 7.6,
-          "precip_prob": 16,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 7.5,
-          "precip_prob": 7,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 7.1,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 6.9,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 6.6,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 6.9,
+          "time": "2026-10-19T00:00",
+          "temp": 11.7,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T09:00",
-          "temp": 8.2,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 9.7,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T11:00",
+          "time": "2026-10-19T01:00",
           "temp": 11.8,
           "precip_prob": 0,
-          "weather_code": 1
+          "weather_code": 3
         },
         {
-          "time": "2026-10-18T12:00",
-          "temp": 13.4,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 14.7,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 15.6,
-          "precip_prob": 0,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T15:00",
-          "temp": 15.8,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T16:00",
-          "temp": 15.0,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T17:00",
-          "temp": 13.1,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T18:00",
+          "time": "2026-10-19T02:00",
           "temp": 11.9,
-          "precip_prob": 1,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 11.7,
-          "precip_prob": 3,
-          "weather_code": 0
-        },
-        {
-          "time": "2026-10-18T20:00",
-          "temp": 11.5,
-          "precip_prob": 4,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T21:00",
-          "temp": 11.3,
-          "precip_prob": 3,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T22:00",
-          "temp": 10.9,
-          "precip_prob": 1,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T23:00",
-          "temp": 11.1,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T03:00",
+          "temp": 11.9,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T04:00",
+          "temp": 11.5,
+          "precip_prob": 1,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T05:00",
+          "temp": 11.3,
+          "precip_prob": 2,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T06:00",
+          "temp": 11.8,
+          "precip_prob": 3,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 11.8,
+          "precip_prob": 5,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 11.6,
+          "precip_prob": 6,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 12.0,
+          "precip_prob": 2,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 13.3,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 13.2,
+          "precip_prob": 2,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 13.1,
+          "precip_prob": 29,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 12.0,
+          "precip_prob": 68,
+          "weather_code": 51
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 7.0,
+          "precip_prob": 96,
+          "weather_code": 53
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 4.9,
+          "precip_prob": 100,
+          "weather_code": 80
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 4.5,
+          "precip_prob": 100,
+          "weather_code": 51
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 4.0,
+          "precip_prob": 100,
+          "weather_code": 51
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 3.2,
+          "precip_prob": 100,
+          "weather_code": 51
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 2.6,
+          "precip_prob": 100,
+          "weather_code": 53
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 2.2,
+          "precip_prob": 98,
+          "weather_code": 53
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 2.1,
+          "precip_prob": 86,
+          "weather_code": 51
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 2.2,
+          "precip_prob": 70,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 2.6,
+          "precip_prob": 53,
+          "weather_code": 3
         }
       ],
       "forecast_7d": [
         {
-          "date": "2026-10-18",
-          "temp_max": 15.8,
-          "temp_min": 6.6,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 4.4,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
-        {
           "date": "2026-10-19",
-          "temp_max": 13.7,
+          "temp_max": 13.3,
           "temp_min": 1.9,
-          "precipitation_mm": 4.3,
-          "wind_max_ms": 7.8,
+          "precipitation_mm": 4.5,
+          "wind_max_ms": 7.1,
           "weather_code": 80,
           "description": "Ливень"
         },
         {
           "date": "2026-10-20",
-          "temp_max": 4.2,
-          "temp_min": -1.3,
-          "precipitation_mm": 1.6,
-          "wind_max_ms": 7.2,
+          "temp_max": 5.0,
+          "temp_min": -1.1,
+          "precipitation_mm": 1.3,
+          "wind_max_ms": 7.6,
           "weather_code": 73,
           "description": "Снег"
         },
@@ -3894,40 +3885,49 @@
           "date": "2026-10-21",
           "temp_max": 7.6,
           "temp_min": 3.3,
-          "precipitation_mm": 1.8,
-          "wind_max_ms": 7.5,
-          "weather_code": 85,
-          "description": "Снегопад"
+          "precipitation_mm": 0.3,
+          "wind_max_ms": 8.1,
+          "weather_code": 51,
+          "description": "Лёгкая морось"
         },
         {
           "date": "2026-10-22",
-          "temp_max": 5.7,
-          "temp_min": 1.7,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 6.3,
-          "weather_code": 3,
-          "description": "Пасмурно"
+          "temp_max": 6.1,
+          "temp_min": 2.0,
+          "precipitation_mm": 1.2,
+          "wind_max_ms": 6.4,
+          "weather_code": 51,
+          "description": "Лёгкая морось"
         },
         {
           "date": "2026-10-23",
-          "temp_max": 5.4,
-          "temp_min": -0.3,
+          "temp_max": 4.2,
+          "temp_min": -3.2,
           "precipitation_mm": 0.0,
-          "wind_max_ms": 4.0,
+          "wind_max_ms": 3.5,
           "weather_code": 3,
           "description": "Пасмурно"
         },
         {
           "date": "2026-10-24",
-          "temp_max": 7.3,
-          "temp_min": -0.7,
-          "precipitation_mm": 1.2,
-          "wind_max_ms": 4.1,
+          "temp_max": 4.8,
+          "temp_min": -0.1,
+          "precipitation_mm": 0.3,
+          "wind_max_ms": 3.8,
           "weather_code": 51,
           "description": "Лёгкая морось"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 6.0,
+          "temp_min": 2.9,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 2.2,
+          "weather_code": 3,
+          "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:41.675190+00:00"
+      "fetched_at": "2026-10-18T20:48:57.946749+00:00"
     },
     "tolyatti": {
       "city_key": "tolyatti",
@@ -3936,173 +3936,164 @@
       "longitude": 49.4218,
       "timezone": "Europe/Samara",
       "current": {
-        "temperature": 10.7,
-        "feels_like": 7.6,
-        "humidity": 43,
+        "temperature": 10.8,
+        "feels_like": 7.7,
+        "humidity": 41,
         "precipitation_mm": 0.0,
         "pressure_hpa": 1023.0,
-        "wind_speed_ms": 1.5,
-        "wind_direction_deg": 164,
-        "wind_direction_text": "ЮЮВ",
-        "weather_code": 1,
-        "description": "Преимущественно ясно"
+        "wind_speed_ms": 1.3,
+        "wind_direction_deg": 176,
+        "wind_direction_text": "Ю",
+        "weather_code": 2,
+        "description": "Переменная облачность"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 13.0,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T01:00",
-          "temp": 13.0,
-          "precip_prob": 3,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 12.9,
+          "time": "2026-10-19T00:00",
+          "temp": 10.9,
           "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 12.8,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 12.0,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 11.4,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T06:00",
-          "temp": 10.6,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 10.6,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 10.7,
-          "precip_prob": 13,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 11.5,
-          "precip_prob": 10,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T10:00",
-          "temp": 12.2,
-          "precip_prob": 15,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T11:00",
-          "temp": 12.9,
-          "precip_prob": 8,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T12:00",
-          "temp": 13.9,
-          "precip_prob": 8,
           "weather_code": 2
         },
         {
-          "time": "2026-10-18T13:00",
+          "time": "2026-10-19T01:00",
+          "temp": 10.8,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T02:00",
+          "temp": 10.6,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T03:00",
+          "temp": 10.9,
+          "precip_prob": 0,
+          "weather_code": 3
+        },
+        {
+          "time": "2026-10-19T04:00",
+          "temp": 10.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T05:00",
+          "temp": 10.9,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T06:00",
+          "temp": 10.5,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T07:00",
+          "temp": 10.1,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T08:00",
+          "temp": 9.7,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 10.3,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 10.9,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T11:00",
+          "temp": 12.4,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T12:00",
+          "temp": 13.8,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T13:00",
           "temp": 14.8,
-          "precip_prob": 5,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 15.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 14.9,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 14.1,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 12.7,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 11.2,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 9.7,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 8.3,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 7.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 5.8,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 4.6,
+          "precip_prob": 0,
           "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 15.2,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T15:00",
-          "temp": 15.4,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T16:00",
-          "temp": 15.5,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T17:00",
-          "temp": 15.1,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T18:00",
-          "temp": 12.9,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 12.0,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T20:00",
-          "temp": 11.3,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T21:00",
-          "temp": 11.0,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T22:00",
-          "temp": 10.7,
-          "precip_prob": 0,
-          "weather_code": 1
-        },
-        {
-          "time": "2026-10-18T23:00",
-          "temp": 10.7,
-          "precip_prob": 0,
-          "weather_code": 2
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 15.5,
-          "temp_min": 10.5,
-          "precipitation_mm": 0.0,
-          "wind_max_ms": 2.7,
-          "weather_code": 3,
-          "description": "Пасмурно"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 15.0,
@@ -4156,9 +4147,18 @@
           "wind_max_ms": 1.8,
           "weather_code": 0,
           "description": "Ясно"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 9.9,
+          "temp_min": -0.8,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 1.1,
+          "weather_code": 3,
+          "description": "Пасмурно"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:42.087023+00:00"
+      "fetched_at": "2026-10-18T20:48:58.582895+00:00"
     },
     "izhevsk": {
       "city_key": "izhevsk",
@@ -4167,173 +4167,164 @@
       "longitude": 53.2114,
       "timezone": "Europe/Samara",
       "current": {
-        "temperature": 10.2,
-        "feels_like": 6.9,
+        "temperature": 9.0,
+        "feels_like": 5.8,
         "humidity": 49,
         "precipitation_mm": 0.0,
         "pressure_hpa": 1020.0,
-        "wind_speed_ms": 2.2,
-        "wind_direction_deg": 214,
+        "wind_speed_ms": 1.9,
+        "wind_direction_deg": 234,
         "wind_direction_text": "ЮЗ",
         "weather_code": 2,
         "description": "Переменная облачность"
       },
       "hourly": [
         {
-          "time": "2026-10-18T00:00",
-          "temp": 9.4,
+          "time": "2026-10-19T00:00",
+          "temp": 9.5,
           "precip_prob": 0,
           "weather_code": 2
         },
         {
-          "time": "2026-10-18T01:00",
-          "temp": 9.2,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T02:00",
-          "temp": 8.7,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T03:00",
-          "temp": 8.7,
-          "precip_prob": 0,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T04:00",
-          "temp": 9.1,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T05:00",
-          "temp": 9.1,
+          "time": "2026-10-19T01:00",
+          "temp": 8.9,
           "precip_prob": 3,
           "weather_code": 2
         },
         {
-          "time": "2026-10-18T06:00",
-          "temp": 9.0,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T07:00",
-          "temp": 9.2,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T08:00",
-          "temp": 9.6,
-          "precip_prob": 0,
-          "weather_code": 2
-        },
-        {
-          "time": "2026-10-18T09:00",
-          "temp": 10.7,
+          "time": "2026-10-19T02:00",
+          "temp": 8.6,
           "precip_prob": 0,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T10:00",
-          "temp": 11.1,
+          "time": "2026-10-19T03:00",
+          "temp": 8.7,
           "precip_prob": 3,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T11:00",
-          "temp": 12.0,
-          "precip_prob": 5,
+          "time": "2026-10-19T04:00",
+          "temp": 8.6,
+          "precip_prob": 3,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T12:00",
-          "temp": 11.9,
-          "precip_prob": 18,
-          "weather_code": 61
-        },
-        {
-          "time": "2026-10-18T13:00",
-          "temp": 12.8,
-          "precip_prob": 25,
-          "weather_code": 61
-        },
-        {
-          "time": "2026-10-18T14:00",
-          "temp": 13.2,
-          "precip_prob": 20,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T15:00",
-          "temp": 13.4,
-          "precip_prob": 18,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T16:00",
-          "temp": 13.9,
+          "time": "2026-10-19T05:00",
+          "temp": 8.4,
           "precip_prob": 15,
           "weather_code": 3
         },
         {
-          "time": "2026-10-18T17:00",
-          "temp": 12.7,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T18:00",
-          "temp": 11.9,
-          "precip_prob": 5,
-          "weather_code": 3
-        },
-        {
-          "time": "2026-10-18T19:00",
-          "temp": 11.9,
-          "precip_prob": 8,
+          "time": "2026-10-19T06:00",
+          "temp": 8.1,
+          "precip_prob": 63,
           "weather_code": 61
         },
         {
-          "time": "2026-10-18T20:00",
-          "temp": 11.4,
-          "precip_prob": 15,
-          "weather_code": 3
+          "time": "2026-10-19T07:00",
+          "temp": 7.4,
+          "precip_prob": 63,
+          "weather_code": 61
         },
         {
-          "time": "2026-10-18T21:00",
-          "temp": 10.8,
-          "precip_prob": 8,
+          "time": "2026-10-19T08:00",
+          "temp": 5.7,
+          "precip_prob": 13,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T09:00",
+          "temp": 5.1,
+          "precip_prob": 0,
+          "weather_code": 2
+        },
+        {
+          "time": "2026-10-19T10:00",
+          "temp": 5.6,
+          "precip_prob": 0,
           "weather_code": 1
         },
         {
-          "time": "2026-10-18T22:00",
-          "temp": 10.2,
+          "time": "2026-10-19T11:00",
+          "temp": 6.2,
           "precip_prob": 0,
-          "weather_code": 2
+          "weather_code": 0
         },
         {
-          "time": "2026-10-18T23:00",
-          "temp": 9.7,
+          "time": "2026-10-19T12:00",
+          "temp": 6.7,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T13:00",
+          "temp": 6.6,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T14:00",
+          "temp": 6.5,
+          "precip_prob": 0,
+          "weather_code": 1
+        },
+        {
+          "time": "2026-10-19T15:00",
+          "temp": 6.2,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T16:00",
+          "temp": 5.7,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T17:00",
+          "temp": 5.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T18:00",
+          "temp": 3.9,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T19:00",
+          "temp": 2.8,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T20:00",
+          "temp": 2.1,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T21:00",
+          "temp": 1.6,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T22:00",
+          "temp": 1.0,
+          "precip_prob": 0,
+          "weather_code": 0
+        },
+        {
+          "time": "2026-10-19T23:00",
+          "temp": 0.5,
           "precip_prob": 0,
           "weather_code": 2
         }
       ],
       "forecast_7d": [
-        {
-          "date": "2026-10-18",
-          "temp_max": 13.9,
-          "temp_min": 8.7,
-          "precipitation_mm": 0.4,
-          "wind_max_ms": 2.8,
-          "weather_code": 61,
-          "description": "Небольшой дождь"
-        },
         {
           "date": "2026-10-19",
           "temp_max": 9.5,
@@ -4387,9 +4378,18 @@
           "wind_max_ms": 0.7,
           "weather_code": 45,
           "description": "Туман"
+        },
+        {
+          "date": "2026-10-25",
+          "temp_max": 5.1,
+          "temp_min": -3.1,
+          "precipitation_mm": 0.0,
+          "wind_max_ms": 0.7,
+          "weather_code": 45,
+          "description": "Туман"
         }
       ],
-      "fetched_at": "2026-10-18T18:09:42.497044+00:00"
+      "fetched_at": "2026-10-18T20:48:59.212688+00:00"
     }
   }
 }
