@@ -5,16 +5,16 @@
   "longitude": 39.2005,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 11.0,
-    "feels_like": 6.5,
-    "humidity": 23,
+    "temperature": 6.1,
+    "feels_like": 1.6,
+    "humidity": 30,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1026.0,
-    "wind_speed_ms": 2.4,
-    "wind_direction_deg": 109,
-    "wind_direction_text": "ВЮВ",
-    "weather_code": 0,
-    "description": "Ясно"
+    "pressure_hpa": 1029.0,
+    "wind_speed_ms": 2.3,
+    "wind_direction_deg": 124,
+    "wind_direction_text": "ЮВ",
+    "weather_code": 2,
+    "description": "Переменная облачность"
   },
   "hourly": [
     {
@@ -109,43 +109,43 @@
     },
     {
       "time": "2026-10-26T15:00",
-      "temp": 12.5,
+      "temp": 12.3,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-26T16:00",
-      "temp": 12.5,
+      "temp": 12.4,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-26T17:00",
-      "temp": 11.3,
+      "temp": 11.1,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-26T18:00",
-      "temp": 9.8,
+      "temp": 9.7,
       "precip_prob": 0,
       "weather_code": 0
     },
     {
       "time": "2026-10-26T19:00",
-      "temp": 8.6,
+      "temp": 8.5,
       "precip_prob": 0,
-      "weather_code": 0
+      "weather_code": 1
     },
     {
       "time": "2026-10-26T20:00",
       "temp": 7.7,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 0
     },
     {
       "time": "2026-10-26T21:00",
-      "temp": 7.2,
+      "temp": 7.0,
       "precip_prob": 0,
       "weather_code": 0
     },
@@ -153,47 +153,47 @@
       "time": "2026-10-26T22:00",
       "temp": 6.6,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 2
     },
     {
       "time": "2026-10-26T23:00",
       "temp": 6.3,
       "precip_prob": 0,
-      "weather_code": 1
+      "weather_code": 3
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-10-26",
-      "temp_max": 12.6,
+      "temp_max": 12.5,
       "temp_min": 1.4,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.7,
-      "weather_code": 1,
-      "description": "Преимущественно ясно"
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-10-27",
-      "temp_max": 12.0,
-      "temp_min": 2.5,
+      "temp_max": 12.4,
+      "temp_min": 2.7,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 3.2,
+      "weather_code": 3,
+      "description": "Пасмурно"
+    },
+    {
+      "date": "2026-10-28",
+      "temp_max": 14.3,
+      "temp_min": 2.9,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
-      "date": "2026-10-28",
-      "temp_max": 13.7,
-      "temp_min": 2.6,
-      "precipitation_mm": 0.0,
-      "wind_max_ms": 2.9,
-      "weather_code": 3,
-      "description": "Пасмурно"
-    },
-    {
       "date": "2026-10-29",
-      "temp_max": 14.3,
-      "temp_min": 5.2,
+      "temp_max": 14.2,
+      "temp_min": 5.8,
       "precipitation_mm": 0.0,
       "wind_max_ms": 3.0,
       "weather_code": 3,
@@ -201,31 +201,31 @@
     },
     {
       "date": "2026-10-30",
-      "temp_max": 13.9,
-      "temp_min": 4.2,
+      "temp_max": 13.2,
+      "temp_min": 4.3,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 3.0,
+      "wind_max_ms": 3.2,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-10-31",
-      "temp_max": 11.0,
-      "temp_min": 4.1,
-      "precipitation_mm": 1.0,
-      "wind_max_ms": 3.1,
-      "weather_code": 61,
-      "description": "Небольшой дождь"
+      "temp_max": 11.8,
+      "temp_min": 3.3,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 2.9,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-11-01",
       "temp_max": 7.6,
-      "temp_min": 6.0,
-      "precipitation_mm": 0.6,
-      "wind_max_ms": 1.5,
+      "temp_min": 6.2,
+      "precipitation_mm": 1.5,
+      "wind_max_ms": 1.4,
       "weather_code": 61,
       "description": "Небольшой дождь"
     }
   ],
-  "fetched_at": "2026-10-26T14:19:42.117145+00:00"
+  "fetched_at": "2026-10-26T20:32:00.543593+00:00"
 }
