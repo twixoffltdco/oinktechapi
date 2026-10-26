@@ -5,13 +5,13 @@
   "longitude": 30.3609,
   "timezone": "Europe/Moscow",
   "current": {
-    "temperature": 10.9,
-    "feels_like": 6.7,
-    "humidity": 78,
+    "temperature": 11.5,
+    "feels_like": 7.1,
+    "humidity": 71,
     "precipitation_mm": 0.0,
-    "pressure_hpa": 1011.0,
+    "pressure_hpa": 1012.0,
     "wind_speed_ms": 6.5,
-    "wind_direction_deg": 157,
+    "wind_direction_deg": 163,
     "wind_direction_text": "ЮЮВ",
     "weather_code": 3,
     "description": "Пасмурно"
@@ -61,73 +61,73 @@
     },
     {
       "time": "2026-10-26T07:00",
-      "temp": 11.3,
+      "temp": 11.6,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T08:00",
-      "temp": 11.2,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-10-26T09:00",
-      "temp": 11.0,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-10-26T10:00",
-      "temp": 11.2,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-10-26T11:00",
-      "temp": 11.4,
-      "precip_prob": 0,
-      "weather_code": 3
-    },
-    {
-      "time": "2026-10-26T12:00",
       "temp": 11.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
-      "time": "2026-10-26T13:00",
-      "temp": 11.7,
+      "time": "2026-10-26T09:00",
+      "temp": 11.5,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
-      "time": "2026-10-26T14:00",
+      "time": "2026-10-26T10:00",
+      "temp": 11.5,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
+      "time": "2026-10-26T11:00",
+      "temp": 11.6,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
+      "time": "2026-10-26T12:00",
       "temp": 11.8,
+      "precip_prob": 0,
+      "weather_code": 3
+    },
+    {
+      "time": "2026-10-26T13:00",
+      "temp": 12.0,
+      "precip_prob": 0,
+      "weather_code": 2
+    },
+    {
+      "time": "2026-10-26T14:00",
+      "temp": 12.2,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T15:00",
-      "temp": 11.8,
+      "temp": 12.2,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T16:00",
-      "temp": 11.7,
+      "temp": 12.0,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T17:00",
-      "temp": 11.4,
+      "temp": 11.7,
       "precip_prob": 0,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T18:00",
-      "temp": 11.2,
+      "temp": 11.3,
       "precip_prob": 0,
       "weather_code": 3
     },
@@ -139,7 +139,7 @@
     },
     {
       "time": "2026-10-26T20:00",
-      "temp": 10.9,
+      "temp": 10.8,
       "precip_prob": 2,
       "weather_code": 3
     },
@@ -151,13 +151,13 @@
     },
     {
       "time": "2026-10-26T22:00",
-      "temp": 10.7,
+      "temp": 10.8,
       "precip_prob": 7,
       "weather_code": 3
     },
     {
       "time": "2026-10-26T23:00",
-      "temp": 10.6,
+      "temp": 10.7,
       "precip_prob": 10,
       "weather_code": 3
     }
@@ -165,8 +165,8 @@
   "forecast_7d": [
     {
       "date": "2026-10-26",
-      "temp_max": 11.8,
-      "temp_min": 10.5,
+      "temp_max": 12.2,
+      "temp_min": 10.6,
       "precipitation_mm": 0.5,
       "wind_max_ms": 7.0,
       "weather_code": 51,
@@ -175,20 +175,20 @@
     {
       "date": "2026-10-27",
       "temp_max": 11.1,
-      "temp_min": 8.5,
+      "temp_min": 8.4,
       "precipitation_mm": 0.2,
-      "wind_max_ms": 5.3,
+      "wind_max_ms": 5.4,
       "weather_code": 51,
       "description": "Лёгкая морось"
     },
     {
       "date": "2026-10-28",
-      "temp_max": 9.5,
+      "temp_max": 9.6,
       "temp_min": 5.2,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 4.4,
-      "weather_code": 1,
-      "description": "Преимущественно ясно"
+      "wind_max_ms": 4.7,
+      "weather_code": 3,
+      "description": "Пасмурно"
     },
     {
       "date": "2026-10-29",
@@ -227,5 +227,5 @@
       "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-10-26T00:24:54.742709+00:00"
+  "fetched_at": "2026-10-26T06:18:29.669654+00:00"
 }
