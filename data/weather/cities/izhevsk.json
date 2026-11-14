@@ -5,13 +5,13 @@
   "longitude": 53.2114,
   "timezone": "Europe/Samara",
   "current": {
-    "temperature": 2.3,
-    "feels_like": -1.9,
+    "temperature": 2.9,
+    "feels_like": -0.7,
     "humidity": 94,
-    "precipitation_mm": 0.0,
-    "pressure_hpa": 1007.0,
-    "wind_speed_ms": 4.5,
-    "wind_direction_deg": 152,
+    "precipitation_mm": 0.3,
+    "pressure_hpa": 1004.0,
+    "wind_speed_ms": 3.4,
+    "wind_direction_deg": 168,
     "wind_direction_text": "ЮЮВ",
     "weather_code": 61,
     "description": "Небольшой дождь"
@@ -115,37 +115,37 @@
     },
     {
       "time": "2026-11-14T16:00",
-      "temp": 2.1,
+      "temp": 2.3,
       "precip_prob": 15,
       "weather_code": 3
     },
     {
       "time": "2026-11-14T17:00",
-      "temp": 2.2,
+      "temp": 2.3,
       "precip_prob": 18,
       "weather_code": 3
     },
     {
       "time": "2026-11-14T18:00",
-      "temp": 2.3,
-      "precip_prob": 63,
+      "temp": 2.4,
+      "precip_prob": 50,
       "weather_code": 61
     },
     {
       "time": "2026-11-14T19:00",
-      "temp": 2.4,
-      "precip_prob": 95,
+      "temp": 2.6,
+      "precip_prob": 78,
       "weather_code": 61
     },
     {
       "time": "2026-11-14T20:00",
-      "temp": 2.6,
-      "precip_prob": 100,
-      "weather_code": 61
+      "temp": 2.7,
+      "precip_prob": 95,
+      "weather_code": 55
     },
     {
       "time": "2026-11-14T21:00",
-      "temp": 2.7,
+      "temp": 2.8,
       "precip_prob": 100,
       "weather_code": 61
     },
@@ -158,74 +158,74 @@
     {
       "time": "2026-11-14T23:00",
       "temp": 2.9,
-      "precip_prob": 95,
+      "precip_prob": 98,
       "weather_code": 61
     }
   ],
   "forecast_7d": [
     {
       "date": "2026-11-14",
-      "temp_max": 3.0,
+      "temp_max": 3.1,
       "temp_min": 0.3,
-      "precipitation_mm": 4.3,
-      "wind_max_ms": 4.5,
+      "precipitation_mm": 4.7,
+      "wind_max_ms": 4.6,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-11-15",
-      "temp_max": 3.8,
-      "temp_min": -0.5,
-      "precipitation_mm": 1.6,
+      "temp_max": 3.9,
+      "temp_min": -0.3,
+      "precipitation_mm": 2.6,
       "wind_max_ms": 3.3,
       "weather_code": 61,
       "description": "Небольшой дождь"
     },
     {
       "date": "2026-11-16",
-      "temp_max": -0.0,
-      "temp_min": -1.9,
+      "temp_max": -0.3,
+      "temp_min": -2.4,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.8,
+      "wind_max_ms": 1.4,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-11-17",
-      "temp_max": -0.7,
+      "temp_max": -1.4,
       "temp_min": -2.0,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 1.5,
+      "wind_max_ms": 1.1,
       "weather_code": 3,
       "description": "Пасмурно"
     },
     {
       "date": "2026-11-18",
-      "temp_max": -2.0,
-      "temp_min": -3.8,
+      "temp_max": -0.7,
+      "temp_min": -1.8,
       "precipitation_mm": 0.0,
-      "wind_max_ms": 2.7,
-      "weather_code": 3,
-      "description": "Пасмурно"
+      "wind_max_ms": 2.9,
+      "weather_code": 45,
+      "description": "Туман"
     },
     {
       "date": "2026-11-19",
-      "temp_max": -0.5,
-      "temp_min": -3.7,
-      "precipitation_mm": 1.6,
-      "wind_max_ms": 3.6,
-      "weather_code": 77,
-      "description": "Снежная крупа"
+      "temp_max": 0.1,
+      "temp_min": -2.5,
+      "precipitation_mm": 1.8,
+      "wind_max_ms": 3.5,
+      "weather_code": 71,
+      "description": "Небольшой снег"
     },
     {
       "date": "2026-11-20",
-      "temp_max": 0.2,
-      "temp_min": -0.5,
-      "precipitation_mm": 2.3,
-      "wind_max_ms": 2.5,
-      "weather_code": 66,
-      "description": "Неизвестно"
+      "temp_max": 1.9,
+      "temp_min": 0.1,
+      "precipitation_mm": 0.0,
+      "wind_max_ms": 3.9,
+      "weather_code": 3,
+      "description": "Пасмурно"
     }
   ],
-  "fetched_at": "2026-11-14T14:12:00.731845+00:00"
+  "fetched_at": "2026-11-14T19:13:32.147503+00:00"
 }
